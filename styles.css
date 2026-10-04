@@ -23,6 +23,7 @@ dialog#gallery{border:1px solid #876046;background:#110c0f;color:var(--ink);padd
 
 /* Compact collection header. */
 .library-heading{display:flex;align-items:center;justify-content:space-between;gap:40px;padding:42px 0 28px;border-bottom:1px solid var(--line)}
+.library-title{display:flex;align-items:center;gap:24px}.kickstarter-link{font-size:13px;color:var(--gold);white-space:nowrap}
 .library-heading h1{font:500 44px/1.1 var(--serif);margin:0}
 .all-panel{display:flex;align-items:center;gap:30px}
 .package-label{font:600 10px/1.5 var(--sans);letter-spacing:1.6px;color:var(--gold)}
@@ -33,5 +34,6 @@ dialog#gallery{border:1px solid #876046;background:#110c0f;color:var(--ink);padd
 .publish-note{margin:14px 0 0;color:var(--muted);font-size:12px}
 .section-header{display:block;margin-bottom:24px}.locked-section .section-header{margin:0}
 .campaign-section{padding-top:40px}
+@media(max-width:1100px){.library-title{flex-direction:column;align-items:flex-start;gap:8px}}
 @media(max-width:850px){.library-heading{gap:24px}.all-panel{gap:18px}.library-heading h1{font-size:38px}.archive-action{min-width:160px}}
 @media(max-width:600px){.library-heading{display:block;padding:30px 0 20px}.library-heading h1{font-size:38px}.all-panel{margin-top:20px;display:block}.archive-action{display:flex;align-items:center;gap:15px;margin-top:14px;text-align:left}.archive-action .button{width:auto;min-width:170px}.file-size{margin:0}.publish-note{line-height:1.6}.section-header{margin-bottom:20px}.locked-section .section-header{margin-bottom:15px}.campaign-section{padding-top:32px}}
