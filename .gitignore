@@ -1,0 +1,6 @@
+downloads/
+*.zip
+*.rar
+*.stl
+*.chitubox
+.env*
