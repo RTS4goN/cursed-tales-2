@@ -10,38 +10,26 @@
 </head>
 <body>
 <a class="skip" href="#collection">К моделям</a>
-<header class="top" id="top">
-<a class="brand" href="#top" aria-label="Cursed Tales II, главная"><span class="mark" aria-hidden="true">II</span><span>Cursed Tales <small>ELYSIAN STUDIO</small></span></a>
-<span class="top-label">Библиотека бекера</span>
-<a class="campaign-link" href="https://www.kickstarter.com/projects/elysianstudio/cursed-tales-2" target="_blank" rel="noopener noreferrer">Кампания <span aria-hidden="true">↗</span></a>
-</header>
-<main>
-<section class="intro" aria-labelledby="page-title">
-<div class="intro-copy"><p class="eyebrow">THE GRIMMSWOOD ARCHIVE</p>
-<img class="campaign-logo" src="assets/brand/logo.png" alt="Cursed Tales — Chapter II" width="948" height="915" fetchpriority="high">
-<h1 id="page-title">Ваша коллекция.</h1><p class="intro-description">Все тропы ведут в Grimmswood.<br> Миниатюры и файлы вашей главы.</p>
-<a class="text-link" href="#collection">Открыть коллекцию <span aria-hidden="true">↓</span></a></div>
-<div class="hero-art" aria-hidden="true"><span class="hero-numeral">II</span><div class="hero-halo"></div>
-<img class="hero-figure hero-marrok" src="assets/brand/hero-marrok.png" alt="" width="1600" height="1800" fetchpriority="high">
-<img class="hero-figure hero-briar" src="assets/brand/hero-briar.png" alt="" width="1600" height="1800" fetchpriority="high">
-<div class="hero-caption"><span>FOUR TALES. ONE CURSED WOOD.</span><span class="suits">♦ ♠ ♣ ♥</span></div></div>
+<main id="top">
+<header class="library-heading">
+<h1 id="page-title">Коллекция</h1>
+<section class="all-panel" aria-label="Полная коллекция">
+<div class="archive-copy"><span class="package-label">ПОЛНАЯ КОЛЛЕКЦИЯ</span><p>STL, Chitubox и рендеры одним ZIP.</p></div>
+<div class="archive-action"><a id="download-all" class="button primary" download><span>Скачать всё</span></a><span id="all-size" class="file-size"></span></div>
 </section>
-<section class="all-panel" aria-label="Полная коллекция"><span class="archive-emblem" aria-hidden="true">♦</span>
-<div class="archive-copy"><span class="package-label">ПОЛНОЕ СОБРАНИЕ</span><h2>Вся история — одним архивом</h2><p>STL, Chitubox и рендеры</p></div>
-<div class="archive-action"><a id="download-all" class="button primary" download><span>Скачать коллекцию</span><span aria-hidden="true">↓</span></a><span id="all-size" class="file-size"></span></div></section>
-<p id="publish-note" class="publish-note" hidden><span aria-hidden="true">◈</span> Архивы готовятся к публикации. Галереи и состав комплектов уже доступны.</p>
-<nav class="chapter-nav" aria-label="Разделы коллекции"><span class="nav-label">В КОЛЛЕКЦИИ</span><a href="#core">Персонажи</a><a href="#busts">Бюсты</a><a href="#chibi">Chibi</a><a href="#diorama">Диорама</a><a href="#stretch">Бонусы</a></nav>
+</header>
+<p id="publish-note" class="publish-note" hidden>Архивы пока не опубликованы. Кнопки скачивания станут доступны после их загрузки.</p>
 <section id="collection" class="collection" aria-label="Коллекция"><div id="cards"></div></section>
 </main>
-<footer><a class="footer-brand" href="#top">Cursed Tales <span>II</span></a><p>Создано Elysian Studio.<br>Спасибо, что стали частью этой истории.</p><a class="text-link" href="#top">К началу <span aria-hidden="true">↑</span></a></footer>
+<footer><span class="footer-brand">Cursed Tales <span>II</span></span><a class="text-link" href="#collection">К коллекции <span aria-hidden="true">↑</span></a></footer>
 <dialog id="gallery" aria-labelledby="gallery-title">
-<div class="dialog-head"><div><p class="eyebrow">ИЗ АРХИВА GRIMMSWOOD</p><h2 id="gallery-title"></h2></div><button id="close-gallery" class="close" aria-label="Закрыть просмотр"><span class="close-label">Закрыть</span><span aria-hidden="true">×</span></button></div>
+<div class="dialog-head"><div><p class="eyebrow">ПЕРСОНАЖ И ФАЙЛЫ</p><h2 id="gallery-title"></h2></div><button id="close-gallery" class="close" aria-label="Закрыть просмотр"><span class="close-label">Закрыть</span><span aria-hidden="true">×</span></button></div>
 <div class="character-layout"><section class="character-gallery" aria-label="Галерея рендеров">
 <div id="gallery-variants" class="variants" hidden><button data-variant="SFW" aria-pressed="true">SFW</button><button data-variant="NSFW" aria-pressed="false">NSFW</button></div>
 <div class="gallery-stage"><img id="gallery-image" alt=""></div>
 <div class="gallery-controls"><button id="prev" class="button secondary" aria-label="Предыдущий рендер">← Назад</button><span id="gallery-counter" aria-live="polite"></span><button id="next" class="button secondary" aria-label="Следующий рендер">Дальше →</button></div>
 <div id="gallery-thumbnails" class="gallery-thumbnails" aria-label="Выбор рендера"></div><p id="gallery-note" class="gallery-note"></p>
-<div class="lore"><p id="character-role" class="eyebrow"></p><h3>Из истории персонажа</h3><p id="character-lore"></p><a href="https://www.kickstarter.com/projects/elysianstudio/cursed-tales-2" target="_blank" rel="noopener noreferrer">Лор на Kickstarter ↗</a></div></section>
-<section class="character-files" aria-label="Файлы персонажа"><p class="eyebrow">ВАШ КОМПЛЕКТ</p><h3>Забрать в коллекцию</h3><div id="character-downloads" class="character-downloads"></div><p id="shared-project-note" class="shared-note" hidden>Chibi используют общий проект Chitubox.</p><h3 class="file-list-heading">Состав архива <span id="file-count"></span></h3><div id="character-file-list"></div></section></div>
+<div class="lore"><p id="character-role" class="eyebrow"></p><h3>История персонажа</h3><p id="character-lore"></p><a href="https://www.kickstarter.com/projects/elysianstudio/cursed-tales-2" target="_blank" rel="noopener noreferrer">Лор на Kickstarter ↗</a></div></section>
+<section class="character-files" aria-label="Файлы персонажа"><h3>Скачать</h3><div id="character-downloads" class="character-downloads"></div><p id="shared-project-note" class="shared-note" hidden>Chibi используют общий проект Chitubox.</p><h3 class="file-list-heading">Файлы <span id="file-count"></span></h3><div id="character-file-list"></div></section></div>
 </dialog>
 </body></html>
