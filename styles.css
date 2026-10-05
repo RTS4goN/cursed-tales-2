@@ -42,3 +42,11 @@ dialog#gallery{border:1px solid #876046;background:#110c0f;color:var(--ink);padd
 @media(max-width:600px){.library-heading{display:block;padding:30px 0 20px}.library-heading h1{font-size:38px;gap:13px}.project-card{flex-basis:46px;height:66px;font-size:28px}.project-suit{font-size:20px}.all-panel{margin-top:20px;display:block}.archive-action{display:flex;align-items:center;gap:15px;margin-top:14px;text-align:left}.archive-action .button{width:auto;min-width:170px}.file-size{margin:0}.publish-note{line-height:1.6}.section-header{margin-bottom:20px}.locked-section .section-header{margin-bottom:15px}.campaign-section{padding-top:32px}}
 
 .card.missing-card:not(.unavailable) .missing{font-size:24px;font-weight:800;color:#ff5e68;line-height:1.2;margin:12px 0}
+
+/* Larger bust previews, with captions below to keep the renders unobstructed. */
+.bust-section .grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:28px 32px}
+.bust-section .card{display:flex;flex-direction:column;align-items:center;gap:18px;padding:24px 0}
+.bust-section .cover{width:376px;max-width:100%;height:auto;aspect-ratio:94/112;flex-shrink:0}
+.bust-section .card-body{text-align:center}
+.bust-section .character-title{text-align:center}
+@media(max-width:600px){.bust-section .grid{grid-template-columns:1fr;gap:20px}.bust-section .cover{width:320px;aspect-ratio:80/92}.bust-section .card{padding:22px 0}}
