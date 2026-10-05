@@ -3546,7 +3546,7 @@ window.CATALOG = {
     "path": "https://drive.google.com/uc?export=download&id=1R7u7cpIWenurWHEeNIqOUXtv9AFyzlHV",
     "bytes": 3177166030,
     "files": 342,
-    "caption": "Скачать доступный комплект"
+    "caption": "Скачать всю коллекцию"
   },
   "mode": "online",
   "downloadNote": "Некоторые архивы ещё загружаются. Доступные ZIP можно скачать; отдельные файлы находятся внутри комплектов. В общем архиве пока нет последних рендеров Madame Corvin и бюстов."
