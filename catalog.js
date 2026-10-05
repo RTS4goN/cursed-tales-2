@@ -16,12 +16,12 @@ window.CATALOG = {
         }
       ],
       "model": {
-        "path": "https://drive.google.com/uc?export=download&id=1OfEqrZSVL2FkaY_zDMmn2PmbXSxaElJa",
+        "path": "https://drive.usercontent.google.com/download?id=1OfEqrZSVL2FkaY_zDMmn2PmbXSxaElJa&export=download&confirm=t",
         "bytes": 248152542,
         "files": 22
       },
       "renders": {
-        "path": "https://drive.google.com/uc?export=download&id=1EmB5r-sasAPE7nEURkvyFLtOWd3tbarw",
+        "path": "https://drive.usercontent.google.com/download?id=1EmB5r-sasAPE7nEURkvyFLtOWd3tbarw&export=download&confirm=t",
         "bytes": 42367,
         "files": 1
       },
@@ -236,7 +236,7 @@ window.CATALOG = {
         }
       ],
       "chitubox": {
-        "path": "https://drive.google.com/uc?export=download&id=10uZZTM1Bb7lK9KqR-BzAzNkjucXT8DtL",
+        "path": "https://drive.usercontent.google.com/download?id=10uZZTM1Bb7lK9KqR-BzAzNkjucXT8DtL&export=download&confirm=t",
         "bytes": 78294308,
         "files": 1
       }
@@ -272,13 +272,13 @@ window.CATALOG = {
         }
       ],
       "model": {
-        "path": "https://drive.google.com/uc?export=download&id=1OnpiwBIVzMNXALFMM27kGoNyIz_yT42R",
+        "path": "https://drive.usercontent.google.com/download?id=1OnpiwBIVzMNXALFMM27kGoNyIz_yT42R&export=download&confirm=t",
         "bytes": 272002054,
         "files": 41
       },
       "renders": {
-        "path": "https://drive.google.com/uc?export=download&id=1Q-lKig8zheGoTGWFq_Mb3AqCRvZ5BVY0",
-        "bytes": 104333312,
+        "path": "https://drive.usercontent.google.com/download?id=1Q-lKig8zheGoTGWFq_Mb3AqCRvZ5BVY0&export=download&confirm=t",
+        "bytes": 104379921,
         "files": 7
       },
       "previewNote": "",
@@ -723,7 +723,7 @@ window.CATALOG = {
         }
       ],
       "chitubox": {
-        "path": "https://drive.google.com/uc?export=download&id=1N57LTCmesFnD3TaDsGaZzE5cjRrDo7U1",
+        "path": "https://drive.usercontent.google.com/download?id=1N57LTCmesFnD3TaDsGaZzE5cjRrDo7U1&export=download&confirm=t",
         "bytes": 86791095,
         "files": 2
       }
@@ -804,13 +804,13 @@ window.CATALOG = {
         }
       ],
       "model": {
-        "path": "https://drive.google.com/uc?export=download&id=1OXsz4IwS744fiUKTeHIS3_BFHz0RzcoY",
+        "path": "https://drive.usercontent.google.com/download?id=1OXsz4IwS744fiUKTeHIS3_BFHz0RzcoY&export=download&confirm=t",
         "bytes": 379545182,
         "files": 40
       },
       "renders": {
-        "path": "https://drive.google.com/uc?export=download&id=1p235Atxt_jIKvF7bO0OHPVVEsozPC5O-",
-        "bytes": 144493773,
+        "path": "https://drive.usercontent.google.com/download?id=1p235Atxt_jIKvF7bO0OHPVVEsozPC5O-&export=download&confirm=t",
+        "bytes": 144473573,
         "files": 15
       },
       "previewNote": "",
@@ -1318,7 +1318,7 @@ window.CATALOG = {
         }
       ],
       "chitubox": {
-        "path": "https://drive.google.com/uc?export=download&id=12AtJcytcA73uZfQuF32xBpUjCdShYbLo",
+        "path": "https://drive.usercontent.google.com/download?id=12AtJcytcA73uZfQuF32xBpUjCdShYbLo&export=download&confirm=t",
         "bytes": 129020756,
         "files": 2
       }
@@ -1342,12 +1342,12 @@ window.CATALOG = {
         }
       ],
       "model": {
-        "path": "https://drive.google.com/uc?export=download&id=19KHYUvBCb8X6PfnCrcVeDpGM__oT1p9h",
+        "path": "https://drive.usercontent.google.com/download?id=19KHYUvBCb8X6PfnCrcVeDpGM__oT1p9h&export=download&confirm=t",
         "bytes": 90456082,
         "files": 8
       },
       "renders": {
-        "path": "https://drive.google.com/uc?export=download&id=1f4haiJ7AfOTgtif3yx2BCoWpSiXduNg9",
+        "path": "https://drive.usercontent.google.com/download?id=1f4haiJ7AfOTgtif3yx2BCoWpSiXduNg9&export=download&confirm=t",
         "bytes": 9274106,
         "files": 2
       },
@@ -1455,7 +1455,7 @@ window.CATALOG = {
         }
       ],
       "chitubox": {
-        "path": "https://drive.google.com/uc?export=download&id=1arTBE78mncIoDMDmzp1rHkmnnLT9EoIW",
+        "path": "https://drive.usercontent.google.com/download?id=1arTBE78mncIoDMDmzp1rHkmnnLT9EoIW&export=download&confirm=t",
         "bytes": 109517817,
         "files": 1
       }
@@ -1495,12 +1495,12 @@ window.CATALOG = {
         }
       ],
       "model": {
-        "path": "https://drive.google.com/uc?export=download&id=1dxQQbjNuo_z7idd6uVbpmAnDzxVB5Ayi",
+        "path": "https://drive.usercontent.google.com/download?id=1dxQQbjNuo_z7idd6uVbpmAnDzxVB5Ayi&export=download&confirm=t",
         "bytes": 139036265,
         "files": 16
       },
       "renders": {
-        "path": "https://drive.google.com/uc?export=download&id=1o7XpmZwVFA0m_mpHgLvKUUVrBF6t_hcZ",
+        "path": "https://drive.usercontent.google.com/download?id=1o7XpmZwVFA0m_mpHgLvKUUVrBF6t_hcZ&export=download&confirm=t",
         "bytes": 28496745,
         "files": 6
       },
@@ -1716,7 +1716,7 @@ window.CATALOG = {
         }
       ],
       "chitubox": {
-        "path": "https://drive.google.com/uc?export=download&id=1arTBE78mncIoDMDmzp1rHkmnnLT9EoIW",
+        "path": "https://drive.usercontent.google.com/download?id=1arTBE78mncIoDMDmzp1rHkmnnLT9EoIW&export=download&confirm=t",
         "bytes": 109517817,
         "files": 1
       }
@@ -1740,12 +1740,12 @@ window.CATALOG = {
         }
       ],
       "model": {
-        "path": "https://drive.google.com/uc?export=download&id=1DeO_di1_6VHVoH9__0YHJwGvLRIX17ZV",
+        "path": "https://drive.usercontent.google.com/download?id=1DeO_di1_6VHVoH9__0YHJwGvLRIX17ZV&export=download&confirm=t",
         "bytes": 140815732,
         "files": 16
       },
       "renders": {
-        "path": "https://drive.google.com/uc?export=download&id=1LYkiDZbxD8wTKz6VbVE143IxezZ2DXG4",
+        "path": "https://drive.usercontent.google.com/download?id=1LYkiDZbxD8wTKz6VbVE143IxezZ2DXG4&export=download&confirm=t",
         "bytes": 9538675,
         "files": 2
       },
@@ -1925,7 +1925,7 @@ window.CATALOG = {
         }
       ],
       "chitubox": {
-        "path": "https://drive.google.com/uc?export=download&id=1arTBE78mncIoDMDmzp1rHkmnnLT9EoIW",
+        "path": "https://drive.usercontent.google.com/download?id=1arTBE78mncIoDMDmzp1rHkmnnLT9EoIW&export=download&confirm=t",
         "bytes": 109517817,
         "files": 1
       }
@@ -1949,12 +1949,12 @@ window.CATALOG = {
         }
       ],
       "model": {
-        "path": "https://drive.google.com/uc?export=download&id=1MJnKr30NVda7pbkfev4NcpIAx5Yngf9j",
+        "path": "https://drive.usercontent.google.com/download?id=1MJnKr30NVda7pbkfev4NcpIAx5Yngf9j&export=download&confirm=t",
         "bytes": 131049969,
         "files": 5
       },
       "renders": {
-        "path": "https://drive.google.com/uc?export=download&id=1Z9NkHH86NTinooO29mJPgpRDjSLZXcO6",
+        "path": "https://drive.usercontent.google.com/download?id=1Z9NkHH86NTinooO29mJPgpRDjSLZXcO6&export=download&confirm=t",
         "bytes": 60951617,
         "files": 3
       },
@@ -2034,7 +2034,7 @@ window.CATALOG = {
         }
       ],
       "chitubox": {
-        "path": "https://drive.google.com/uc?export=download&id=1ULMObK4a4pnPcHZkWrmCmklNk0VhVvHt",
+        "path": "https://drive.usercontent.google.com/download?id=1ULMObK4a4pnPcHZkWrmCmklNk0VhVvHt&export=download&confirm=t",
         "bytes": 51589421,
         "files": 1
       }
@@ -2235,12 +2235,12 @@ window.CATALOG = {
         }
       ],
       "model": {
-        "path": "https://drive.google.com/uc?export=download&id=1-wMOGc4OWjjuPdhxEWUPCptJPnqWXMbL",
+        "path": "https://drive.usercontent.google.com/download?id=1-wMOGc4OWjjuPdhxEWUPCptJPnqWXMbL&export=download&confirm=t",
         "bytes": 176167114,
         "files": 17
       },
       "renders": {
-        "path": "https://drive.google.com/uc?export=download&id=1kewn7Yt3ky4Jc1GeEaHuRDztP9oJGMei",
+        "path": "https://drive.usercontent.google.com/download?id=1kewn7Yt3ky4Jc1GeEaHuRDztP9oJGMei&export=download&confirm=t",
         "bytes": 24741,
         "files": 1
       },
@@ -2410,7 +2410,7 @@ window.CATALOG = {
         }
       ],
       "chitubox": {
-        "path": "https://drive.google.com/uc?export=download&id=13UIEYsr_YwEeQvbUbyWeEeKih475LikG",
+        "path": "https://drive.usercontent.google.com/download?id=13UIEYsr_YwEeQvbUbyWeEeKih475LikG&export=download&confirm=t",
         "bytes": 54379092,
         "files": 1
       }
@@ -2481,7 +2481,7 @@ window.CATALOG = {
         }
       ],
       "model": {
-        "path": "https://drive.google.com/uc?export=download&id=1kayXCtsbEZWnVSaj0ZF4-_Mv0Y_n-MHf",
+        "path": "https://drive.usercontent.google.com/download?id=1kayXCtsbEZWnVSaj0ZF4-_Mv0Y_n-MHf&export=download&confirm=t",
         "bytes": 335024748,
         "files": 33
       },
@@ -2941,7 +2941,7 @@ window.CATALOG = {
         }
       ],
       "chitubox": {
-        "path": "https://drive.google.com/uc?export=download&id=1vrK-d_I6fTqdYuzXbjhvx1nusuvXSTzT",
+        "path": "https://drive.usercontent.google.com/download?id=1vrK-d_I6fTqdYuzXbjhvx1nusuvXSTzT&export=download&confirm=t",
         "bytes": 92865154,
         "files": 2
       }
@@ -3543,7 +3543,7 @@ window.CATALOG = {
     }
   ],
   "all": {
-    "path": "https://drive.google.com/uc?export=download&id=1R7u7cpIWenurWHEeNIqOUXtv9AFyzlHV",
+    "path": "https://drive.usercontent.google.com/download?id=1R7u7cpIWenurWHEeNIqOUXtv9AFyzlHV&export=download&confirm=t",
     "bytes": 3177166030,
     "files": 342,
     "caption": "Скачать всю коллекцию"
