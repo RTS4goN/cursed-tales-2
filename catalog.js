@@ -245,13 +245,21 @@ window.CATALOG = {
       "id": "bloodhood",
       "name": "BloodHood",
       "category": "characters",
-      "cover": "assets/bloodhood/cover.webp",
+      "cover": "assets/bloodhood/cover-c18f53cd0513.webp",
       "stlCount": 39,
       "supported": true,
       "bust": true,
       "gallery": [
         {
-          "src": "assets/bloodhood/render-0.webp",
+          "src": "assets/bloodhood/render-7846237bd8c5.webp",
+          "label": "Рендер"
+        },
+        {
+          "src": "assets/bloodhood/render-31aadba5b77a.webp",
+          "label": "Рендер"
+        },
+        {
+          "src": "assets/bloodhood/render-01fbe6c06a09.webp",
           "label": "Рендер"
         }
       ],
@@ -262,10 +270,10 @@ window.CATALOG = {
       },
       "renders": {
         "path": null,
-        "bytes": 5068582,
-        "files": 1
+        "bytes": 104379921,
+        "files": 5
       },
-      "previewNote": "Рендер общей диорамы",
+      "previewNote": "",
       "files": [
         {
           "name": "Bust_BloodHood_Base.stl",
@@ -637,12 +645,48 @@ window.CATALOG = {
           "path": null
         },
         {
-          "name": "Общая диорама.png",
-          "relative": "Рендеры/Общая диорама.png",
-          "group": "Рендеры",
+          "name": "Color_Portrait Close.png",
+          "relative": "Рендеры/SFW/Изображения/Color_Portrait Close.png",
+          "group": "Рендеры/SFW/Изображения",
           "type": "render",
-          "bytes": 5067421,
-          "key": "file:bloodhood:Рендеры/Общая диорама.png",
+          "bytes": 4883094,
+          "key": "file:bloodhood:Рендеры/SFW/Изображения/Color_Portrait Close.png",
+          "path": null
+        },
+        {
+          "name": "Color_Portrait Close_001.png",
+          "relative": "Рендеры/SFW/Изображения/Color_Portrait Close_001.png",
+          "group": "Рендеры/SFW/Изображения",
+          "type": "render",
+          "bytes": 4984274,
+          "key": "file:bloodhood:Рендеры/SFW/Изображения/Color_Portrait Close_001.png",
+          "path": null
+        },
+        {
+          "name": "Color_Portrait Close_002.png",
+          "relative": "Рендеры/SFW/Изображения/Color_Portrait Close_002.png",
+          "group": "Рендеры/SFW/Изображения",
+          "type": "render",
+          "bytes": 4844967,
+          "key": "file:bloodhood:Рендеры/SFW/Изображения/Color_Portrait Close_002.png",
+          "path": null
+        },
+        {
+          "name": "Video_Portrait Close.mp4",
+          "relative": "Рендеры/Видео/Video_Portrait Close.mp4",
+          "group": "Рендеры/Видео",
+          "type": "render",
+          "bytes": 47157963,
+          "key": "file:bloodhood:Рендеры/Видео/Video_Portrait Close.mp4",
+          "path": null
+        },
+        {
+          "name": "Video_Portrait Close_001.mp4",
+          "relative": "Рендеры/Видео/Video_Portrait Close_001.mp4",
+          "group": "Рендеры/Видео",
+          "type": "render",
+          "bytes": 42590134,
+          "key": "file:bloodhood:Рендеры/Видео/Video_Portrait Close_001.mp4",
           "path": null
         }
       ],
@@ -656,13 +700,53 @@ window.CATALOG = {
       "id": "briar-vess",
       "name": "BriarVess",
       "category": "characters",
-      "cover": "assets/briar-vess/cover.webp",
+      "cover": "assets/briar-vess/cover-cb5a0c14566d.webp",
       "stlCount": 38,
       "supported": true,
       "bust": true,
       "gallery": [
         {
-          "src": "assets/briar-vess/render-0.webp",
+          "src": "assets/briar-vess/render-bd644b8737d6.webp",
+          "label": "NSFW"
+        },
+        {
+          "src": "assets/briar-vess/render-014c15291561.webp",
+          "label": "NSFW"
+        },
+        {
+          "src": "assets/briar-vess/render-94959221b805.webp",
+          "label": "NSFW"
+        },
+        {
+          "src": "assets/briar-vess/render-04145f382de9.webp",
+          "label": "Рендер"
+        },
+        {
+          "src": "assets/briar-vess/render-490453e77892.webp",
+          "label": "Рендер"
+        },
+        {
+          "src": "assets/briar-vess/render-09685f21daf3.webp",
+          "label": "Рендер"
+        },
+        {
+          "src": "assets/briar-vess/render-f951d6927718.webp",
+          "label": "Рендер"
+        },
+        {
+          "src": "assets/briar-vess/render-d029f89bb399.webp",
+          "label": "Рендер"
+        },
+        {
+          "src": "assets/briar-vess/render-c55067b8ddde.webp",
+          "label": "Рендер"
+        },
+        {
+          "src": "assets/briar-vess/render-74a721e9381a.webp",
+          "label": "Рендер"
+        },
+        {
+          "src": "assets/briar-vess/render-7d49108dc22b.webp",
           "label": "Рендер"
         }
       ],
@@ -673,10 +757,10 @@ window.CATALOG = {
       },
       "renders": {
         "path": null,
-        "bytes": 5068582,
-        "files": 1
+        "bytes": 144473573,
+        "files": 13
       },
-      "previewNote": "Рендер общей диорамы",
+      "previewNote": "",
       "files": [
         {
           "name": "BustLittleHood_Axe.stl",
@@ -1039,12 +1123,120 @@ window.CATALOG = {
           "path": null
         },
         {
-          "name": "Общая диорама.png",
-          "relative": "Рендеры/Общая диорама.png",
-          "group": "Рендеры",
+          "name": "Picture_Portrait Close_005.png",
+          "relative": "Рендеры/NSFW/Изображения/Picture_Portrait Close_005.png",
+          "group": "Рендеры/NSFW/Изображения",
           "type": "render",
-          "bytes": 5067421,
-          "key": "file:briar-vess:Рендеры/Общая диорама.png",
+          "bytes": 4887313,
+          "key": "file:briar-vess:Рендеры/NSFW/Изображения/Picture_Portrait Close_005.png",
+          "path": null
+        },
+        {
+          "name": "Picture_Portrait Close_006.png",
+          "relative": "Рендеры/NSFW/Изображения/Picture_Portrait Close_006.png",
+          "group": "Рендеры/NSFW/Изображения",
+          "type": "render",
+          "bytes": 4851240,
+          "key": "file:briar-vess:Рендеры/NSFW/Изображения/Picture_Portrait Close_006.png",
+          "path": null
+        },
+        {
+          "name": "Picture_Portrait Close_007.png",
+          "relative": "Рендеры/NSFW/Изображения/Picture_Portrait Close_007.png",
+          "group": "Рендеры/NSFW/Изображения",
+          "type": "render",
+          "bytes": 4876466,
+          "key": "file:briar-vess:Рендеры/NSFW/Изображения/Picture_Portrait Close_007.png",
+          "path": null
+        },
+        {
+          "name": "Picture_Portrait Close.png",
+          "relative": "Рендеры/SFW/Изображения/Picture_Portrait Close.png",
+          "group": "Рендеры/SFW/Изображения",
+          "type": "render",
+          "bytes": 4918071,
+          "key": "file:briar-vess:Рендеры/SFW/Изображения/Picture_Portrait Close.png",
+          "path": null
+        },
+        {
+          "name": "Picture_Portrait Close_001.png",
+          "relative": "Рендеры/SFW/Изображения/Picture_Portrait Close_001.png",
+          "group": "Рендеры/SFW/Изображения",
+          "type": "render",
+          "bytes": 4914372,
+          "key": "file:briar-vess:Рендеры/SFW/Изображения/Picture_Portrait Close_001.png",
+          "path": null
+        },
+        {
+          "name": "Picture_Portrait Close_002.png",
+          "relative": "Рендеры/SFW/Изображения/Picture_Portrait Close_002.png",
+          "group": "Рендеры/SFW/Изображения",
+          "type": "render",
+          "bytes": 4878169,
+          "key": "file:briar-vess:Рендеры/SFW/Изображения/Picture_Portrait Close_002.png",
+          "path": null
+        },
+        {
+          "name": "Picture_Portrait Close_003.png",
+          "relative": "Рендеры/SFW/Изображения/Picture_Portrait Close_003.png",
+          "group": "Рендеры/SFW/Изображения",
+          "type": "render",
+          "bytes": 4883353,
+          "key": "file:briar-vess:Рендеры/SFW/Изображения/Picture_Portrait Close_003.png",
+          "path": null
+        },
+        {
+          "name": "Picture_Portrait Close_004.png",
+          "relative": "Рендеры/SFW/Изображения/Picture_Portrait Close_004.png",
+          "group": "Рендеры/SFW/Изображения",
+          "type": "render",
+          "bytes": 4946294,
+          "key": "file:briar-vess:Рендеры/SFW/Изображения/Picture_Portrait Close_004.png",
+          "path": null
+        },
+        {
+          "name": "Picture_Portrait Close_008.png",
+          "relative": "Рендеры/SFW/Изображения/Picture_Portrait Close_008.png",
+          "group": "Рендеры/SFW/Изображения",
+          "type": "render",
+          "bytes": 4834688,
+          "key": "file:briar-vess:Рендеры/SFW/Изображения/Picture_Portrait Close_008.png",
+          "path": null
+        },
+        {
+          "name": "Picture_Portrait Close_009.png",
+          "relative": "Рендеры/SFW/Изображения/Picture_Portrait Close_009.png",
+          "group": "Рендеры/SFW/Изображения",
+          "type": "render",
+          "bytes": 4856660,
+          "key": "file:briar-vess:Рендеры/SFW/Изображения/Picture_Portrait Close_009.png",
+          "path": null
+        },
+        {
+          "name": "Picture_Portrait Close_010.png",
+          "relative": "Рендеры/SFW/Изображения/Picture_Portrait Close_010.png",
+          "group": "Рендеры/SFW/Изображения",
+          "type": "render",
+          "bytes": 4797980,
+          "key": "file:briar-vess:Рендеры/SFW/Изображения/Picture_Portrait Close_010.png",
+          "path": null
+        },
+        {
+          "name": "Video_Portrait Close.mp4",
+          "relative": "Рендеры/Видео/Video_Portrait Close.mp4",
+          "group": "Рендеры/Видео",
+          "type": "render",
+          "bytes": 46581661,
+          "key": "file:briar-vess:Рендеры/Видео/Video_Portrait Close.mp4",
+          "path": null
+        },
+        {
+          "name": "Video_Portrait Close_001.mp4",
+          "relative": "Рендеры/Видео/Video_Portrait Close_001.mp4",
+          "group": "Рендеры/Видео",
+          "type": "render",
+          "bytes": 44354609,
+          "key": "file:briar-vess:Рендеры/Видео/Video_Portrait Close_001.mp4",
           "path": null
         }
       ],
@@ -1665,17 +1857,17 @@ window.CATALOG = {
       "id": "diorama",
       "name": "Diorama",
       "category": "diorama",
-      "cover": "assets/diorama/cover.webp",
+      "cover": "assets/diorama/cover-d74bdc1f34ef.webp",
       "stlCount": 4,
       "supported": true,
       "bust": false,
       "gallery": [
         {
-          "src": "assets/diorama/render-0.webp",
+          "src": "assets/diorama/render-7e6e8238124f.webp",
           "label": "Рендер"
         },
         {
-          "src": "assets/diorama/render-1.webp",
+          "src": "assets/diorama/render-70dec03884e2.webp",
           "label": "Рендер"
         }
       ],
@@ -1686,8 +1878,8 @@ window.CATALOG = {
       },
       "renders": {
         "path": null,
-        "bytes": 9987919,
-        "files": 2
+        "bytes": 60951617,
+        "files": 3
       },
       "previewNote": "",
       "files": [
@@ -1753,6 +1945,15 @@ window.CATALOG = {
           "bytes": 4918027,
           "key": "file:diorama:Рендеры/Color_Portrait Close_001.png",
           "path": null
+        },
+        {
+          "name": "Video_Portrait Close.mp4",
+          "relative": "Рендеры/Видео/Video_Portrait Close.mp4",
+          "group": "Рендеры/Видео",
+          "type": "render",
+          "bytes": 51006727,
+          "key": "file:diorama:Рендеры/Видео/Video_Portrait Close.mp4",
+          "path": null
         }
       ],
       "chitubox": {
@@ -1760,6 +1961,110 @@ window.CATALOG = {
         "bytes": 51589421,
         "files": 1
       }
+    },
+    {
+      "id": "the-beast",
+      "name": "The Beast",
+      "category": "characters",
+      "cover": "assets/the-beast/cover-2eb17eeb33ad.webp",
+      "stlCount": 0,
+      "supported": false,
+      "bust": false,
+      "gallery": [
+        {
+          "src": "assets/the-beast/render-5b5cab2d8e39.webp",
+          "label": "Рендер"
+        },
+        {
+          "src": "assets/the-beast/render-56cd03768cdf.webp",
+          "label": "Рендер"
+        },
+        {
+          "src": "assets/the-beast/render-141c19361711.webp",
+          "label": "Рендер"
+        },
+        {
+          "src": "assets/the-beast/render-61554fd5d38f.webp",
+          "label": "Рендер"
+        },
+        {
+          "src": "assets/the-beast/render-91039260b08d.webp",
+          "label": "Рендер"
+        }
+      ],
+      "model": null,
+      "renders": {
+        "path": null,
+        "bytes": 121372908,
+        "files": 7
+      },
+      "previewNote": "",
+      "files": [
+        {
+          "name": "Picture_Portrait Close.png",
+          "relative": "Рендеры/SFW/Изображения/Picture_Portrait Close.png",
+          "group": "Рендеры/SFW/Изображения",
+          "type": "render",
+          "bytes": 4979010,
+          "key": "file:the-beast:Рендеры/SFW/Изображения/Picture_Portrait Close.png",
+          "path": null
+        },
+        {
+          "name": "Picture_Portrait Close_001.png",
+          "relative": "Рендеры/SFW/Изображения/Picture_Portrait Close_001.png",
+          "group": "Рендеры/SFW/Изображения",
+          "type": "render",
+          "bytes": 4937502,
+          "key": "file:the-beast:Рендеры/SFW/Изображения/Picture_Portrait Close_001.png",
+          "path": null
+        },
+        {
+          "name": "Picture_Portrait Close_002.png",
+          "relative": "Рендеры/SFW/Изображения/Picture_Portrait Close_002.png",
+          "group": "Рендеры/SFW/Изображения",
+          "type": "render",
+          "bytes": 4976717,
+          "key": "file:the-beast:Рендеры/SFW/Изображения/Picture_Portrait Close_002.png",
+          "path": null
+        },
+        {
+          "name": "Picture_Portrait Close_003.png",
+          "relative": "Рендеры/SFW/Изображения/Picture_Portrait Close_003.png",
+          "group": "Рендеры/SFW/Изображения",
+          "type": "render",
+          "bytes": 4942792,
+          "key": "file:the-beast:Рендеры/SFW/Изображения/Picture_Portrait Close_003.png",
+          "path": null
+        },
+        {
+          "name": "Picture_Portrait Close_004.png",
+          "relative": "Рендеры/SFW/Изображения/Picture_Portrait Close_004.png",
+          "group": "Рендеры/SFW/Изображения",
+          "type": "render",
+          "bytes": 4898940,
+          "key": "file:the-beast:Рендеры/SFW/Изображения/Picture_Portrait Close_004.png",
+          "path": null
+        },
+        {
+          "name": "Video_Portrait Close.mp4",
+          "relative": "Рендеры/Видео/Video_Portrait Close.mp4",
+          "group": "Рендеры/Видео",
+          "type": "render",
+          "bytes": 48465729,
+          "key": "file:the-beast:Рендеры/Видео/Video_Portrait Close.mp4",
+          "path": null
+        },
+        {
+          "name": "Video_Portrait Close_001.mp4",
+          "relative": "Рендеры/Видео/Video_Portrait Close_001.mp4",
+          "group": "Рендеры/Видео",
+          "type": "render",
+          "bytes": 48207347,
+          "key": "file:the-beast:Рендеры/Видео/Video_Portrait Close_001.mp4",
+          "path": null
+        }
+      ],
+      "chitubox": null
     },
     {
       "id": "march-hare",
@@ -2988,8 +3293,8 @@ window.CATALOG = {
   ],
   "all": {
     "path": null,
-    "bytes": 2766001246,
-    "files": 301
+    "bytes": 3177166030,
+    "files": 327
   },
   "mode": "online"
 };

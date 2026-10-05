@@ -10,13 +10,14 @@ window.CAMPAIGN={
     'chibi-rabbit':{displayName:'The Rabbit',role:'Chibi',lore:'Кролик хранит ключ, не раскрывая его назначение.'},
     'chibi-goat':{displayName:'The Lamb',role:'Chibi',lore:'Овечка пришла на чаепитие с книгой.'},
     'chibi-cat':{displayName:'The Cat',role:'Chibi',lore:'Кот улыбается так, будто знает развязку.'},
-    'diorama':{displayName:'Where the Paths Cross',role:'Диорама',lore:'Брайар и Розалинда встречаются среди одних руин.'}
+    'diorama':{displayName:'Where the Paths Cross',role:'Диорама',lore:'Брайар и Розалинда встречаются среди одних руин.'},
+    'the-beast':{displayName:'Hound of the Thornway',role:'The Beast',lore:'Когда-то он был обычным псом. Лес предложил ему стать чем-то большим, и он согласился.'}
   },
   sections:[
     {title:'Основной набор',description:'Четыре главы Grimmswood. Версии SFW и NSFW — в галереях персонажей.',ids:['briar-vess','wolfsbane','wynne-madigan','bloodhood']},
     {title:'Бюсты',description:'Файлы бюстов и полные комплекты для сборки.',ids:['briar-vess','wolfsbane','wynne-madigan','bloodhood'],bust:true},
     {title:'Wonderland Leaks Through',description:'Три Chibi: Rabbit, Lamb и Cat.',ids:['chibi-rabbit','chibi-goat','chibi-cat']},
     {title:'Диорама',ids:['diorama']},
-    {title:'Дополнительные цели',ids:['march-hare','adeline-key'],missing:[{name:'Hound of the Thornway',role:'The Beast'},{name:'Madame Cronin',role:'The Undertaker'}]}
+    {title:'Дополнительные цели',ids:['march-hare','adeline-key','the-beast'],missing:[{name:'Madame Cronin',role:'The Undertaker'}]}
   ]
 };
