@@ -252,14 +252,22 @@ window.CATALOG = {
       "gallery": [
         {
           "src": "assets/bloodhood/render-7846237bd8c5.webp",
+          "scope": "figure",
           "label": "Рендер"
         },
         {
           "src": "assets/bloodhood/render-31aadba5b77a.webp",
+          "scope": "figure",
           "label": "Рендер"
         },
         {
           "src": "assets/bloodhood/render-01fbe6c06a09.webp",
+          "scope": "figure",
+          "label": "Рендер"
+        },
+        {
+          "src": "assets/bloodhood/render-97d7d86f4bac.webp",
+          "scope": "bust",
           "label": "Рендер"
         }
       ],
@@ -270,10 +278,16 @@ window.CATALOG = {
       },
       "renders": {
         "path": null,
-        "bytes": 104379921,
-        "files": 5
+        "bytes": 161934172,
+        "files": 7
       },
       "previewNote": "",
+      "bustRenders": {
+        "path": null,
+        "bytes": 57554273,
+        "files": 2
+      },
+      "bustCover": "assets/bloodhood/render-97d7d86f4bac.webp",
       "files": [
         {
           "name": "Bust_BloodHood_Base.stl",
@@ -672,6 +686,24 @@ window.CATALOG = {
           "path": null
         },
         {
+          "name": "Video_Portrait Close_003.mp4",
+          "relative": "Рендеры/Бюст/Видео/Video_Portrait Close_003.mp4",
+          "group": "Рендеры/Бюст/Видео",
+          "type": "render",
+          "bytes": 40940718,
+          "key": "file:bloodhood:Рендеры/Бюст/Видео/Video_Portrait Close_003.mp4",
+          "path": null
+        },
+        {
+          "name": "Bust_Portrait Close_006.png",
+          "relative": "Рендеры/Бюст/Изображения/Bust_Portrait Close_006.png",
+          "group": "Рендеры/Бюст/Изображения",
+          "type": "render",
+          "bytes": 16663899,
+          "key": "file:bloodhood:Рендеры/Бюст/Изображения/Bust_Portrait Close_006.png",
+          "path": null
+        },
+        {
           "name": "Video_Portrait Close.mp4",
           "relative": "Рендеры/Видео/Video_Portrait Close.mp4",
           "group": "Рендеры/Видео",
@@ -707,46 +739,67 @@ window.CATALOG = {
       "gallery": [
         {
           "src": "assets/briar-vess/render-bd644b8737d6.webp",
+          "scope": "figure",
           "label": "NSFW"
         },
         {
           "src": "assets/briar-vess/render-014c15291561.webp",
+          "scope": "figure",
           "label": "NSFW"
         },
         {
           "src": "assets/briar-vess/render-94959221b805.webp",
+          "scope": "figure",
           "label": "NSFW"
         },
         {
           "src": "assets/briar-vess/render-04145f382de9.webp",
+          "scope": "figure",
           "label": "Рендер"
         },
         {
           "src": "assets/briar-vess/render-490453e77892.webp",
+          "scope": "figure",
           "label": "Рендер"
         },
         {
           "src": "assets/briar-vess/render-09685f21daf3.webp",
+          "scope": "figure",
           "label": "Рендер"
         },
         {
           "src": "assets/briar-vess/render-f951d6927718.webp",
+          "scope": "figure",
           "label": "Рендер"
         },
         {
           "src": "assets/briar-vess/render-d029f89bb399.webp",
+          "scope": "figure",
           "label": "Рендер"
         },
         {
           "src": "assets/briar-vess/render-c55067b8ddde.webp",
+          "scope": "figure",
           "label": "Рендер"
         },
         {
           "src": "assets/briar-vess/render-74a721e9381a.webp",
+          "scope": "figure",
           "label": "Рендер"
         },
         {
           "src": "assets/briar-vess/render-7d49108dc22b.webp",
+          "scope": "figure",
+          "label": "Рендер"
+        },
+        {
+          "src": "assets/briar-vess/render-fee6f66f9e3a.webp",
+          "scope": "bust",
+          "label": "Рендер"
+        },
+        {
+          "src": "assets/briar-vess/render-6c6fe5135733.webp",
+          "scope": "bust",
           "label": "Рендер"
         }
       ],
@@ -757,10 +810,16 @@ window.CATALOG = {
       },
       "renders": {
         "path": null,
-        "bytes": 144473573,
-        "files": 13
+        "bytes": 175896763,
+        "files": 15
       },
       "previewNote": "",
+      "bustRenders": {
+        "path": null,
+        "bytes": 31423212,
+        "files": 2
+      },
+      "bustCover": "assets/briar-vess/render-fee6f66f9e3a.webp",
       "files": [
         {
           "name": "BustLittleHood_Axe.stl",
@@ -1219,6 +1278,24 @@ window.CATALOG = {
           "type": "render",
           "bytes": 4797980,
           "key": "file:briar-vess:Рендеры/SFW/Изображения/Picture_Portrait Close_010.png",
+          "path": null
+        },
+        {
+          "name": "Bust_Portrait Close_002.png",
+          "relative": "Рендеры/Бюст/Изображения/Bust_Portrait Close_002.png",
+          "group": "Рендеры/Бюст/Изображения",
+          "type": "render",
+          "bytes": 15593644,
+          "key": "file:briar-vess:Рендеры/Бюст/Изображения/Bust_Portrait Close_002.png",
+          "path": null
+        },
+        {
+          "name": "Bust_Portrait Close_003.png",
+          "relative": "Рендеры/Бюст/Изображения/Bust_Portrait Close_003.png",
+          "group": "Рендеры/Бюст/Изображения",
+          "type": "render",
+          "bytes": 15820364,
+          "key": "file:briar-vess:Рендеры/Бюст/Изображения/Bust_Portrait Close_003.png",
           "path": null
         },
         {
@@ -1963,6 +2040,83 @@ window.CATALOG = {
       }
     },
     {
+      "id": "madame-corvin",
+      "name": "Madame Corvin",
+      "category": "characters",
+      "cover": "assets/madame-corvin/cover-bdf90c8b6d3d.webp",
+      "stlCount": 0,
+      "supported": false,
+      "bust": false,
+      "gallery": [
+        {
+          "src": "assets/madame-corvin/render-0f4b7d615b44.webp",
+          "scope": "figure",
+          "label": "Рендер"
+        },
+        {
+          "src": "assets/madame-corvin/render-e3fa9d2d36ee.webp",
+          "scope": "figure",
+          "label": "Рендер"
+        },
+        {
+          "src": "assets/madame-corvin/render-84aed7c3e142.webp",
+          "scope": "figure",
+          "label": "Рендер"
+        },
+        {
+          "src": "assets/madame-corvin/render-bdb1942466cd.webp",
+          "scope": "figure",
+          "label": "Рендер"
+        }
+      ],
+      "model": null,
+      "renders": {
+        "path": null,
+        "bytes": 19720736,
+        "files": 4
+      },
+      "previewNote": "",
+      "files": [
+        {
+          "name": "Picture_Portrait Close.png",
+          "relative": "Рендеры/SFW/Изображения/Picture_Portrait Close.png",
+          "group": "Рендеры/SFW/Изображения",
+          "type": "render",
+          "bytes": 4968199,
+          "key": "file:madame-corvin:Рендеры/SFW/Изображения/Picture_Portrait Close.png",
+          "path": null
+        },
+        {
+          "name": "Picture_Portrait Close_001.png",
+          "relative": "Рендеры/SFW/Изображения/Picture_Portrait Close_001.png",
+          "group": "Рендеры/SFW/Изображения",
+          "type": "render",
+          "bytes": 4813325,
+          "key": "file:madame-corvin:Рендеры/SFW/Изображения/Picture_Portrait Close_001.png",
+          "path": null
+        },
+        {
+          "name": "Picture_Portrait Close_002.png",
+          "relative": "Рендеры/SFW/Изображения/Picture_Portrait Close_002.png",
+          "group": "Рендеры/SFW/Изображения",
+          "type": "render",
+          "bytes": 4933445,
+          "key": "file:madame-corvin:Рендеры/SFW/Изображения/Picture_Portrait Close_002.png",
+          "path": null
+        },
+        {
+          "name": "Picture_Portrait Close_003.png",
+          "relative": "Рендеры/SFW/Изображения/Picture_Portrait Close_003.png",
+          "group": "Рендеры/SFW/Изображения",
+          "type": "render",
+          "bytes": 4999621,
+          "key": "file:madame-corvin:Рендеры/SFW/Изображения/Picture_Portrait Close_003.png",
+          "path": null
+        }
+      ],
+      "chitubox": null
+    },
+    {
       "id": "the-beast",
       "name": "The Beast",
       "category": "characters",
@@ -2265,45 +2419,64 @@ window.CATALOG = {
       "id": "wolfsbane",
       "name": "Wolfsbane",
       "category": "characters",
-      "cover": "assets/wolfsbane/cover.webp",
+      "cover": "assets/wolfsbane/cover-8ab1bd021bdc.webp",
       "stlCount": 31,
       "supported": true,
       "bust": true,
       "gallery": [
         {
-          "src": "assets/wolfsbane/render-6.webp",
+          "src": "assets/wolfsbane/render-eeab35bc5d20.webp",
+          "scope": "bust",
           "label": "Рендер"
         },
         {
-          "src": "assets/wolfsbane/render-7.webp",
+          "src": "assets/wolfsbane/render-56e8219034f1.webp",
+          "scope": "bust",
           "label": "Рендер"
         },
         {
-          "src": "assets/wolfsbane/render-8.webp",
+          "src": "assets/wolfsbane/render-c749085bf5d1.webp",
+          "scope": "figure",
           "label": "Рендер"
         },
         {
-          "src": "assets/wolfsbane/render-9.webp",
+          "src": "assets/wolfsbane/render-0f437989a8fb.webp",
+          "scope": "figure",
           "label": "Рендер"
         },
         {
-          "src": "assets/wolfsbane/render-10.webp",
+          "src": "assets/wolfsbane/render-5fb56da81521.webp",
+          "scope": "figure",
           "label": "Рендер"
         },
         {
-          "src": "assets/wolfsbane/render-11.webp",
+          "src": "assets/wolfsbane/render-630958dac9f5.webp",
+          "scope": "figure",
           "label": "Рендер"
         },
         {
-          "src": "assets/wolfsbane/render-12.webp",
+          "src": "assets/wolfsbane/render-ece5378bd4f0.webp",
+          "scope": "figure",
           "label": "Рендер"
         },
         {
-          "src": "assets/wolfsbane/render-13.webp",
+          "src": "assets/wolfsbane/render-9426615fba5d.webp",
+          "scope": "figure",
           "label": "Рендер"
         },
         {
-          "src": "assets/wolfsbane/render-14.webp",
+          "src": "assets/wolfsbane/render-9113aa3bd805.webp",
+          "scope": "figure",
+          "label": "Рендер"
+        },
+        {
+          "src": "assets/wolfsbane/render-4a3b0f3fe0d0.webp",
+          "scope": "figure",
+          "label": "Рендер"
+        },
+        {
+          "src": "assets/wolfsbane/render-ac49f049a71f.webp",
+          "scope": "figure",
           "label": "Рендер"
         }
       ],
@@ -2314,10 +2487,16 @@ window.CATALOG = {
       },
       "renders": {
         "path": null,
-        "bytes": 229175704,
-        "files": 13
+        "bytes": 380786579,
+        "files": 16
       },
       "previewNote": "",
+      "bustRenders": {
+        "path": null,
+        "bytes": 151610897,
+        "files": 3
+      },
+      "bustCover": "assets/wolfsbane/render-eeab35bc5d20.webp",
       "files": [
         {
           "name": "Bust_arm_left.stl",
@@ -2617,6 +2796,33 @@ window.CATALOG = {
           "path": null
         },
         {
+          "name": "Video_Portrait Close_002.mp4",
+          "relative": "Рендеры/Бюст/Видео/Video_Portrait Close_002.mp4",
+          "group": "Рендеры/Бюст/Видео",
+          "type": "render",
+          "bytes": 119320325,
+          "key": "file:wolfsbane:Рендеры/Бюст/Видео/Video_Portrait Close_002.mp4",
+          "path": null
+        },
+        {
+          "name": "Bust_Portrait Close_004.png",
+          "relative": "Рендеры/Бюст/Изображения/Bust_Portrait Close_004.png",
+          "group": "Рендеры/Бюст/Изображения",
+          "type": "render",
+          "bytes": 16355616,
+          "key": "file:wolfsbane:Рендеры/Бюст/Изображения/Bust_Portrait Close_004.png",
+          "path": null
+        },
+        {
+          "name": "Bust_Portrait Close_005.png",
+          "relative": "Рендеры/Бюст/Изображения/Bust_Portrait Close_005.png",
+          "group": "Рендеры/Бюст/Изображения",
+          "type": "render",
+          "bytes": 15959344,
+          "key": "file:wolfsbane:Рендеры/Бюст/Изображения/Bust_Portrait Close_005.png",
+          "path": null
+        },
+        {
           "name": "Video_Portrait Close.mp4",
           "relative": "Рендеры/Видео/Video_Portrait Close.mp4",
           "group": "Рендеры/Видео",
@@ -2744,53 +2950,74 @@ window.CATALOG = {
       "id": "wynne-madigan",
       "name": "Wynne Madigan",
       "category": "characters",
-      "cover": "assets/wynne-madigan/cover.webp",
+      "cover": "assets/wynne-madigan/cover-c38095d0e912.webp",
       "stlCount": 38,
       "supported": true,
       "bust": false,
       "gallery": [
         {
-          "src": "assets/wynne-madigan/render-4.webp",
+          "src": "assets/wynne-madigan/render-945a13249d29.webp",
+          "scope": "figure",
           "label": "NSFW"
         },
         {
-          "src": "assets/wynne-madigan/render-5.webp",
+          "src": "assets/wynne-madigan/render-92e27c4fad7c.webp",
+          "scope": "figure",
           "label": "NSFW"
         },
         {
-          "src": "assets/wynne-madigan/render-6.webp",
+          "src": "assets/wynne-madigan/render-b61f0a33bf43.webp",
+          "scope": "figure",
           "label": "NSFW"
         },
         {
-          "src": "assets/wynne-madigan/render-7.webp",
+          "src": "assets/wynne-madigan/render-f4a6c958eda0.webp",
+          "scope": "figure",
           "label": "NSFW"
         },
         {
-          "src": "assets/wynne-madigan/render-13.webp",
+          "src": "assets/wynne-madigan/render-2dc45647ff3b.webp",
+          "scope": "figure",
           "label": "Рендер"
         },
         {
-          "src": "assets/wynne-madigan/render-14.webp",
+          "src": "assets/wynne-madigan/render-0859d1b6ba68.webp",
+          "scope": "figure",
           "label": "Рендер"
         },
         {
-          "src": "assets/wynne-madigan/render-15.webp",
+          "src": "assets/wynne-madigan/render-b054e6d805f2.webp",
+          "scope": "figure",
           "label": "Рендер"
         },
         {
-          "src": "assets/wynne-madigan/render-16.webp",
+          "src": "assets/wynne-madigan/render-bd6d3a1fed53.webp",
+          "scope": "figure",
           "label": "Рендер"
         },
         {
-          "src": "assets/wynne-madigan/render-17.webp",
+          "src": "assets/wynne-madigan/render-4c08f7363b91.webp",
+          "scope": "figure",
           "label": "Рендер"
         },
         {
-          "src": "assets/wynne-madigan/render-18.webp",
+          "src": "assets/wynne-madigan/render-2bccbd83fe75.webp",
+          "scope": "figure",
           "label": "Рендер"
         },
         {
-          "src": "assets/wynne-madigan/render-19.webp",
+          "src": "assets/wynne-madigan/render-05b6c2bf1ece.webp",
+          "scope": "figure",
+          "label": "Рендер"
+        },
+        {
+          "src": "assets/wynne-madigan/render-c0d255884e35.webp",
+          "scope": "bust",
+          "label": "Рендер"
+        },
+        {
+          "src": "assets/wynne-madigan/render-bec7e8068397.webp",
+          "scope": "bust",
           "label": "Рендер"
         }
       ],
@@ -2801,10 +3028,16 @@ window.CATALOG = {
       },
       "renders": {
         "path": null,
-        "bytes": 186072093,
-        "files": 14
+        "bytes": 217537043,
+        "files": 16
       },
       "previewNote": "",
+      "bustRenders": {
+        "path": null,
+        "bytes": 31464972,
+        "files": 2
+      },
+      "bustCover": "assets/wynne-madigan/render-c0d255884e35.webp",
       "files": [
         {
           "name": "arm_left_sfw.stl",
@@ -3282,6 +3515,24 @@ window.CATALOG = {
           "bytes": 4491792,
           "key": "file:wynne-madigan:Рендеры/SFW/Изображения/PictureMadHat_Portrait Close_006.png",
           "path": null
+        },
+        {
+          "name": "Bust_Portrait Close.png",
+          "relative": "Рендеры/Бюст/Изображения/Bust_Portrait Close.png",
+          "group": "Рендеры/Бюст/Изображения",
+          "type": "render",
+          "bytes": 15599443,
+          "key": "file:wynne-madigan:Рендеры/Бюст/Изображения/Bust_Portrait Close.png",
+          "path": null
+        },
+        {
+          "name": "Bust_Portrait Close_001.png",
+          "relative": "Рендеры/Бюст/Изображения/Bust_Portrait Close_001.png",
+          "group": "Рендеры/Бюст/Изображения",
+          "type": "render",
+          "bytes": 15855912,
+          "key": "file:wynne-madigan:Рендеры/Бюст/Изображения/Bust_Portrait Close_001.png",
+          "path": null
         }
       ],
       "chitubox": {
@@ -3293,8 +3544,8 @@ window.CATALOG = {
   ],
   "all": {
     "path": null,
-    "bytes": 3177166030,
-    "files": 327
+    "bytes": 3469036261,
+    "files": 342
   },
   "mode": "online"
 };
