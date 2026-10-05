@@ -37,9 +37,13 @@ def inspect(pair):
   return name,{'status':'ok','url':url,'bytes':stream.total,'filename':stream.filename,'members':members}
  except Exception as e:return name,{'status':'failed','url':url,'error':str(e)}
 if __name__=='__main__':
- proof=json.loads((ROOT/'tests/archive-index.json').read_text(encoding='utf-8'))
+ import os
+ private=Path(os.environ.get('CT2_PRIVATE_DIR',ROOT.parent/'Служебное/Тиры'))
+ proof_path=private/'Архивы для тестов.json'
+ if not proof_path.exists():raise SystemExit('Local archive inventory required; set CT2_PRIVATE_DIR')
+ proof=json.loads(proof_path.read_text(encoding='utf-8'))
  pairs=[(name,a['url']) for name,a in proof.items()]
  with concurrent.futures.ThreadPoolExecutor(max_workers=5) as pool:result=dict(pool.map(inspect,pairs))
- (ROOT/'tests/archive-index.json').write_text(json.dumps(result,ensure_ascii=False,indent=2),encoding='utf-8')
+ proof_path.write_text(json.dumps(result,ensure_ascii=False,indent=2),encoding='utf-8')
  for n,x in result.items():print(n,x['status'],len(x.get('members',[])),x.get('error',''),flush=True)
  assert all(x['status']=='ok' for x in result.values()),'Some archives failed verification'

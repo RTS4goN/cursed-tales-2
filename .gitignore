@@ -7,3 +7,4 @@ shared-chibi/
 *.chitubox
 .env*
 node_modules/
+.local/

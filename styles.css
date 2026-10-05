@@ -55,3 +55,15 @@ dialog#gallery{border:1px solid #876046;background:#110c0f;color:var(--ink);padd
 .download-unavailable[aria-disabled=true],.button.download-partial{border:2px solid #ff5266!important;background:#29171c!important;color:#ffb4bd!important;box-shadow:none;pointer-events:none}
 .button.download-partial{pointer-events:auto}
 .file-row.download-unavailable{padding:11px 8px;margin:4px 0}
+
+/* Backer tier entry and locked reward states reuse the collection typography. */
+[hidden]{display:none!important}
+.access-gate{max-width:650px;margin:64px auto;padding:32px 0;min-height:35vh}
+.access-gate h2{font-size:32px;margin-bottom:16px}
+.access-gate p{line-height:1.7;margin-bottom:24px}
+.tier-summary{padding:0 0 24px;border-bottom:1px solid var(--line,#4c353b)}
+.tier-summary h2{margin:0 0 8px;font-size:30px}
+.tier-summary p{margin:0;line-height:1.6}
+.tier-locked{opacity:.8}
+.tier-locked-note{display:inline-block;padding:12px 16px;border:1px solid #87714f;color:#e4c394;border-radius:6px}
+@media(max-width:600px){.access-gate{margin:32px auto;padding:16px 0}.tier-summary h2{font-size:26px}}

@@ -2,24 +2,27 @@
 <html lang="ru">
 <head>
 <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="robots" content="noindex,nofollow"><meta name="referrer" content="no-referrer">
 <meta name="description" content="Библиотека бекера Cursed Tales 2 от Elysian Studio. Миниатюры Grimmswood, бюсты, Chibi и диорамы: галереи и файлы для 3D-печати.">
 <meta name="theme-color" content="#0c080a"><title>Cursed Tales II — библиотека бекера</title>
 <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' fill='%230c080a'/%3E%3Cpath d='M32 8 49 32 32 56 15 32Z' fill='%23b32d40'/%3E%3Ctext x='32' y='41' text-anchor='middle' fill='%23f1e6d8' font-family='Georgia' font-size='26'%3EII%3C/text%3E%3C/svg%3E">
-<link rel="stylesheet" href="assets/brand/fonts/fonts.css"><link rel="stylesheet" href="styles.css?v=audited-downloads-20261005">
-<script src="catalog.js?v=audited-downloads-20261005" defer></script><script src="campaign.js?v=audited-downloads-20261005" defer></script><script src="app.js?v=audited-downloads-20261005" defer></script>
+<link rel="stylesheet" href="assets/brand/fonts/fonts.css"><link rel="stylesheet" href="styles.css?v=tiers-20261005">
+<script src="campaign.js?v=tiers-20261005" defer></script><script src="access.js?v=tiers-20261005" defer></script>
 </head>
 <body>
 <a class="skip" href="#collection">К моделям</a>
 <main id="top">
 <header class="library-heading">
 <div class="library-title"><h1 id="page-title"><span class="project-card" aria-hidden="true"><span>II</span><span class="project-suit">♦</span></span><span class="project-name">Cursed Tales<span class="sr-only"> II</span></span></h1><a class="button secondary kickstarter-link" href="https://www.kickstarter.com/projects/elysianstudio/cursed-tales-2" target="_blank" rel="noopener noreferrer">На Kickstarter <span aria-hidden="true">↗</span></a></div>
-<section class="all-panel" aria-label="Полная коллекция">
+<section class="all-panel" hidden aria-label="Полная коллекция">
 <div class="archive-copy"><span class="package-label">ПОЛНАЯ КОЛЛЕКЦИЯ</span><p>STL, Chitubox и рендеры одним ZIP.</p></div>
 <div class="archive-action"><a id="download-all" class="button primary" download><span>Скачать всю коллекцию</span></a><span id="all-size" class="file-size"></span></div>
 </section>
 </header>
 <p id="publish-note" class="publish-note" hidden>Архивы пока не опубликованы. Кнопки скачивания станут доступны после их загрузки.</p>
-<section id="collection" class="collection" aria-label="Коллекция"><div id="cards"></div></section>
+<section id="access-gate" class="access-gate" aria-live="polite"><h2 id="access-title">Библиотека бекера</h2><p id="access-message">Откройте ссылку на ваш набор из сообщения Kickstarter.</p><button id="access-retry" class="button secondary" hidden>Попробовать ещё раз</button><noscript><p>Для открытия библиотеки включите JavaScript в браузере.</p></noscript></section>
+<section id="tier-summary" class="tier-summary" hidden><h2 id="tier-label"></h2><p id="tier-description"></p></section>
+<section id="collection" class="collection" hidden aria-label="Коллекция"><div id="cards"></div></section>
 </main>
 <footer><span class="footer-brand">Cursed Tales <span>II</span></span><a class="text-link" href="#collection">К коллекции <span aria-hidden="true">↑</span></a></footer>
 <dialog id="gallery" aria-labelledby="gallery-title">
