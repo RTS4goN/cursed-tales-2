@@ -1,0 +1,11 @@
+{
+  "private": true,
+  "scripts": {
+    "test": "node --test tests/downloads.test.cjs",
+    "test:links": "python tests/verify-archives.py",
+    "test:all": "npm run test:links && npm test"
+  },
+  "devDependencies": {
+    "jsdom": "^30.1.2"
+  }
+}

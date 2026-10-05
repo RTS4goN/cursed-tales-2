@@ -1,0 +1,2742 @@
+{
+  "items": {
+    "adeline-key": {
+      "packages": {
+        "model": {
+          "path": "https://drive.usercontent.google.com/download?id=1OfEqrZSVL2FkaY_zDMmn2PmbXSxaElJa&export=download&confirm=t",
+          "bytes": 248152542,
+          "files": 22,
+          "archiveName": "adeline-key-stl.zip",
+          "fallback": false
+        },
+        "renders": {
+          "path": "https://drive.usercontent.google.com/download?id=1EmB5r-sasAPE7nEURkvyFLtOWd3tbarw&export=download&confirm=t",
+          "bytes": 42367,
+          "files": 1,
+          "archiveName": "adeline-key-renders.zip",
+          "fallback": false
+        },
+        "chitubox": {
+          "path": "https://drive.usercontent.google.com/download?id=10uZZTM1Bb7lK9KqR-BzAzNkjucXT8DtL&export=download&confirm=t",
+          "bytes": 78294308,
+          "files": 1,
+          "archiveName": "adeline-key-chitubox.zip",
+          "fallback": false
+        },
+        "bustRenders": null
+      },
+      "files": {
+        "file:adeline-key:STL/Фигура/Без поддержек/Base.stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1OfEqrZSVL2FkaY_zDMmn2PmbXSxaElJa&export=download&confirm=t",
+          "archiveName": "adeline-key-stl.zip",
+          "member": "STL/Фигура/Без поддержек/Base.stl",
+          "bytes": 24915784,
+          "crc": 3631479170
+        },
+        "file:adeline-key:STL/Фигура/Без поддержек/base_ear.stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1OfEqrZSVL2FkaY_zDMmn2PmbXSxaElJa&export=download&confirm=t",
+          "archiveName": "adeline-key-stl.zip",
+          "member": "STL/Фигура/Без поддержек/base_ear.stl",
+          "bytes": 5295984,
+          "crc": 2957797711
+        },
+        "file:adeline-key:STL/Фигура/Без поддержек/base_ear2.stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1OfEqrZSVL2FkaY_zDMmn2PmbXSxaElJa&export=download&confirm=t",
+          "archiveName": "adeline-key-stl.zip",
+          "member": "STL/Фигура/Без поддержек/base_ear2.stl",
+          "bytes": 6863584,
+          "crc": 3615698720
+        },
+        "file:adeline-key:STL/Фигура/Без поддержек/Dress.stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1OfEqrZSVL2FkaY_zDMmn2PmbXSxaElJa&export=download&confirm=t",
+          "archiveName": "adeline-key-stl.zip",
+          "member": "STL/Фигура/Без поддержек/Dress.stl",
+          "bytes": 22170384,
+          "crc": 4271938143
+        },
+        "file:adeline-key:STL/Фигура/Без поддержек/Hair.stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1OfEqrZSVL2FkaY_zDMmn2PmbXSxaElJa&export=download&confirm=t",
+          "archiveName": "adeline-key-stl.zip",
+          "member": "STL/Фигура/Без поддержек/Hair.stl",
+          "bytes": 16139984,
+          "crc": 1806960527
+        },
+        "file:adeline-key:STL/Фигура/Без поддержек/Head.stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1OfEqrZSVL2FkaY_zDMmn2PmbXSxaElJa&export=download&confirm=t",
+          "archiveName": "adeline-key-stl.zip",
+          "member": "STL/Фигура/Без поддержек/Head.stl",
+          "bytes": 16243784,
+          "crc": 1169608230
+        },
+        "file:adeline-key:STL/Фигура/Без поддержек/left_arm.stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1OfEqrZSVL2FkaY_zDMmn2PmbXSxaElJa&export=download&confirm=t",
+          "archiveName": "adeline-key-stl.zip",
+          "member": "STL/Фигура/Без поддержек/left_arm.stl",
+          "bytes": 6202884,
+          "crc": 3797856575
+        },
+        "file:adeline-key:STL/Фигура/Без поддержек/Left_leg.stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1OfEqrZSVL2FkaY_zDMmn2PmbXSxaElJa&export=download&confirm=t",
+          "archiveName": "adeline-key-stl.zip",
+          "member": "STL/Фигура/Без поддержек/Left_leg.stl",
+          "bytes": 8728784,
+          "crc": 990278344
+        },
+        "file:adeline-key:STL/Фигура/Без поддержек/Platform.stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1OfEqrZSVL2FkaY_zDMmn2PmbXSxaElJa&export=download&confirm=t",
+          "archiveName": "adeline-key-stl.zip",
+          "member": "STL/Фигура/Без поддержек/Platform.stl",
+          "bytes": 1399284,
+          "crc": 4061076691
+        },
+        "file:adeline-key:STL/Фигура/Без поддержек/right_arm.stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1OfEqrZSVL2FkaY_zDMmn2PmbXSxaElJa&export=download&confirm=t",
+          "archiveName": "adeline-key-stl.zip",
+          "member": "STL/Фигура/Без поддержек/right_arm.stl",
+          "bytes": 6510984,
+          "crc": 2105287455
+        },
+        "file:adeline-key:STL/Фигура/Без поддержек/Right_leg.stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1OfEqrZSVL2FkaY_zDMmn2PmbXSxaElJa&export=download&confirm=t",
+          "archiveName": "adeline-key-stl.zip",
+          "member": "STL/Фигура/Без поддержек/Right_leg.stl",
+          "bytes": 9389484,
+          "crc": 3248052343
+        },
+        "file:adeline-key:STL/Фигура/С поддержками/Adeline_Base #1 (hollowed out) #3.stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1OfEqrZSVL2FkaY_zDMmn2PmbXSxaElJa&export=download&confirm=t",
+          "archiveName": "adeline-key-stl.zip",
+          "member": "STL/Фигура/С поддержками/Adeline_Base #1 (hollowed out) #3.stl",
+          "bytes": 47431134,
+          "crc": 3707522140
+        },
+        "file:adeline-key:STL/Фигура/С поддержками/Adeline_base_ear (hollowed out).stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1OfEqrZSVL2FkaY_zDMmn2PmbXSxaElJa&export=download&confirm=t",
+          "archiveName": "adeline-key-stl.zip",
+          "member": "STL/Фигура/С поддержками/Adeline_base_ear (hollowed out).stl",
+          "bytes": 11662534,
+          "crc": 1699939938
+        },
+        "file:adeline-key:STL/Фигура/С поддержками/Adeline_base_ear2 (hollowed out).stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1OfEqrZSVL2FkaY_zDMmn2PmbXSxaElJa&export=download&confirm=t",
+          "archiveName": "adeline-key-stl.zip",
+          "member": "STL/Фигура/С поддержками/Adeline_base_ear2 (hollowed out).stl",
+          "bytes": 11371184,
+          "crc": 521781703
+        },
+        "file:adeline-key:STL/Фигура/С поддержками/Adeline_Dress (hollowed out) #5.stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1OfEqrZSVL2FkaY_zDMmn2PmbXSxaElJa&export=download&confirm=t",
+          "archiveName": "adeline-key-stl.zip",
+          "member": "STL/Фигура/С поддержками/Adeline_Dress (hollowed out) #5.stl",
+          "bytes": 50459484,
+          "crc": 1220613468
+        },
+        "file:adeline-key:STL/Фигура/С поддержками/Adeline_Hair.stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1OfEqrZSVL2FkaY_zDMmn2PmbXSxaElJa&export=download&confirm=t",
+          "archiveName": "adeline-key-stl.zip",
+          "member": "STL/Фигура/С поддержками/Adeline_Hair.stl",
+          "bytes": 26189884,
+          "crc": 1937373344
+        },
+        "file:adeline-key:STL/Фигура/С поддержками/Adeline_Head (hollowed out).stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1OfEqrZSVL2FkaY_zDMmn2PmbXSxaElJa&export=download&confirm=t",
+          "archiveName": "adeline-key-stl.zip",
+          "member": "STL/Фигура/С поддержками/Adeline_Head (hollowed out).stl",
+          "bytes": 19523084,
+          "crc": 4071083140
+        },
+        "file:adeline-key:STL/Фигура/С поддержками/Adeline_left_arm.stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1OfEqrZSVL2FkaY_zDMmn2PmbXSxaElJa&export=download&confirm=t",
+          "archiveName": "adeline-key-stl.zip",
+          "member": "STL/Фигура/С поддержками/Adeline_left_arm.stl",
+          "bytes": 10384884,
+          "crc": 3314367630
+        },
+        "file:adeline-key:STL/Фигура/С поддержками/Adeline_Left_leg (hollowed out) #6.stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1OfEqrZSVL2FkaY_zDMmn2PmbXSxaElJa&export=download&confirm=t",
+          "archiveName": "adeline-key-stl.zip",
+          "member": "STL/Фигура/С поддержками/Adeline_Left_leg (hollowed out) #6.stl",
+          "bytes": 12697534,
+          "crc": 1355308409
+        },
+        "file:adeline-key:STL/Фигура/С поддержками/Adeline_Platform (hollowed out).stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1OfEqrZSVL2FkaY_zDMmn2PmbXSxaElJa&export=download&confirm=t",
+          "archiveName": "adeline-key-stl.zip",
+          "member": "STL/Фигура/С поддержками/Adeline_Platform (hollowed out).stl",
+          "bytes": 15988534,
+          "crc": 2752881013
+        },
+        "file:adeline-key:STL/Фигура/С поддержками/Adeline_Right_leg (hollowed out) #3.stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1OfEqrZSVL2FkaY_zDMmn2PmbXSxaElJa&export=download&confirm=t",
+          "archiveName": "adeline-key-stl.zip",
+          "member": "STL/Фигура/С поддержками/Adeline_Right_leg (hollowed out) #3.stl",
+          "bytes": 13655284,
+          "crc": 3492444640
+        },
+        "file:adeline-key:Chitubox/Adeline.chitubox": {
+          "path": "https://drive.usercontent.google.com/download?id=10uZZTM1Bb7lK9KqR-BzAzNkjucXT8DtL&export=download&confirm=t",
+          "archiveName": "adeline-key-chitubox.zip",
+          "member": "Chitubox/Adeline.chitubox",
+          "bytes": 168522147,
+          "crc": 924495412
+        },
+        "file:adeline-key:Рендеры/Превью из STL.jpg": {
+          "path": "https://drive.usercontent.google.com/download?id=1EmB5r-sasAPE7nEURkvyFLtOWd3tbarw&export=download&confirm=t",
+          "archiveName": "adeline-key-renders.zip",
+          "member": "Рендеры/Превью из STL.jpg",
+          "bytes": 48293,
+          "crc": 2618003350
+        }
+      }
+    },
+    "bloodhood": {
+      "packages": {
+        "model": {
+          "path": "https://drive.usercontent.google.com/download?id=1OnpiwBIVzMNXALFMM27kGoNyIz_yT42R&export=download&confirm=t",
+          "bytes": 272002054,
+          "files": 41,
+          "archiveName": "bloodhood-stl.zip",
+          "fallback": false
+        },
+        "renders": {
+          "path": "https://drive.usercontent.google.com/download?id=1Q-lKig8zheGoTGWFq_Mb3AqCRvZ5BVY0&export=download&confirm=t",
+          "bytes": 104379921,
+          "files": 5,
+          "archiveName": "bloodhood-renders.zip",
+          "fallback": false
+        },
+        "chitubox": {
+          "path": "https://drive.usercontent.google.com/download?id=1N57LTCmesFnD3TaDsGaZzE5cjRrDo7U1&export=download&confirm=t",
+          "bytes": 86791095,
+          "files": 2,
+          "archiveName": "bloodhood-chitubox.zip",
+          "fallback": false
+        },
+        "bustRenders": {
+          "path": null,
+          "bytes": 57554273,
+          "files": 2,
+          "archiveName": "bloodhood-bust-renders.zip",
+          "unavailableReason": "Архив с этими файлами пока недоступен на Диске"
+        }
+      },
+      "files": {
+        "file:bloodhood:STL/Бюст/Без поддержек/Bust_BloodHood_Base.stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1OnpiwBIVzMNXALFMM27kGoNyIz_yT42R&export=download&confirm=t",
+          "archiveName": "bloodhood-stl.zip",
+          "member": "STL/Бюст/Без поддержек/Bust_BloodHood_Base.stl",
+          "bytes": 15002884,
+          "crc": 1883486030
+        },
+        "file:bloodhood:STL/Бюст/Без поддержек/Bust_BloodHood_Leg_left.stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1OnpiwBIVzMNXALFMM27kGoNyIz_yT42R&export=download&confirm=t",
+          "archiveName": "bloodhood-stl.zip",
+          "member": "STL/Бюст/Без поддержек/Bust_BloodHood_Leg_left.stl",
+          "bytes": 3357384,
+          "crc": 919128495
+        },
+        "file:bloodhood:STL/Бюст/Без поддержек/Bust_BloodHood_Leg_Right.stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1OnpiwBIVzMNXALFMM27kGoNyIz_yT42R&export=download&confirm=t",
+          "archiveName": "bloodhood-stl.zip",
+          "member": "STL/Бюст/Без поддержек/Bust_BloodHood_Leg_Right.stl",
+          "bytes": 1904084,
+          "crc": 1840060373
+        },
+        "file:bloodhood:STL/Бюст/Без поддержек/Bust_BloodHood_Skirt.stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1OnpiwBIVzMNXALFMM27kGoNyIz_yT42R&export=download&confirm=t",
+          "archiveName": "bloodhood-stl.zip",
+          "member": "STL/Бюст/Без поддержек/Bust_BloodHood_Skirt.stl",
+          "bytes": 9375484,
+          "crc": 3913463923
+        },
+        "file:bloodhood:STL/Бюст/С поддержками/BloodHood_Bust_Base (hollowed out).stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1OnpiwBIVzMNXALFMM27kGoNyIz_yT42R&export=download&confirm=t",
+          "archiveName": "bloodhood-stl.zip",
+          "member": "STL/Бюст/С поддержками/BloodHood_Bust_Base (hollowed out).stl",
+          "bytes": 35072034,
+          "crc": 1819643706
+        },
+        "file:bloodhood:STL/Бюст/С поддержками/BloodHood_Bust_Leg_left (hollowed out).stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1OnpiwBIVzMNXALFMM27kGoNyIz_yT42R&export=download&confirm=t",
+          "archiveName": "bloodhood-stl.zip",
+          "member": "STL/Бюст/С поддержками/BloodHood_Bust_Leg_left (hollowed out).stl",
+          "bytes": 9830284,
+          "crc": 1495214997
+        },
+        "file:bloodhood:STL/Бюст/С поддержками/BloodHood_Bust_Leg_Right (hollowed out).stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1OnpiwBIVzMNXALFMM27kGoNyIz_yT42R&export=download&confirm=t",
+          "archiveName": "bloodhood-stl.zip",
+          "member": "STL/Бюст/С поддержками/BloodHood_Bust_Leg_Right (hollowed out).stl",
+          "bytes": 4690534,
+          "crc": 120960428
+        },
+        "file:bloodhood:STL/Бюст/С поддержками/BloodHood_Bust_Skirt (hollowed out).stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1OnpiwBIVzMNXALFMM27kGoNyIz_yT42R&export=download&confirm=t",
+          "archiveName": "bloodhood-stl.zip",
+          "member": "STL/Бюст/С поддержками/BloodHood_Bust_Skirt (hollowed out).stl",
+          "bytes": 21664284,
+          "crc": 679224038
+        },
+        "file:bloodhood:STL/Фигура/Без поддержек/base.stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1OnpiwBIVzMNXALFMM27kGoNyIz_yT42R&export=download&confirm=t",
+          "archiveName": "bloodhood-stl.zip",
+          "member": "STL/Фигура/Без поддержек/base.stl",
+          "bytes": 7350384,
+          "crc": 3385972913
+        },
+        "file:bloodhood:STL/Фигура/Без поддержек/body.stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1OnpiwBIVzMNXALFMM27kGoNyIz_yT42R&export=download&confirm=t",
+          "archiveName": "bloodhood-stl.zip",
+          "member": "STL/Фигура/Без поддержек/body.stl",
+          "bytes": 5681784,
+          "crc": 2193637842
+        },
+        "file:bloodhood:STL/Фигура/Без поддержек/Cloack.stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1OnpiwBIVzMNXALFMM27kGoNyIz_yT42R&export=download&confirm=t",
+          "archiveName": "bloodhood-stl.zip",
+          "member": "STL/Фигура/Без поддержек/Cloack.stl",
+          "bytes": 8718384,
+          "crc": 1697530710
+        },
+        "file:bloodhood:STL/Фигура/Без поддержек/hair.stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1OnpiwBIVzMNXALFMM27kGoNyIz_yT42R&export=download&confirm=t",
+          "archiveName": "bloodhood-stl.zip",
+          "member": "STL/Фигура/Без поддержек/hair.stl",
+          "bytes": 7173084,
+          "crc": 1354374585
+        },
+        "file:bloodhood:STL/Фигура/Без поддержек/head.stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1OnpiwBIVzMNXALFMM27kGoNyIz_yT42R&export=download&confirm=t",
+          "archiveName": "bloodhood-stl.zip",
+          "member": "STL/Фигура/Без поддержек/head.stl",
+          "bytes": 3386484,
+          "crc": 2851992190
+        },
+        "file:bloodhood:STL/Фигура/Без поддержек/head1.stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1OnpiwBIVzMNXALFMM27kGoNyIz_yT42R&export=download&confirm=t",
+          "archiveName": "bloodhood-stl.zip",
+          "member": "STL/Фигура/Без поддержек/head1.stl",
+          "bytes": 3003684,
+          "crc": 3194521098
+        },
+        "file:bloodhood:STL/Фигура/Без поддержек/Left_boot.stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1OnpiwBIVzMNXALFMM27kGoNyIz_yT42R&export=download&confirm=t",
+          "archiveName": "bloodhood-stl.zip",
+          "member": "STL/Фигура/Без поддержек/Left_boot.stl",
+          "bytes": 11504284,
+          "crc": 531956933
+        },
+        "file:bloodhood:STL/Фигура/Без поддержек/left_hand.stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1OnpiwBIVzMNXALFMM27kGoNyIz_yT42R&export=download&confirm=t",
+          "archiveName": "bloodhood-stl.zip",
+          "member": "STL/Фигура/Без поддержек/left_hand.stl",
+          "bytes": 2833384,
+          "crc": 1781942233
+        },
+        "file:bloodhood:STL/Фигура/Без поддержек/left_shoulder.stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1OnpiwBIVzMNXALFMM27kGoNyIz_yT42R&export=download&confirm=t",
+          "archiveName": "bloodhood-stl.zip",
+          "member": "STL/Фигура/Без поддержек/left_shoulder.stl",
+          "bytes": 730084,
+          "crc": 1681237502
+        },
+        "file:bloodhood:STL/Фигура/Без поддержек/NSFW.stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1OnpiwBIVzMNXALFMM27kGoNyIz_yT42R&export=download&confirm=t",
+          "archiveName": "bloodhood-stl.zip",
+          "member": "STL/Фигура/Без поддержек/NSFW.stl",
+          "bytes": 12913484,
+          "crc": 917791641
+        },
+        "file:bloodhood:STL/Фигура/Без поддержек/right_boot.stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1OnpiwBIVzMNXALFMM27kGoNyIz_yT42R&export=download&confirm=t",
+          "archiveName": "bloodhood-stl.zip",
+          "member": "STL/Фигура/Без поддержек/right_boot.stl",
+          "bytes": 11758684,
+          "crc": 4240893176
+        },
+        "file:bloodhood:STL/Фигура/Без поддержек/right_hand.stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1OnpiwBIVzMNXALFMM27kGoNyIz_yT42R&export=download&confirm=t",
+          "archiveName": "bloodhood-stl.zip",
+          "member": "STL/Фигура/Без поддержек/right_hand.stl",
+          "bytes": 2195884,
+          "crc": 3814922375
+        },
+        "file:bloodhood:STL/Фигура/Без поддержек/right_shoulder.stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1OnpiwBIVzMNXALFMM27kGoNyIz_yT42R&export=download&confirm=t",
+          "archiveName": "bloodhood-stl.zip",
+          "member": "STL/Фигура/Без поддержек/right_shoulder.stl",
+          "bytes": 731084,
+          "crc": 565953257
+        },
+        "file:bloodhood:STL/Фигура/Без поддержек/SFW_left_leg.stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1OnpiwBIVzMNXALFMM27kGoNyIz_yT42R&export=download&confirm=t",
+          "archiveName": "bloodhood-stl.zip",
+          "member": "STL/Фигура/Без поддержек/SFW_left_leg.stl",
+          "bytes": 3514884,
+          "crc": 4000147940
+        },
+        "file:bloodhood:STL/Фигура/Без поддержек/SFW_right_leg.stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1OnpiwBIVzMNXALFMM27kGoNyIz_yT42R&export=download&confirm=t",
+          "archiveName": "bloodhood-stl.zip",
+          "member": "STL/Фигура/Без поддержек/SFW_right_leg.stl",
+          "bytes": 3588984,
+          "crc": 990291695
+        },
+        "file:bloodhood:STL/Фигура/Без поддержек/skirt.stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1OnpiwBIVzMNXALFMM27kGoNyIz_yT42R&export=download&confirm=t",
+          "archiveName": "bloodhood-stl.zip",
+          "member": "STL/Фигура/Без поддержек/skirt.stl",
+          "bytes": 9738984,
+          "crc": 4081114086
+        },
+        "file:bloodhood:STL/Фигура/С поддержками/BloodHood_base (hollowed out) #1.stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1OnpiwBIVzMNXALFMM27kGoNyIz_yT42R&export=download&confirm=t",
+          "archiveName": "bloodhood-stl.zip",
+          "member": "STL/Фигура/С поддержками/BloodHood_base (hollowed out) #1.stl",
+          "bytes": 52169534,
+          "crc": 1606197970
+        },
+        "file:bloodhood:STL/Фигура/С поддержками/BloodHood_body (hollowed out).stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1OnpiwBIVzMNXALFMM27kGoNyIz_yT42R&export=download&confirm=t",
+          "archiveName": "bloodhood-stl.zip",
+          "member": "STL/Фигура/С поддержками/BloodHood_body (hollowed out).stl",
+          "bytes": 16498084,
+          "crc": 4007238738
+        },
+        "file:bloodhood:STL/Фигура/С поддержками/BloodHood_Cloack.stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1OnpiwBIVzMNXALFMM27kGoNyIz_yT42R&export=download&confirm=t",
+          "archiveName": "bloodhood-stl.zip",
+          "member": "STL/Фигура/С поддержками/BloodHood_Cloack.stl",
+          "bytes": 33396984,
+          "crc": 3888960245
+        },
+        "file:bloodhood:STL/Фигура/С поддержками/BloodHood_hair.stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1OnpiwBIVzMNXALFMM27kGoNyIz_yT42R&export=download&confirm=t",
+          "archiveName": "bloodhood-stl.zip",
+          "member": "STL/Фигура/С поддержками/BloodHood_hair.stl",
+          "bytes": 13992684,
+          "crc": 911122958
+        },
+        "file:bloodhood:STL/Фигура/С поддержками/BloodHood_head1 (hollowed out).stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1OnpiwBIVzMNXALFMM27kGoNyIz_yT42R&export=download&confirm=t",
+          "archiveName": "bloodhood-stl.zip",
+          "member": "STL/Фигура/С поддержками/BloodHood_head1 (hollowed out).stl",
+          "bytes": 5441034,
+          "crc": 1849140818
+        },
+        "file:bloodhood:STL/Фигура/С поддержками/BloodHood_Left_boot (hollowed out).stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1OnpiwBIVzMNXALFMM27kGoNyIz_yT42R&export=download&confirm=t",
+          "archiveName": "bloodhood-stl.zip",
+          "member": "STL/Фигура/С поддержками/BloodHood_Left_boot (hollowed out).stl",
+          "bytes": 15776884,
+          "crc": 1290441022
+        },
+        "file:bloodhood:STL/Фигура/С поддержками/BloodHood_left_hand.stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1OnpiwBIVzMNXALFMM27kGoNyIz_yT42R&export=download&confirm=t",
+          "archiveName": "bloodhood-stl.zip",
+          "member": "STL/Фигура/С поддержками/BloodHood_left_hand.stl",
+          "bytes": 6329484,
+          "crc": 2582049616
+        },
+        "file:bloodhood:STL/Фигура/С поддержками/BloodHood_left_shoulder.stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1OnpiwBIVzMNXALFMM27kGoNyIz_yT42R&export=download&confirm=t",
+          "archiveName": "bloodhood-stl.zip",
+          "member": "STL/Фигура/С поддержками/BloodHood_left_shoulder.stl",
+          "bytes": 2708884,
+          "crc": 1183689862
+        },
+        "file:bloodhood:STL/Фигура/С поддержками/BloodHood_NSFW (hollowed out).stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1OnpiwBIVzMNXALFMM27kGoNyIz_yT42R&export=download&confirm=t",
+          "archiveName": "bloodhood-stl.zip",
+          "member": "STL/Фигура/С поддержками/BloodHood_NSFW (hollowed out).stl",
+          "bytes": 27108784,
+          "crc": 70186210
+        },
+        "file:bloodhood:STL/Фигура/С поддержками/BloodHood_right_boot (hollowed out).stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1OnpiwBIVzMNXALFMM27kGoNyIz_yT42R&export=download&confirm=t",
+          "archiveName": "bloodhood-stl.zip",
+          "member": "STL/Фигура/С поддержками/BloodHood_right_boot (hollowed out).stl",
+          "bytes": 14407684,
+          "crc": 4054111496
+        },
+        "file:bloodhood:STL/Фигура/С поддержками/BloodHood_right_hand.stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1OnpiwBIVzMNXALFMM27kGoNyIz_yT42R&export=download&confirm=t",
+          "archiveName": "bloodhood-stl.zip",
+          "member": "STL/Фигура/С поддержками/BloodHood_right_hand.stl",
+          "bytes": 6122884,
+          "crc": 2782912930
+        },
+        "file:bloodhood:STL/Фигура/С поддержками/BloodHood_right_shoulder.stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1OnpiwBIVzMNXALFMM27kGoNyIz_yT42R&export=download&confirm=t",
+          "archiveName": "bloodhood-stl.zip",
+          "member": "STL/Фигура/С поддержками/BloodHood_right_shoulder.stl",
+          "bytes": 2696084,
+          "crc": 3464489780
+        },
+        "file:bloodhood:STL/Фигура/С поддержками/BloodHood_SFW_left_leg (hollowed out).stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1OnpiwBIVzMNXALFMM27kGoNyIz_yT42R&export=download&confirm=t",
+          "archiveName": "bloodhood-stl.zip",
+          "member": "STL/Фигура/С поддержками/BloodHood_SFW_left_leg (hollowed out).stl",
+          "bytes": 7380434,
+          "crc": 3356119578
+        },
+        "file:bloodhood:STL/Фигура/С поддержками/BloodHood_SFW_right_leg (hollowed out).stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1OnpiwBIVzMNXALFMM27kGoNyIz_yT42R&export=download&confirm=t",
+          "archiveName": "bloodhood-stl.zip",
+          "member": "STL/Фигура/С поддержками/BloodHood_SFW_right_leg (hollowed out).stl",
+          "bytes": 8496684,
+          "crc": 1080314500
+        },
+        "file:bloodhood:STL/Фигура/С поддержками/BloodHood_skirt (hollowed out) #1.stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1OnpiwBIVzMNXALFMM27kGoNyIz_yT42R&export=download&confirm=t",
+          "archiveName": "bloodhood-stl.zip",
+          "member": "STL/Фигура/С поддержками/BloodHood_skirt (hollowed out) #1.stl",
+          "bytes": 23606934,
+          "crc": 2524700337
+        },
+        "file:bloodhood:Chitubox/blood.chitubox": {
+          "path": "https://drive.usercontent.google.com/download?id=1N57LTCmesFnD3TaDsGaZzE5cjRrDo7U1&export=download&confirm=t",
+          "archiveName": "bloodhood-chitubox.zip",
+          "member": "Chitubox/blood.chitubox",
+          "bytes": 172390991,
+          "crc": 688379439
+        },
+        "file:bloodhood:Chitubox/bloodBust.chitubox": {
+          "path": "https://drive.usercontent.google.com/download?id=1N57LTCmesFnD3TaDsGaZzE5cjRrDo7U1&export=download&confirm=t",
+          "archiveName": "bloodhood-chitubox.zip",
+          "member": "Chitubox/bloodBust.chitubox",
+          "bytes": 52255298,
+          "crc": 2607974604
+        },
+        "file:bloodhood:Рендеры/SFW/Изображения/Color_Portrait Close.png": {
+          "path": "https://drive.usercontent.google.com/download?id=1Q-lKig8zheGoTGWFq_Mb3AqCRvZ5BVY0&export=download&confirm=t",
+          "archiveName": "bloodhood-renders.zip",
+          "member": "Рендеры/SFW/Изображения/Color_Portrait Close.png",
+          "bytes": 4883094,
+          "crc": 2508289437
+        },
+        "file:bloodhood:Рендеры/SFW/Изображения/Color_Portrait Close_001.png": {
+          "path": "https://drive.usercontent.google.com/download?id=1Q-lKig8zheGoTGWFq_Mb3AqCRvZ5BVY0&export=download&confirm=t",
+          "archiveName": "bloodhood-renders.zip",
+          "member": "Рендеры/SFW/Изображения/Color_Portrait Close_001.png",
+          "bytes": 4984274,
+          "crc": 4197692231
+        },
+        "file:bloodhood:Рендеры/SFW/Изображения/Color_Portrait Close_002.png": {
+          "path": "https://drive.usercontent.google.com/download?id=1Q-lKig8zheGoTGWFq_Mb3AqCRvZ5BVY0&export=download&confirm=t",
+          "archiveName": "bloodhood-renders.zip",
+          "member": "Рендеры/SFW/Изображения/Color_Portrait Close_002.png",
+          "bytes": 4844967,
+          "crc": 916646074
+        },
+        "file:bloodhood:Рендеры/Бюст/Видео/Video_Portrait Close_003.mp4": {
+          "path": null,
+          "archiveName": null,
+          "member": null,
+          "bytes": 40940718,
+          "crc": 76743333
+        },
+        "file:bloodhood:Рендеры/Бюст/Изображения/Bust_Portrait Close_006.png": {
+          "path": null,
+          "archiveName": null,
+          "member": null,
+          "bytes": 16663899,
+          "crc": 419264188
+        },
+        "file:bloodhood:Рендеры/Видео/Video_Portrait Close.mp4": {
+          "path": "https://drive.usercontent.google.com/download?id=1Q-lKig8zheGoTGWFq_Mb3AqCRvZ5BVY0&export=download&confirm=t",
+          "archiveName": "bloodhood-renders.zip",
+          "member": "Рендеры/Видео/Video_Portrait Close.mp4",
+          "bytes": 47157963,
+          "crc": 2334220212
+        },
+        "file:bloodhood:Рендеры/Видео/Video_Portrait Close_001.mp4": {
+          "path": "https://drive.usercontent.google.com/download?id=1Q-lKig8zheGoTGWFq_Mb3AqCRvZ5BVY0&export=download&confirm=t",
+          "archiveName": "bloodhood-renders.zip",
+          "member": "Рендеры/Видео/Video_Portrait Close_001.mp4",
+          "bytes": 42590134,
+          "crc": 3765249223
+        }
+      }
+    },
+    "briar-vess": {
+      "packages": {
+        "model": {
+          "path": "https://drive.usercontent.google.com/download?id=1OXsz4IwS744fiUKTeHIS3_BFHz0RzcoY&export=download&confirm=t",
+          "bytes": 379545182,
+          "files": 40,
+          "archiveName": "briar-vess-stl.zip",
+          "fallback": false
+        },
+        "renders": {
+          "path": "https://drive.usercontent.google.com/download?id=1p235Atxt_jIKvF7bO0OHPVVEsozPC5O-&export=download&confirm=t",
+          "bytes": 144473573,
+          "files": 13,
+          "archiveName": "briar-vess-renders.zip",
+          "fallback": false
+        },
+        "chitubox": {
+          "path": "https://drive.usercontent.google.com/download?id=12AtJcytcA73uZfQuF32xBpUjCdShYbLo&export=download&confirm=t",
+          "bytes": 129020756,
+          "files": 2,
+          "archiveName": "briar-vess-chitubox.zip",
+          "fallback": false
+        },
+        "bustRenders": {
+          "path": null,
+          "bytes": 31423212,
+          "files": 2,
+          "archiveName": "briar-vess-bust-renders.zip",
+          "unavailableReason": "Архив с этими файлами пока недоступен на Диске"
+        }
+      },
+      "files": {
+        "file:briar-vess:STL/Бюст/Без поддержек/BustLittleHood_Axe.stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1OXsz4IwS744fiUKTeHIS3_BFHz0RzcoY&export=download&confirm=t",
+          "archiveName": "briar-vess-stl.zip",
+          "member": "STL/Бюст/Без поддержек/BustLittleHood_Axe.stl",
+          "bytes": 7309684,
+          "crc": 1606868897
+        },
+        "file:briar-vess:STL/Бюст/Без поддержек/BustLittleHood_Legs.stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1OXsz4IwS744fiUKTeHIS3_BFHz0RzcoY&export=download&confirm=t",
+          "archiveName": "briar-vess-stl.zip",
+          "member": "STL/Бюст/Без поддержек/BustLittleHood_Legs.stl",
+          "bytes": 11538084,
+          "crc": 921911768
+        },
+        "file:briar-vess:STL/Бюст/Без поддержек/BustLittleHood_Platform1.stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1OXsz4IwS744fiUKTeHIS3_BFHz0RzcoY&export=download&confirm=t",
+          "archiveName": "briar-vess-stl.zip",
+          "member": "STL/Бюст/Без поддержек/BustLittleHood_Platform1.stl",
+          "bytes": 19169084,
+          "crc": 4104040297
+        },
+        "file:briar-vess:STL/Бюст/Без поддержек/BustLittleHood_skirt.stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1OXsz4IwS744fiUKTeHIS3_BFHz0RzcoY&export=download&confirm=t",
+          "archiveName": "briar-vess-stl.zip",
+          "member": "STL/Бюст/Без поддержек/BustLittleHood_skirt.stl",
+          "bytes": 6239084,
+          "crc": 2188965413
+        },
+        "file:briar-vess:STL/Бюст/С поддержками/BriarVes_BustLittleHood_Axe.stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1OXsz4IwS744fiUKTeHIS3_BFHz0RzcoY&export=download&confirm=t",
+          "archiveName": "briar-vess-stl.zip",
+          "member": "STL/Бюст/С поддержками/BriarVes_BustLittleHood_Axe.stl",
+          "bytes": 12569284,
+          "crc": 1377942582
+        },
+        "file:briar-vess:STL/Бюст/С поддержками/BriarVes_BustLittleHood_Legs (hollowed out).stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1OXsz4IwS744fiUKTeHIS3_BFHz0RzcoY&export=download&confirm=t",
+          "archiveName": "briar-vess-stl.zip",
+          "member": "STL/Бюст/С поддержками/BriarVes_BustLittleHood_Legs (hollowed out).stl",
+          "bytes": 14716584,
+          "crc": 2362817137
+        },
+        "file:briar-vess:STL/Бюст/С поддержками/BriarVes_BustLittleHood_Platform1 (hollowed out).stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1OXsz4IwS744fiUKTeHIS3_BFHz0RzcoY&export=download&confirm=t",
+          "archiveName": "briar-vess-stl.zip",
+          "member": "STL/Бюст/С поддержками/BriarVes_BustLittleHood_Platform1 (hollowed out).stl",
+          "bytes": 27040584,
+          "crc": 1121478004
+        },
+        "file:briar-vess:STL/Бюст/С поддержками/BriarVes_BustlittleHood_Skirt (hollowed out).stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1OXsz4IwS744fiUKTeHIS3_BFHz0RzcoY&export=download&confirm=t",
+          "archiveName": "briar-vess-stl.zip",
+          "member": "STL/Бюст/С поддержками/BriarVes_BustlittleHood_Skirt (hollowed out).stl",
+          "bytes": 14123534,
+          "crc": 755874128
+        },
+        "file:briar-vess:STL/Фигура/Без поддержек/arm_right_nsfw.stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1OXsz4IwS744fiUKTeHIS3_BFHz0RzcoY&export=download&confirm=t",
+          "archiveName": "briar-vess-stl.zip",
+          "member": "STL/Фигура/Без поддержек/arm_right_nsfw.stl",
+          "bytes": 4867684,
+          "crc": 2778777709
+        },
+        "file:briar-vess:STL/Фигура/Без поддержек/Axe_blade.stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1OXsz4IwS744fiUKTeHIS3_BFHz0RzcoY&export=download&confirm=t",
+          "archiveName": "briar-vess-stl.zip",
+          "member": "STL/Фигура/Без поддержек/Axe_blade.stl",
+          "bytes": 8574984,
+          "crc": 421509119
+        },
+        "file:briar-vess:STL/Фигура/Без поддержек/Body_SFW.stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1OXsz4IwS744fiUKTeHIS3_BFHz0RzcoY&export=download&confirm=t",
+          "archiveName": "briar-vess-stl.zip",
+          "member": "STL/Фигура/Без поддержек/Body_SFW.stl",
+          "bytes": 13904684,
+          "crc": 2816316669
+        },
+        "file:briar-vess:STL/Фигура/Без поддержек/boot_left.stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1OXsz4IwS744fiUKTeHIS3_BFHz0RzcoY&export=download&confirm=t",
+          "archiveName": "briar-vess-stl.zip",
+          "member": "STL/Фигура/Без поддержек/boot_left.stl",
+          "bytes": 6869484,
+          "crc": 2122623403
+        },
+        "file:briar-vess:STL/Фигура/Без поддержек/boot_right.stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1OXsz4IwS744fiUKTeHIS3_BFHz0RzcoY&export=download&confirm=t",
+          "archiveName": "briar-vess-stl.zip",
+          "member": "STL/Фигура/Без поддержек/boot_right.stl",
+          "bytes": 7499984,
+          "crc": 4123436640
+        },
+        "file:briar-vess:STL/Фигура/Без поддержек/Cloack.stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1OXsz4IwS744fiUKTeHIS3_BFHz0RzcoY&export=download&confirm=t",
+          "archiveName": "briar-vess-stl.zip",
+          "member": "STL/Фигура/Без поддержек/Cloack.stl",
+          "bytes": 4256784,
+          "crc": 3124731639
+        },
+        "file:briar-vess:STL/Фигура/Без поддержек/Hair_SFW.stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1OXsz4IwS744fiUKTeHIS3_BFHz0RzcoY&export=download&confirm=t",
+          "archiveName": "briar-vess-stl.zip",
+          "member": "STL/Фигура/Без поддержек/Hair_SFW.stl",
+          "bytes": 7650984,
+          "crc": 3141232081
+        },
+        "file:briar-vess:STL/Фигура/Без поддержек/HairNSFW.stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1OXsz4IwS744fiUKTeHIS3_BFHz0RzcoY&export=download&confirm=t",
+          "archiveName": "briar-vess-stl.zip",
+          "member": "STL/Фигура/Без поддержек/HairNSFW.stl",
+          "bytes": 8193884,
+          "crc": 2750764202
+        },
+        "file:briar-vess:STL/Фигура/Без поддержек/hand_right_SFW.stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1OXsz4IwS744fiUKTeHIS3_BFHz0RzcoY&export=download&confirm=t",
+          "archiveName": "briar-vess-stl.zip",
+          "member": "STL/Фигура/Без поддержек/hand_right_SFW.stl",
+          "bytes": 2673384,
+          "crc": 924375660
+        },
+        "file:briar-vess:STL/Фигура/Без поддержек/Left_hand.stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1OXsz4IwS744fiUKTeHIS3_BFHz0RzcoY&export=download&confirm=t",
+          "archiveName": "briar-vess-stl.zip",
+          "member": "STL/Фигура/Без поддержек/Left_hand.stl",
+          "bytes": 14290284,
+          "crc": 778954875
+        },
+        "file:briar-vess:STL/Фигура/Без поддержек/Legs.stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1OXsz4IwS744fiUKTeHIS3_BFHz0RzcoY&export=download&confirm=t",
+          "archiveName": "briar-vess-stl.zip",
+          "member": "STL/Фигура/Без поддержек/Legs.stl",
+          "bytes": 7021984,
+          "crc": 2281253703
+        },
+        "file:briar-vess:STL/Фигура/Без поддержек/NSFW_Left_arm.stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1OXsz4IwS744fiUKTeHIS3_BFHz0RzcoY&export=download&confirm=t",
+          "archiveName": "briar-vess-stl.zip",
+          "member": "STL/Фигура/Без поддержек/NSFW_Left_arm.stl",
+          "bytes": 15617584,
+          "crc": 994908449
+        },
+        "file:briar-vess:STL/Фигура/Без поддержек/NSFWBODY1.stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1OXsz4IwS744fiUKTeHIS3_BFHz0RzcoY&export=download&confirm=t",
+          "archiveName": "briar-vess-stl.zip",
+          "member": "STL/Фигура/Без поддержек/NSFWBODY1.stl",
+          "bytes": 14066684,
+          "crc": 214593474
+        },
+        "file:briar-vess:STL/Фигура/Без поддержек/Platform.stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1OXsz4IwS744fiUKTeHIS3_BFHz0RzcoY&export=download&confirm=t",
+          "archiveName": "briar-vess-stl.zip",
+          "member": "STL/Фигура/Без поддержек/Platform.stl",
+          "bytes": 12952584,
+          "crc": 2190087722
+        },
+        "file:briar-vess:STL/Фигура/Без поддержек/Skirt.stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1OXsz4IwS744fiUKTeHIS3_BFHz0RzcoY&export=download&confirm=t",
+          "archiveName": "briar-vess-stl.zip",
+          "member": "STL/Фигура/Без поддержек/Skirt.stl",
+          "bytes": 9636334,
+          "crc": 589707443
+        },
+        "file:briar-vess:STL/Фигура/С поддержками/BriarVes_arm_right_nsfw.stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1OXsz4IwS744fiUKTeHIS3_BFHz0RzcoY&export=download&confirm=t",
+          "archiveName": "briar-vess-stl.zip",
+          "member": "STL/Фигура/С поддержками/BriarVes_arm_right_nsfw.stl",
+          "bytes": 6373684,
+          "crc": 436036812
+        },
+        "file:briar-vess:STL/Фигура/С поддержками/BriarVes_Axe_blade.stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1OXsz4IwS744fiUKTeHIS3_BFHz0RzcoY&export=download&confirm=t",
+          "archiveName": "briar-vess-stl.zip",
+          "member": "STL/Фигура/С поддержками/BriarVes_Axe_blade.stl",
+          "bytes": 14994384,
+          "crc": 3521179573
+        },
+        "file:briar-vess:STL/Фигура/С поддержками/BriarVes_Body_SFW #1 (hollowed out).stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1OXsz4IwS744fiUKTeHIS3_BFHz0RzcoY&export=download&confirm=t",
+          "archiveName": "briar-vess-stl.zip",
+          "member": "STL/Фигура/С поддержками/BriarVes_Body_SFW #1 (hollowed out).stl",
+          "bytes": 22076134,
+          "crc": 2487506033
+        },
+        "file:briar-vess:STL/Фигура/С поддержками/BriarVes_boot_left (hollowed out).stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1OXsz4IwS744fiUKTeHIS3_BFHz0RzcoY&export=download&confirm=t",
+          "archiveName": "briar-vess-stl.zip",
+          "member": "STL/Фигура/С поддержками/BriarVes_boot_left (hollowed out).stl",
+          "bytes": 11743084,
+          "crc": 2177437127
+        },
+        "file:briar-vess:STL/Фигура/С поддержками/BriarVes_boot_right (hollowed out).stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1OXsz4IwS744fiUKTeHIS3_BFHz0RzcoY&export=download&confirm=t",
+          "archiveName": "briar-vess-stl.zip",
+          "member": "STL/Фигура/С поддержками/BriarVes_boot_right (hollowed out).stl",
+          "bytes": 12425584,
+          "crc": 103947467
+        },
+        "file:briar-vess:STL/Фигура/С поддержками/BriarVes_Cloack.stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1OXsz4IwS744fiUKTeHIS3_BFHz0RzcoY&export=download&confirm=t",
+          "archiveName": "briar-vess-stl.zip",
+          "member": "STL/Фигура/С поддержками/BriarVes_Cloack.stl",
+          "bytes": 8871984,
+          "crc": 1272408183
+        },
+        "file:briar-vess:STL/Фигура/С поддержками/BriarVes_Hair_SFW (hollowed out).stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1OXsz4IwS744fiUKTeHIS3_BFHz0RzcoY&export=download&confirm=t",
+          "archiveName": "briar-vess-stl.zip",
+          "member": "STL/Фигура/С поддержками/BriarVes_Hair_SFW (hollowed out).stl",
+          "bytes": 11866584,
+          "crc": 292491089
+        },
+        "file:briar-vess:STL/Фигура/С поддержками/BriarVes_HairNSFW (hollowed out).stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1OXsz4IwS744fiUKTeHIS3_BFHz0RzcoY&export=download&confirm=t",
+          "archiveName": "briar-vess-stl.zip",
+          "member": "STL/Фигура/С поддержками/BriarVes_HairNSFW (hollowed out).stl",
+          "bytes": 14460334,
+          "crc": 1300518628
+        },
+        "file:briar-vess:STL/Фигура/С поддержками/BriarVes_hand_right.stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1OXsz4IwS744fiUKTeHIS3_BFHz0RzcoY&export=download&confirm=t",
+          "archiveName": "briar-vess-stl.zip",
+          "member": "STL/Фигура/С поддержками/BriarVes_hand_right.stl",
+          "bytes": 3549984,
+          "crc": 2331218825
+        },
+        "file:briar-vess:STL/Фигура/С поддержками/BriarVes_Left_hand.stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1OXsz4IwS744fiUKTeHIS3_BFHz0RzcoY&export=download&confirm=t",
+          "archiveName": "briar-vess-stl.zip",
+          "member": "STL/Фигура/С поддержками/BriarVes_Left_hand.stl",
+          "bytes": 21279084,
+          "crc": 3063740253
+        },
+        "file:briar-vess:STL/Фигура/С поддержками/BriarVes_Legs (hollowed out).stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1OXsz4IwS744fiUKTeHIS3_BFHz0RzcoY&export=download&confirm=t",
+          "archiveName": "briar-vess-stl.zip",
+          "member": "STL/Фигура/С поддержками/BriarVes_Legs (hollowed out).stl",
+          "bytes": 12813284,
+          "crc": 685913254
+        },
+        "file:briar-vess:STL/Фигура/С поддержками/BriarVes_NSFW_Left_arm.stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1OXsz4IwS744fiUKTeHIS3_BFHz0RzcoY&export=download&confirm=t",
+          "archiveName": "briar-vess-stl.zip",
+          "member": "STL/Фигура/С поддержками/BriarVes_NSFW_Left_arm.stl",
+          "bytes": 25402384,
+          "crc": 2018707416
+        },
+        "file:briar-vess:STL/Фигура/С поддержками/BriarVes_NSFWBODY1 #1 (hollowed out).stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1OXsz4IwS744fiUKTeHIS3_BFHz0RzcoY&export=download&confirm=t",
+          "archiveName": "briar-vess-stl.zip",
+          "member": "STL/Фигура/С поддержками/BriarVes_NSFWBODY1 #1 (hollowed out).stl",
+          "bytes": 28313734,
+          "crc": 4117700564
+        },
+        "file:briar-vess:STL/Фигура/С поддержками/BriarVes_Platform (hollowed out).stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1OXsz4IwS744fiUKTeHIS3_BFHz0RzcoY&export=download&confirm=t",
+          "archiveName": "briar-vess-stl.zip",
+          "member": "STL/Фигура/С поддержками/BriarVes_Platform (hollowed out).stl",
+          "bytes": 41997934,
+          "crc": 3273914844
+        },
+        "file:briar-vess:STL/Фигура/С поддержками/BriarVes_Skirt (hollowed out).stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1OXsz4IwS744fiUKTeHIS3_BFHz0RzcoY&export=download&confirm=t",
+          "archiveName": "briar-vess-stl.zip",
+          "member": "STL/Фигура/С поддержками/BriarVes_Skirt (hollowed out).stl",
+          "bytes": 24461734,
+          "crc": 968952894
+        },
+        "file:briar-vess:Chitubox/BriarVes.chitubox": {
+          "path": "https://drive.usercontent.google.com/download?id=12AtJcytcA73uZfQuF32xBpUjCdShYbLo&export=download&confirm=t",
+          "archiveName": "briar-vess-chitubox.zip",
+          "member": "Chitubox/BriarVes.chitubox",
+          "bytes": 221436065,
+          "crc": 2456029755
+        },
+        "file:briar-vess:Chitubox/BriarVesBust.chitubox": {
+          "path": "https://drive.usercontent.google.com/download?id=12AtJcytcA73uZfQuF32xBpUjCdShYbLo&export=download&confirm=t",
+          "archiveName": "briar-vess-chitubox.zip",
+          "member": "Chitubox/BriarVesBust.chitubox",
+          "bytes": 49966994,
+          "crc": 3732317212
+        },
+        "file:briar-vess:Рендеры/NSFW/Изображения/Picture_Portrait Close_005.png": {
+          "path": "https://drive.usercontent.google.com/download?id=1p235Atxt_jIKvF7bO0OHPVVEsozPC5O-&export=download&confirm=t",
+          "archiveName": "briar-vess-renders.zip",
+          "member": "Рендеры/NSFW/Изображения/Picture_Portrait Close_005.png",
+          "bytes": 4887313,
+          "crc": 2376182816
+        },
+        "file:briar-vess:Рендеры/NSFW/Изображения/Picture_Portrait Close_006.png": {
+          "path": "https://drive.usercontent.google.com/download?id=1p235Atxt_jIKvF7bO0OHPVVEsozPC5O-&export=download&confirm=t",
+          "archiveName": "briar-vess-renders.zip",
+          "member": "Рендеры/NSFW/Изображения/Picture_Portrait Close_006.png",
+          "bytes": 4851240,
+          "crc": 495643542
+        },
+        "file:briar-vess:Рендеры/NSFW/Изображения/Picture_Portrait Close_007.png": {
+          "path": "https://drive.usercontent.google.com/download?id=1p235Atxt_jIKvF7bO0OHPVVEsozPC5O-&export=download&confirm=t",
+          "archiveName": "briar-vess-renders.zip",
+          "member": "Рендеры/NSFW/Изображения/Picture_Portrait Close_007.png",
+          "bytes": 4876466,
+          "crc": 1543075546
+        },
+        "file:briar-vess:Рендеры/SFW/Изображения/Picture_Portrait Close.png": {
+          "path": "https://drive.usercontent.google.com/download?id=1p235Atxt_jIKvF7bO0OHPVVEsozPC5O-&export=download&confirm=t",
+          "archiveName": "briar-vess-renders.zip",
+          "member": "Рендеры/SFW/Изображения/Picture_Portrait Close.png",
+          "bytes": 4918071,
+          "crc": 1023919829
+        },
+        "file:briar-vess:Рендеры/SFW/Изображения/Picture_Portrait Close_001.png": {
+          "path": "https://drive.usercontent.google.com/download?id=1p235Atxt_jIKvF7bO0OHPVVEsozPC5O-&export=download&confirm=t",
+          "archiveName": "briar-vess-renders.zip",
+          "member": "Рендеры/SFW/Изображения/Picture_Portrait Close_001.png",
+          "bytes": 4914372,
+          "crc": 3412348805
+        },
+        "file:briar-vess:Рендеры/SFW/Изображения/Picture_Portrait Close_002.png": {
+          "path": "https://drive.usercontent.google.com/download?id=1p235Atxt_jIKvF7bO0OHPVVEsozPC5O-&export=download&confirm=t",
+          "archiveName": "briar-vess-renders.zip",
+          "member": "Рендеры/SFW/Изображения/Picture_Portrait Close_002.png",
+          "bytes": 4878169,
+          "crc": 3705838884
+        },
+        "file:briar-vess:Рендеры/SFW/Изображения/Picture_Portrait Close_003.png": {
+          "path": "https://drive.usercontent.google.com/download?id=1p235Atxt_jIKvF7bO0OHPVVEsozPC5O-&export=download&confirm=t",
+          "archiveName": "briar-vess-renders.zip",
+          "member": "Рендеры/SFW/Изображения/Picture_Portrait Close_003.png",
+          "bytes": 4883353,
+          "crc": 1905509422
+        },
+        "file:briar-vess:Рендеры/SFW/Изображения/Picture_Portrait Close_004.png": {
+          "path": "https://drive.usercontent.google.com/download?id=1p235Atxt_jIKvF7bO0OHPVVEsozPC5O-&export=download&confirm=t",
+          "archiveName": "briar-vess-renders.zip",
+          "member": "Рендеры/SFW/Изображения/Picture_Portrait Close_004.png",
+          "bytes": 4946294,
+          "crc": 3116753925
+        },
+        "file:briar-vess:Рендеры/SFW/Изображения/Picture_Portrait Close_008.png": {
+          "path": "https://drive.usercontent.google.com/download?id=1p235Atxt_jIKvF7bO0OHPVVEsozPC5O-&export=download&confirm=t",
+          "archiveName": "briar-vess-renders.zip",
+          "member": "Рендеры/SFW/Изображения/Picture_Portrait Close_008.png",
+          "bytes": 4834688,
+          "crc": 706427824
+        },
+        "file:briar-vess:Рендеры/SFW/Изображения/Picture_Portrait Close_009.png": {
+          "path": "https://drive.usercontent.google.com/download?id=1p235Atxt_jIKvF7bO0OHPVVEsozPC5O-&export=download&confirm=t",
+          "archiveName": "briar-vess-renders.zip",
+          "member": "Рендеры/SFW/Изображения/Picture_Portrait Close_009.png",
+          "bytes": 4856660,
+          "crc": 2252867761
+        },
+        "file:briar-vess:Рендеры/SFW/Изображения/Picture_Portrait Close_010.png": {
+          "path": "https://drive.usercontent.google.com/download?id=1p235Atxt_jIKvF7bO0OHPVVEsozPC5O-&export=download&confirm=t",
+          "archiveName": "briar-vess-renders.zip",
+          "member": "Рендеры/SFW/Изображения/Picture_Portrait Close_010.png",
+          "bytes": 4797980,
+          "crc": 3176344487
+        },
+        "file:briar-vess:Рендеры/Бюст/Изображения/Bust_Portrait Close_002.png": {
+          "path": null,
+          "archiveName": null,
+          "member": null,
+          "bytes": 15593644,
+          "crc": 4154493955
+        },
+        "file:briar-vess:Рендеры/Бюст/Изображения/Bust_Portrait Close_003.png": {
+          "path": null,
+          "archiveName": null,
+          "member": null,
+          "bytes": 15820364,
+          "crc": 4285491484
+        },
+        "file:briar-vess:Рендеры/Видео/Video_Portrait Close.mp4": {
+          "path": "https://drive.usercontent.google.com/download?id=1p235Atxt_jIKvF7bO0OHPVVEsozPC5O-&export=download&confirm=t",
+          "archiveName": "briar-vess-renders.zip",
+          "member": "Рендеры/Видео/Video_Portrait Close.mp4",
+          "bytes": 46581661,
+          "crc": 3088533814
+        },
+        "file:briar-vess:Рендеры/Видео/Video_Portrait Close_001.mp4": {
+          "path": "https://drive.usercontent.google.com/download?id=1p235Atxt_jIKvF7bO0OHPVVEsozPC5O-&export=download&confirm=t",
+          "archiveName": "briar-vess-renders.zip",
+          "member": "Рендеры/Видео/Video_Portrait Close_001.mp4",
+          "bytes": 44354609,
+          "crc": 2947908769
+        }
+      }
+    },
+    "chibi-cat": {
+      "packages": {
+        "model": {
+          "path": "https://drive.usercontent.google.com/download?id=19KHYUvBCb8X6PfnCrcVeDpGM__oT1p9h&export=download&confirm=t",
+          "bytes": 90456082,
+          "files": 8,
+          "archiveName": "chibi-cat-stl.zip",
+          "fallback": false
+        },
+        "renders": {
+          "path": "https://drive.usercontent.google.com/download?id=1f4haiJ7AfOTgtif3yx2BCoWpSiXduNg9&export=download&confirm=t",
+          "bytes": 9274106,
+          "files": 2,
+          "archiveName": "chibi-cat-renders.zip",
+          "fallback": false
+        },
+        "chitubox": {
+          "path": "https://drive.usercontent.google.com/download?id=1arTBE78mncIoDMDmzp1rHkmnnLT9EoIW&export=download&confirm=t",
+          "bytes": 109517817,
+          "files": 1,
+          "archiveName": "chibi-chitubox.zip",
+          "fallback": false
+        },
+        "bustRenders": null
+      },
+      "files": {
+        "file:chibi-cat:STL/Без поддержек/Base.stl": {
+          "path": "https://drive.usercontent.google.com/download?id=19KHYUvBCb8X6PfnCrcVeDpGM__oT1p9h&export=download&confirm=t",
+          "archiveName": "chibi-cat-stl.zip",
+          "member": "STL/Без поддержек/Base.stl",
+          "bytes": 17083984,
+          "crc": 3890834407
+        },
+        "file:chibi-cat:STL/Без поддержек/Cat_body.stl": {
+          "path": "https://drive.usercontent.google.com/download?id=19KHYUvBCb8X6PfnCrcVeDpGM__oT1p9h&export=download&confirm=t",
+          "archiveName": "chibi-cat-stl.zip",
+          "member": "STL/Без поддержек/Cat_body.stl",
+          "bytes": 15272584,
+          "crc": 162520330
+        },
+        "file:chibi-cat:STL/Без поддержек/Cat_Cloack.stl": {
+          "path": "https://drive.usercontent.google.com/download?id=19KHYUvBCb8X6PfnCrcVeDpGM__oT1p9h&export=download&confirm=t",
+          "archiveName": "chibi-cat-stl.zip",
+          "member": "STL/Без поддержек/Cat_Cloack.stl",
+          "bytes": 18317084,
+          "crc": 2183900436
+        },
+        "file:chibi-cat:STL/Без поддержек/Cat_Head.stl": {
+          "path": "https://drive.usercontent.google.com/download?id=19KHYUvBCb8X6PfnCrcVeDpGM__oT1p9h&export=download&confirm=t",
+          "archiveName": "chibi-cat-stl.zip",
+          "member": "STL/Без поддержек/Cat_Head.stl",
+          "bytes": 12431684,
+          "crc": 1338919022
+        },
+        "file:chibi-cat:STL/С поддержками/Chibi_Base (hollowed out).stl": {
+          "path": "https://drive.usercontent.google.com/download?id=19KHYUvBCb8X6PfnCrcVeDpGM__oT1p9h&export=download&confirm=t",
+          "archiveName": "chibi-cat-stl.zip",
+          "member": "STL/С поддержками/Chibi_Base (hollowed out).stl",
+          "bytes": 39931384,
+          "crc": 3420437648
+        },
+        "file:chibi-cat:STL/С поддержками/Chibi_Cat_body (hollowed out).stl": {
+          "path": "https://drive.usercontent.google.com/download?id=19KHYUvBCb8X6PfnCrcVeDpGM__oT1p9h&export=download&confirm=t",
+          "archiveName": "chibi-cat-stl.zip",
+          "member": "STL/С поддержками/Chibi_Cat_body (hollowed out).stl",
+          "bytes": 24239234,
+          "crc": 167591892
+        },
+        "file:chibi-cat:STL/С поддержками/Chibi_Cat_Cloack.stl": {
+          "path": "https://drive.usercontent.google.com/download?id=19KHYUvBCb8X6PfnCrcVeDpGM__oT1p9h&export=download&confirm=t",
+          "archiveName": "chibi-cat-stl.zip",
+          "member": "STL/С поддержками/Chibi_Cat_Cloack.stl",
+          "bytes": 33252884,
+          "crc": 2475624947
+        },
+        "file:chibi-cat:STL/С поддержками/Chibi_Cat_Head.stl": {
+          "path": "https://drive.usercontent.google.com/download?id=19KHYUvBCb8X6PfnCrcVeDpGM__oT1p9h&export=download&confirm=t",
+          "archiveName": "chibi-cat-stl.zip",
+          "member": "STL/С поддержками/Chibi_Cat_Head.stl",
+          "bytes": 18881734,
+          "crc": 2226125488
+        },
+        "file:chibi-cat:Рендеры/Picture_Portrait Close_008.png": {
+          "path": "https://drive.usercontent.google.com/download?id=1f4haiJ7AfOTgtif3yx2BCoWpSiXduNg9&export=download&confirm=t",
+          "archiveName": "chibi-cat-renders.zip",
+          "member": "Рендеры/Picture_Portrait Close_008.png",
+          "bytes": 4690817,
+          "crc": 201593066
+        },
+        "file:chibi-cat:Рендеры/Picture_Portrait Close_009.png": {
+          "path": "https://drive.usercontent.google.com/download?id=1f4haiJ7AfOTgtif3yx2BCoWpSiXduNg9&export=download&confirm=t",
+          "archiveName": "chibi-cat-renders.zip",
+          "member": "Рендеры/Picture_Portrait Close_009.png",
+          "bytes": 4583601,
+          "crc": 3868613031
+        },
+        "file:chibi:Chibi.chitubox": {
+          "path": "https://drive.usercontent.google.com/download?id=1arTBE78mncIoDMDmzp1rHkmnnLT9EoIW&export=download&confirm=t",
+          "archiveName": "chibi-chitubox.zip",
+          "member": "Chitubox/Chibi.chitubox",
+          "bytes": 223859764,
+          "crc": 4168923068
+        }
+      }
+    },
+    "chibi-goat": {
+      "packages": {
+        "model": {
+          "path": "https://drive.usercontent.google.com/download?id=1dxQQbjNuo_z7idd6uVbpmAnDzxVB5Ayi&export=download&confirm=t",
+          "bytes": 139036265,
+          "files": 16,
+          "archiveName": "chibi-goat-stl.zip",
+          "fallback": false
+        },
+        "renders": {
+          "path": "https://drive.usercontent.google.com/download?id=1o7XpmZwVFA0m_mpHgLvKUUVrBF6t_hcZ&export=download&confirm=t",
+          "bytes": 28496745,
+          "files": 6,
+          "archiveName": "chibi-goat-renders.zip",
+          "fallback": false
+        },
+        "chitubox": {
+          "path": "https://drive.usercontent.google.com/download?id=1arTBE78mncIoDMDmzp1rHkmnnLT9EoIW&export=download&confirm=t",
+          "bytes": 109517817,
+          "files": 1,
+          "archiveName": "chibi-chitubox.zip",
+          "fallback": false
+        },
+        "bustRenders": null
+      },
+      "files": {
+        "file:chibi-goat:STL/Без поддержек/Base.stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1dxQQbjNuo_z7idd6uVbpmAnDzxVB5Ayi&export=download&confirm=t",
+          "archiveName": "chibi-goat-stl.zip",
+          "member": "STL/Без поддержек/Base.stl",
+          "bytes": 17083984,
+          "crc": 3890834407
+        },
+        "file:chibi-goat:STL/Без поддержек/Bow.stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1dxQQbjNuo_z7idd6uVbpmAnDzxVB5Ayi&export=download&confirm=t",
+          "archiveName": "chibi-goat-stl.zip",
+          "member": "STL/Без поддержек/Bow.stl",
+          "bytes": 15484984,
+          "crc": 24571538
+        },
+        "file:chibi-goat:STL/Без поддержек/Bow2.stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1dxQQbjNuo_z7idd6uVbpmAnDzxVB5Ayi&export=download&confirm=t",
+          "archiveName": "chibi-goat-stl.zip",
+          "member": "STL/Без поддержек/Bow2.stl",
+          "bytes": 2664884,
+          "crc": 3958786761
+        },
+        "file:chibi-goat:STL/Без поддержек/Dress.stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1dxQQbjNuo_z7idd6uVbpmAnDzxVB5Ayi&export=download&confirm=t",
+          "archiveName": "chibi-goat-stl.zip",
+          "member": "STL/Без поддержек/Dress.stl",
+          "bytes": 22543984,
+          "crc": 268031227
+        },
+        "file:chibi-goat:STL/Без поддержек/Goat_Head.stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1dxQQbjNuo_z7idd6uVbpmAnDzxVB5Ayi&export=download&confirm=t",
+          "archiveName": "chibi-goat-stl.zip",
+          "member": "STL/Без поддержек/Goat_Head.stl",
+          "bytes": 13628184,
+          "crc": 782603692
+        },
+        "file:chibi-goat:STL/Без поддержек/Goat_left_arm.stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1dxQQbjNuo_z7idd6uVbpmAnDzxVB5Ayi&export=download&confirm=t",
+          "archiveName": "chibi-goat-stl.zip",
+          "member": "STL/Без поддержек/Goat_left_arm.stl",
+          "bytes": 10518984,
+          "crc": 1976979586
+        },
+        "file:chibi-goat:STL/Без поддержек/Goat_legs.stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1dxQQbjNuo_z7idd6uVbpmAnDzxVB5Ayi&export=download&confirm=t",
+          "archiveName": "chibi-goat-stl.zip",
+          "member": "STL/Без поддержек/Goat_legs.stl",
+          "bytes": 8696884,
+          "crc": 1366977841
+        },
+        "file:chibi-goat:STL/Без поддержек/Right_arm.stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1dxQQbjNuo_z7idd6uVbpmAnDzxVB5Ayi&export=download&confirm=t",
+          "archiveName": "chibi-goat-stl.zip",
+          "member": "STL/Без поддержек/Right_arm.stl",
+          "bytes": 10302084,
+          "crc": 2897961335
+        },
+        "file:chibi-goat:STL/С поддержками/Chibi_Base (hollowed out).stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1dxQQbjNuo_z7idd6uVbpmAnDzxVB5Ayi&export=download&confirm=t",
+          "archiveName": "chibi-goat-stl.zip",
+          "member": "STL/С поддержками/Chibi_Base (hollowed out).stl",
+          "bytes": 39931384,
+          "crc": 3420437648
+        },
+        "file:chibi-goat:STL/С поддержками/Chibi_Bow.stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1dxQQbjNuo_z7idd6uVbpmAnDzxVB5Ayi&export=download&confirm=t",
+          "archiveName": "chibi-goat-stl.zip",
+          "member": "STL/С поддержками/Chibi_Bow.stl",
+          "bytes": 20189584,
+          "crc": 2823703648
+        },
+        "file:chibi-goat:STL/С поддержками/Chibi_Bow2.stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1dxQQbjNuo_z7idd6uVbpmAnDzxVB5Ayi&export=download&confirm=t",
+          "archiveName": "chibi-goat-stl.zip",
+          "member": "STL/С поддержками/Chibi_Bow2.stl",
+          "bytes": 4028084,
+          "crc": 3302628576
+        },
+        "file:chibi-goat:STL/С поддержками/Chibi_Dress (hollowed out).stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1dxQQbjNuo_z7idd6uVbpmAnDzxVB5Ayi&export=download&confirm=t",
+          "archiveName": "chibi-goat-stl.zip",
+          "member": "STL/С поддержками/Chibi_Dress (hollowed out).stl",
+          "bytes": 46481384,
+          "crc": 1489648911
+        },
+        "file:chibi-goat:STL/С поддержками/Chibi_Goat_Head (hollowed out).stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1dxQQbjNuo_z7idd6uVbpmAnDzxVB5Ayi&export=download&confirm=t",
+          "archiveName": "chibi-goat-stl.zip",
+          "member": "STL/С поддержками/Chibi_Goat_Head (hollowed out).stl",
+          "bytes": 18768434,
+          "crc": 1482749872
+        },
+        "file:chibi-goat:STL/С поддержками/Chibi_Goat_left_arm (hollowed out).stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1dxQQbjNuo_z7idd6uVbpmAnDzxVB5Ayi&export=download&confirm=t",
+          "archiveName": "chibi-goat-stl.zip",
+          "member": "STL/С поддержками/Chibi_Goat_left_arm (hollowed out).stl",
+          "bytes": 16392384,
+          "crc": 996476167
+        },
+        "file:chibi-goat:STL/С поддержками/Chibi_Goat_legs (hollowed out).stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1dxQQbjNuo_z7idd6uVbpmAnDzxVB5Ayi&export=download&confirm=t",
+          "archiveName": "chibi-goat-stl.zip",
+          "member": "STL/С поддержками/Chibi_Goat_legs (hollowed out).stl",
+          "bytes": 17373584,
+          "crc": 4120944291
+        },
+        "file:chibi-goat:STL/С поддержками/Chibi_Right_arm (hollowed out).stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1dxQQbjNuo_z7idd6uVbpmAnDzxVB5Ayi&export=download&confirm=t",
+          "archiveName": "chibi-goat-stl.zip",
+          "member": "STL/С поддержками/Chibi_Right_arm (hollowed out).stl",
+          "bytes": 11730134,
+          "crc": 2772020155
+        },
+        "file:chibi-goat:Рендеры/Picture_Portrait Close_002.png": {
+          "path": "https://drive.usercontent.google.com/download?id=1o7XpmZwVFA0m_mpHgLvKUUVrBF6t_hcZ&export=download&confirm=t",
+          "archiveName": "chibi-goat-renders.zip",
+          "member": "Рендеры/Picture_Portrait Close_002.png",
+          "bytes": 4768158,
+          "crc": 4247993189
+        },
+        "file:chibi-goat:Рендеры/Picture_Portrait Close_003.png": {
+          "path": "https://drive.usercontent.google.com/download?id=1o7XpmZwVFA0m_mpHgLvKUUVrBF6t_hcZ&export=download&confirm=t",
+          "archiveName": "chibi-goat-renders.zip",
+          "member": "Рендеры/Picture_Portrait Close_003.png",
+          "bytes": 4758976,
+          "crc": 640372143
+        },
+        "file:chibi-goat:Рендеры/Picture_Portrait Close_004.png": {
+          "path": "https://drive.usercontent.google.com/download?id=1o7XpmZwVFA0m_mpHgLvKUUVrBF6t_hcZ&export=download&confirm=t",
+          "archiveName": "chibi-goat-renders.zip",
+          "member": "Рендеры/Picture_Portrait Close_004.png",
+          "bytes": 4760107,
+          "crc": 2286150399
+        },
+        "file:chibi-goat:Рендеры/Picture_Portrait Close_005.png": {
+          "path": "https://drive.usercontent.google.com/download?id=1o7XpmZwVFA0m_mpHgLvKUUVrBF6t_hcZ&export=download&confirm=t",
+          "archiveName": "chibi-goat-renders.zip",
+          "member": "Рендеры/Picture_Portrait Close_005.png",
+          "bytes": 4747376,
+          "crc": 1285686065
+        },
+        "file:chibi-goat:Рендеры/Picture_Portrait Close_006.png": {
+          "path": "https://drive.usercontent.google.com/download?id=1o7XpmZwVFA0m_mpHgLvKUUVrBF6t_hcZ&export=download&confirm=t",
+          "archiveName": "chibi-goat-renders.zip",
+          "member": "Рендеры/Picture_Portrait Close_006.png",
+          "bytes": 4733969,
+          "crc": 3948933998
+        },
+        "file:chibi-goat:Рендеры/Picture_Portrait Close_007.png": {
+          "path": "https://drive.usercontent.google.com/download?id=1o7XpmZwVFA0m_mpHgLvKUUVrBF6t_hcZ&export=download&confirm=t",
+          "archiveName": "chibi-goat-renders.zip",
+          "member": "Рендеры/Picture_Portrait Close_007.png",
+          "bytes": 4726216,
+          "crc": 4125586818
+        },
+        "file:chibi:Chibi.chitubox": {
+          "path": "https://drive.usercontent.google.com/download?id=1arTBE78mncIoDMDmzp1rHkmnnLT9EoIW&export=download&confirm=t",
+          "archiveName": "chibi-chitubox.zip",
+          "member": "Chitubox/Chibi.chitubox",
+          "bytes": 223859764,
+          "crc": 4168923068
+        }
+      }
+    },
+    "chibi-rabbit": {
+      "packages": {
+        "model": {
+          "path": "https://drive.usercontent.google.com/download?id=1DeO_di1_6VHVoH9__0YHJwGvLRIX17ZV&export=download&confirm=t",
+          "bytes": 140815732,
+          "files": 16,
+          "archiveName": "chibi-rabbit-stl.zip",
+          "fallback": false
+        },
+        "renders": {
+          "path": "https://drive.usercontent.google.com/download?id=1LYkiDZbxD8wTKz6VbVE143IxezZ2DXG4&export=download&confirm=t",
+          "bytes": 9538675,
+          "files": 2,
+          "archiveName": "chibi-rabbit-renders.zip",
+          "fallback": false
+        },
+        "chitubox": {
+          "path": "https://drive.usercontent.google.com/download?id=1arTBE78mncIoDMDmzp1rHkmnnLT9EoIW&export=download&confirm=t",
+          "bytes": 109517817,
+          "files": 1,
+          "archiveName": "chibi-chitubox.zip",
+          "fallback": false
+        },
+        "bustRenders": null
+      },
+      "files": {
+        "file:chibi-rabbit:STL/Без поддержек/Base.stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1DeO_di1_6VHVoH9__0YHJwGvLRIX17ZV&export=download&confirm=t",
+          "archiveName": "chibi-rabbit-stl.zip",
+          "member": "STL/Без поддержек/Base.stl",
+          "bytes": 17083984,
+          "crc": 3890834407
+        },
+        "file:chibi-rabbit:STL/Без поддержек/Bow.stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1DeO_di1_6VHVoH9__0YHJwGvLRIX17ZV&export=download&confirm=t",
+          "archiveName": "chibi-rabbit-stl.zip",
+          "member": "STL/Без поддержек/Bow.stl",
+          "bytes": 15484984,
+          "crc": 24571538
+        },
+        "file:chibi-rabbit:STL/Без поддержек/Bow2.stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1DeO_di1_6VHVoH9__0YHJwGvLRIX17ZV&export=download&confirm=t",
+          "archiveName": "chibi-rabbit-stl.zip",
+          "member": "STL/Без поддержек/Bow2.stl",
+          "bytes": 2664884,
+          "crc": 3958786761
+        },
+        "file:chibi-rabbit:STL/Без поддержек/Dress.stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1DeO_di1_6VHVoH9__0YHJwGvLRIX17ZV&export=download&confirm=t",
+          "archiveName": "chibi-rabbit-stl.zip",
+          "member": "STL/Без поддержек/Dress.stl",
+          "bytes": 22543984,
+          "crc": 268031227
+        },
+        "file:chibi-rabbit:STL/Без поддержек/Rabbit_Head.stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1DeO_di1_6VHVoH9__0YHJwGvLRIX17ZV&export=download&confirm=t",
+          "archiveName": "chibi-rabbit-stl.zip",
+          "member": "STL/Без поддержек/Rabbit_Head.stl",
+          "bytes": 15957384,
+          "crc": 1923154985
+        },
+        "file:chibi-rabbit:STL/Без поддержек/Rabbit_left_arm.stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1DeO_di1_6VHVoH9__0YHJwGvLRIX17ZV&export=download&confirm=t",
+          "archiveName": "chibi-rabbit-stl.zip",
+          "member": "STL/Без поддержек/Rabbit_left_arm.stl",
+          "bytes": 14368384,
+          "crc": 389180583
+        },
+        "file:chibi-rabbit:STL/Без поддержек/Rabbit_legs.stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1DeO_di1_6VHVoH9__0YHJwGvLRIX17ZV&export=download&confirm=t",
+          "archiveName": "chibi-rabbit-stl.zip",
+          "member": "STL/Без поддержек/Rabbit_legs.stl",
+          "bytes": 4909784,
+          "crc": 138158539
+        },
+        "file:chibi-rabbit:STL/Без поддержек/Right_arm.stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1DeO_di1_6VHVoH9__0YHJwGvLRIX17ZV&export=download&confirm=t",
+          "archiveName": "chibi-rabbit-stl.zip",
+          "member": "STL/Без поддержек/Right_arm.stl",
+          "bytes": 10302084,
+          "crc": 2897961335
+        },
+        "file:chibi-rabbit:STL/С поддержками/Chibi_Base (hollowed out).stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1DeO_di1_6VHVoH9__0YHJwGvLRIX17ZV&export=download&confirm=t",
+          "archiveName": "chibi-rabbit-stl.zip",
+          "member": "STL/С поддержками/Chibi_Base (hollowed out).stl",
+          "bytes": 39931384,
+          "crc": 3420437648
+        },
+        "file:chibi-rabbit:STL/С поддержками/Chibi_Bow.stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1DeO_di1_6VHVoH9__0YHJwGvLRIX17ZV&export=download&confirm=t",
+          "archiveName": "chibi-rabbit-stl.zip",
+          "member": "STL/С поддержками/Chibi_Bow.stl",
+          "bytes": 20189584,
+          "crc": 2823703648
+        },
+        "file:chibi-rabbit:STL/С поддержками/Chibi_Bow2.stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1DeO_di1_6VHVoH9__0YHJwGvLRIX17ZV&export=download&confirm=t",
+          "archiveName": "chibi-rabbit-stl.zip",
+          "member": "STL/С поддержками/Chibi_Bow2.stl",
+          "bytes": 4028084,
+          "crc": 3302628576
+        },
+        "file:chibi-rabbit:STL/С поддержками/Chibi_Dress (hollowed out).stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1DeO_di1_6VHVoH9__0YHJwGvLRIX17ZV&export=download&confirm=t",
+          "archiveName": "chibi-rabbit-stl.zip",
+          "member": "STL/С поддержками/Chibi_Dress (hollowed out).stl",
+          "bytes": 46481384,
+          "crc": 1489648911
+        },
+        "file:chibi-rabbit:STL/С поддержками/Chibi_Rabbit_Head (hollowed out).stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1DeO_di1_6VHVoH9__0YHJwGvLRIX17ZV&export=download&confirm=t",
+          "archiveName": "chibi-rabbit-stl.zip",
+          "member": "STL/С поддержками/Chibi_Rabbit_Head (hollowed out).stl",
+          "bytes": 22003834,
+          "crc": 3034332535
+        },
+        "file:chibi-rabbit:STL/С поддержками/Chibi_Rabbit_left_arm (hollowed out).stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1DeO_di1_6VHVoH9__0YHJwGvLRIX17ZV&export=download&confirm=t",
+          "archiveName": "chibi-rabbit-stl.zip",
+          "member": "STL/С поддержками/Chibi_Rabbit_left_arm (hollowed out).stl",
+          "bytes": 20942084,
+          "crc": 3900394358
+        },
+        "file:chibi-rabbit:STL/С поддержками/Chibi_Rabbit_legs (hollowed out).stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1DeO_di1_6VHVoH9__0YHJwGvLRIX17ZV&export=download&confirm=t",
+          "archiveName": "chibi-rabbit-stl.zip",
+          "member": "STL/С поддержками/Chibi_Rabbit_legs (hollowed out).stl",
+          "bytes": 12270384,
+          "crc": 2540465337
+        },
+        "file:chibi-rabbit:STL/С поддержками/Chibi_Right_arm (hollowed out).stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1DeO_di1_6VHVoH9__0YHJwGvLRIX17ZV&export=download&confirm=t",
+          "archiveName": "chibi-rabbit-stl.zip",
+          "member": "STL/С поддержками/Chibi_Right_arm (hollowed out).stl",
+          "bytes": 11730134,
+          "crc": 2772020155
+        },
+        "file:chibi-rabbit:Рендеры/Picture_Portrait Close.png": {
+          "path": "https://drive.usercontent.google.com/download?id=1LYkiDZbxD8wTKz6VbVE143IxezZ2DXG4&export=download&confirm=t",
+          "archiveName": "chibi-rabbit-renders.zip",
+          "member": "Рендеры/Picture_Portrait Close.png",
+          "bytes": 4773242,
+          "crc": 1395081992
+        },
+        "file:chibi-rabbit:Рендеры/Picture_Portrait Close_001.png": {
+          "path": "https://drive.usercontent.google.com/download?id=1LYkiDZbxD8wTKz6VbVE143IxezZ2DXG4&export=download&confirm=t",
+          "archiveName": "chibi-rabbit-renders.zip",
+          "member": "Рендеры/Picture_Portrait Close_001.png",
+          "bytes": 4763124,
+          "crc": 1604338075
+        },
+        "file:chibi:Chibi.chitubox": {
+          "path": "https://drive.usercontent.google.com/download?id=1arTBE78mncIoDMDmzp1rHkmnnLT9EoIW&export=download&confirm=t",
+          "archiveName": "chibi-chitubox.zip",
+          "member": "Chitubox/Chibi.chitubox",
+          "bytes": 223859764,
+          "crc": 4168923068
+        }
+      }
+    },
+    "diorama": {
+      "packages": {
+        "model": {
+          "path": "https://drive.usercontent.google.com/download?id=1MJnKr30NVda7pbkfev4NcpIAx5Yngf9j&export=download&confirm=t",
+          "bytes": 131049969,
+          "files": 5,
+          "archiveName": "diorama-stl.zip",
+          "fallback": false
+        },
+        "renders": {
+          "path": "https://drive.usercontent.google.com/download?id=1Z9NkHH86NTinooO29mJPgpRDjSLZXcO6&export=download&confirm=t",
+          "bytes": 60951617,
+          "files": 3,
+          "archiveName": "diorama-renders.zip",
+          "fallback": false
+        },
+        "chitubox": {
+          "path": "https://drive.usercontent.google.com/download?id=1ULMObK4a4pnPcHZkWrmCmklNk0VhVvHt&export=download&confirm=t",
+          "bytes": 51589421,
+          "files": 1,
+          "archiveName": "diorama-chitubox.zip",
+          "fallback": false
+        },
+        "bustRenders": null
+      },
+      "files": {
+        "file:diorama:STL/Фигура/Без поддержек/Platform1.stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1MJnKr30NVda7pbkfev4NcpIAx5Yngf9j&export=download&confirm=t",
+          "archiveName": "diorama-stl.zip",
+          "member": "STL/Фигура/Без поддержек/Platform1.stl",
+          "bytes": 15402534,
+          "crc": 2920361033
+        },
+        "file:diorama:STL/Фигура/Без поддержек/Platform2.stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1MJnKr30NVda7pbkfev4NcpIAx5Yngf9j&export=download&confirm=t",
+          "archiveName": "diorama-stl.zip",
+          "member": "STL/Фигура/Без поддержек/Platform2.stl",
+          "bytes": 15974734,
+          "crc": 1051674993
+        },
+        "file:diorama:STL/Фигура/С поддержками/Diorama_Platform1.stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1MJnKr30NVda7pbkfev4NcpIAx5Yngf9j&export=download&confirm=t",
+          "archiveName": "diorama-stl.zip",
+          "member": "STL/Фигура/С поддержками/Diorama_Platform1.stl",
+          "bytes": 109591334,
+          "crc": 3589073181
+        },
+        "file:diorama:STL/Фигура/С поддержками/Diorama_Platform2.stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1MJnKr30NVda7pbkfev4NcpIAx5Yngf9j&export=download&confirm=t",
+          "archiveName": "diorama-stl.zip",
+          "member": "STL/Фигура/С поддержками/Diorama_Platform2.stl",
+          "bytes": 125983184,
+          "crc": 3771232286
+        },
+        "file:diorama:Chitubox/Platform.chitubox": {
+          "path": "https://drive.usercontent.google.com/download?id=1ULMObK4a4pnPcHZkWrmCmklNk0VhVvHt&export=download&confirm=t",
+          "archiveName": "diorama-chitubox.zip",
+          "member": "Chitubox/Platform.chitubox",
+          "bytes": 172909306,
+          "crc": 149938508
+        },
+        "file:diorama:Рендеры/Color_Portrait Close.png": {
+          "path": "https://drive.usercontent.google.com/download?id=1Z9NkHH86NTinooO29mJPgpRDjSLZXcO6&export=download&confirm=t",
+          "archiveName": "diorama-renders.zip",
+          "member": "Рендеры/Color_Portrait Close.png",
+          "bytes": 5067421,
+          "crc": 3013607313
+        },
+        "file:diorama:Рендеры/Color_Portrait Close_001.png": {
+          "path": "https://drive.usercontent.google.com/download?id=1Z9NkHH86NTinooO29mJPgpRDjSLZXcO6&export=download&confirm=t",
+          "archiveName": "diorama-renders.zip",
+          "member": "Рендеры/Color_Portrait Close_001.png",
+          "bytes": 4918027,
+          "crc": 128184668
+        },
+        "file:diorama:Рендеры/Видео/Video_Portrait Close.mp4": {
+          "path": "https://drive.usercontent.google.com/download?id=1Z9NkHH86NTinooO29mJPgpRDjSLZXcO6&export=download&confirm=t",
+          "archiveName": "diorama-renders.zip",
+          "member": "Рендеры/Видео/Video_Portrait Close.mp4",
+          "bytes": 51006727,
+          "crc": 1153903456
+        }
+      }
+    },
+    "madame-corvin": {
+      "packages": {
+        "model": null,
+        "renders": {
+          "path": null,
+          "bytes": 19720736,
+          "files": 4,
+          "archiveName": "madame-corvin-renders.zip",
+          "unavailableReason": "Архив с этими файлами пока недоступен на Диске"
+        },
+        "chitubox": null,
+        "bustRenders": null
+      },
+      "files": {
+        "file:madame-corvin:Рендеры/SFW/Изображения/Picture_Portrait Close.png": {
+          "path": null,
+          "archiveName": null,
+          "member": null,
+          "bytes": 4968199,
+          "crc": 510816007
+        },
+        "file:madame-corvin:Рендеры/SFW/Изображения/Picture_Portrait Close_001.png": {
+          "path": null,
+          "archiveName": null,
+          "member": null,
+          "bytes": 4813325,
+          "crc": 1720241201
+        },
+        "file:madame-corvin:Рендеры/SFW/Изображения/Picture_Portrait Close_002.png": {
+          "path": null,
+          "archiveName": null,
+          "member": null,
+          "bytes": 4933445,
+          "crc": 1774402828
+        },
+        "file:madame-corvin:Рендеры/SFW/Изображения/Picture_Portrait Close_003.png": {
+          "path": null,
+          "archiveName": null,
+          "member": null,
+          "bytes": 4999621,
+          "crc": 3518073836
+        }
+      }
+    },
+    "the-beast": {
+      "packages": {
+        "model": null,
+        "renders": {
+          "path": "https://drive.usercontent.google.com/download?id=1R7u7cpIWenurWHEeNIqOUXtv9AFyzlHV&export=download&confirm=t",
+          "bytes": 3177166030,
+          "files": 327,
+          "archiveName": "cursed-tales-2-complete.zip",
+          "fallback": true
+        },
+        "chitubox": null,
+        "bustRenders": null
+      },
+      "files": {
+        "file:the-beast:Рендеры/SFW/Изображения/Picture_Portrait Close.png": {
+          "path": "https://drive.usercontent.google.com/download?id=1R7u7cpIWenurWHEeNIqOUXtv9AFyzlHV&export=download&confirm=t",
+          "archiveName": "cursed-tales-2-complete.zip",
+          "member": "Персонажи/The Beast/Рендеры/SFW/Изображения/Picture_Portrait Close.png",
+          "bytes": 4979010,
+          "crc": 3680957836
+        },
+        "file:the-beast:Рендеры/SFW/Изображения/Picture_Portrait Close_001.png": {
+          "path": "https://drive.usercontent.google.com/download?id=1R7u7cpIWenurWHEeNIqOUXtv9AFyzlHV&export=download&confirm=t",
+          "archiveName": "cursed-tales-2-complete.zip",
+          "member": "Персонажи/The Beast/Рендеры/SFW/Изображения/Picture_Portrait Close_001.png",
+          "bytes": 4937502,
+          "crc": 12063709
+        },
+        "file:the-beast:Рендеры/SFW/Изображения/Picture_Portrait Close_002.png": {
+          "path": "https://drive.usercontent.google.com/download?id=1R7u7cpIWenurWHEeNIqOUXtv9AFyzlHV&export=download&confirm=t",
+          "archiveName": "cursed-tales-2-complete.zip",
+          "member": "Персонажи/The Beast/Рендеры/SFW/Изображения/Picture_Portrait Close_002.png",
+          "bytes": 4976717,
+          "crc": 1298782512
+        },
+        "file:the-beast:Рендеры/SFW/Изображения/Picture_Portrait Close_003.png": {
+          "path": "https://drive.usercontent.google.com/download?id=1R7u7cpIWenurWHEeNIqOUXtv9AFyzlHV&export=download&confirm=t",
+          "archiveName": "cursed-tales-2-complete.zip",
+          "member": "Персонажи/The Beast/Рендеры/SFW/Изображения/Picture_Portrait Close_003.png",
+          "bytes": 4942792,
+          "crc": 67504932
+        },
+        "file:the-beast:Рендеры/SFW/Изображения/Picture_Portrait Close_004.png": {
+          "path": "https://drive.usercontent.google.com/download?id=1R7u7cpIWenurWHEeNIqOUXtv9AFyzlHV&export=download&confirm=t",
+          "archiveName": "cursed-tales-2-complete.zip",
+          "member": "Персонажи/The Beast/Рендеры/SFW/Изображения/Picture_Portrait Close_004.png",
+          "bytes": 4898940,
+          "crc": 729378584
+        },
+        "file:the-beast:Рендеры/Видео/Video_Portrait Close.mp4": {
+          "path": "https://drive.usercontent.google.com/download?id=1R7u7cpIWenurWHEeNIqOUXtv9AFyzlHV&export=download&confirm=t",
+          "archiveName": "cursed-tales-2-complete.zip",
+          "member": "Персонажи/The Beast/Рендеры/Видео/Video_Portrait Close.mp4",
+          "bytes": 48465729,
+          "crc": 3135474559
+        },
+        "file:the-beast:Рендеры/Видео/Video_Portrait Close_001.mp4": {
+          "path": "https://drive.usercontent.google.com/download?id=1R7u7cpIWenurWHEeNIqOUXtv9AFyzlHV&export=download&confirm=t",
+          "archiveName": "cursed-tales-2-complete.zip",
+          "member": "Персонажи/The Beast/Рендеры/Видео/Video_Portrait Close_001.mp4",
+          "bytes": 48207347,
+          "crc": 3431498056
+        }
+      }
+    },
+    "march-hare": {
+      "packages": {
+        "model": {
+          "path": "https://drive.usercontent.google.com/download?id=1-wMOGc4OWjjuPdhxEWUPCptJPnqWXMbL&export=download&confirm=t",
+          "bytes": 176167114,
+          "files": 17,
+          "archiveName": "march-hare-stl.zip",
+          "fallback": false
+        },
+        "renders": {
+          "path": "https://drive.usercontent.google.com/download?id=1kewn7Yt3ky4Jc1GeEaHuRDztP9oJGMei&export=download&confirm=t",
+          "bytes": 24741,
+          "files": 1,
+          "archiveName": "march-hare-renders.zip",
+          "fallback": false
+        },
+        "chitubox": {
+          "path": "https://drive.usercontent.google.com/download?id=13UIEYsr_YwEeQvbUbyWeEeKih475LikG&export=download&confirm=t",
+          "bytes": 54379092,
+          "files": 1,
+          "archiveName": "march-hare-chitubox.zip",
+          "fallback": false
+        },
+        "bustRenders": null
+      },
+      "files": {
+        "file:march-hare:STL/Фигура/Без поддержек/Base.stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1-wMOGc4OWjjuPdhxEWUPCptJPnqWXMbL&export=download&confirm=t",
+          "archiveName": "march-hare-stl.zip",
+          "member": "STL/Фигура/Без поддержек/Base.stl",
+          "bytes": 15487184,
+          "crc": 1071818950
+        },
+        "file:march-hare:STL/Фигура/Без поддержек/bust.stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1-wMOGc4OWjjuPdhxEWUPCptJPnqWXMbL&export=download&confirm=t",
+          "archiveName": "march-hare-stl.zip",
+          "member": "STL/Фигура/Без поддержек/bust.stl",
+          "bytes": 19726484,
+          "crc": 88814665
+        },
+        "file:march-hare:STL/Фигура/Без поддержек/Head.stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1-wMOGc4OWjjuPdhxEWUPCptJPnqWXMbL&export=download&confirm=t",
+          "archiveName": "march-hare-stl.zip",
+          "member": "STL/Фигура/Без поддержек/Head.stl",
+          "bytes": 7924084,
+          "crc": 630666454
+        },
+        "file:march-hare:STL/Фигура/Без поддержек/Left_arm.stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1-wMOGc4OWjjuPdhxEWUPCptJPnqWXMbL&export=download&confirm=t",
+          "archiveName": "march-hare-stl.zip",
+          "member": "STL/Фигура/Без поддержек/Left_arm.stl",
+          "bytes": 12959784,
+          "crc": 1906047653
+        },
+        "file:march-hare:STL/Фигура/Без поддержек/Legs.stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1-wMOGc4OWjjuPdhxEWUPCptJPnqWXMbL&export=download&confirm=t",
+          "archiveName": "march-hare-stl.zip",
+          "member": "STL/Фигура/Без поддержек/Legs.stl",
+          "bytes": 12798984,
+          "crc": 3911449460
+        },
+        "file:march-hare:STL/Фигура/Без поддержек/Right_arm.stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1-wMOGc4OWjjuPdhxEWUPCptJPnqWXMbL&export=download&confirm=t",
+          "archiveName": "march-hare-stl.zip",
+          "member": "STL/Фигура/Без поддержек/Right_arm.stl",
+          "bytes": 11499684,
+          "crc": 494230559
+        },
+        "file:march-hare:STL/Фигура/Без поддержек/Skirt.stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1-wMOGc4OWjjuPdhxEWUPCptJPnqWXMbL&export=download&confirm=t",
+          "archiveName": "march-hare-stl.zip",
+          "member": "STL/Фигура/Без поддержек/Skirt.stl",
+          "bytes": 9199784,
+          "crc": 3653145433
+        },
+        "file:march-hare:STL/Фигура/Без поддержек/Tea.stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1-wMOGc4OWjjuPdhxEWUPCptJPnqWXMbL&export=download&confirm=t",
+          "archiveName": "march-hare-stl.zip",
+          "member": "STL/Фигура/Без поддержек/Tea.stl",
+          "bytes": 8046484,
+          "crc": 3658913811
+        },
+        "file:march-hare:STL/Фигура/С поддержками/Bunny_Base.stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1-wMOGc4OWjjuPdhxEWUPCptJPnqWXMbL&export=download&confirm=t",
+          "archiveName": "march-hare-stl.zip",
+          "member": "STL/Фигура/С поддержками/Bunny_Base.stl",
+          "bytes": 37347184,
+          "crc": 2859838205
+        },
+        "file:march-hare:STL/Фигура/С поддержками/Bunny_bust (hollowed out).stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1-wMOGc4OWjjuPdhxEWUPCptJPnqWXMbL&export=download&confirm=t",
+          "archiveName": "march-hare-stl.zip",
+          "member": "STL/Фигура/С поддержками/Bunny_bust (hollowed out).stl",
+          "bytes": 25737734,
+          "crc": 1068362999
+        },
+        "file:march-hare:STL/Фигура/С поддержками/Bunny_Head.stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1-wMOGc4OWjjuPdhxEWUPCptJPnqWXMbL&export=download&confirm=t",
+          "archiveName": "march-hare-stl.zip",
+          "member": "STL/Фигура/С поддержками/Bunny_Head.stl",
+          "bytes": 13154284,
+          "crc": 1446233315
+        },
+        "file:march-hare:STL/Фигура/С поддержками/Bunny_Left_arm (hollowed out).stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1-wMOGc4OWjjuPdhxEWUPCptJPnqWXMbL&export=download&confirm=t",
+          "archiveName": "march-hare-stl.zip",
+          "member": "STL/Фигура/С поддержками/Bunny_Left_arm (hollowed out).stl",
+          "bytes": 16664234,
+          "crc": 2208520538
+        },
+        "file:march-hare:STL/Фигура/С поддержками/Bunny_Legs (hollowed out).stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1-wMOGc4OWjjuPdhxEWUPCptJPnqWXMbL&export=download&confirm=t",
+          "archiveName": "march-hare-stl.zip",
+          "member": "STL/Фигура/С поддержками/Bunny_Legs (hollowed out).stl",
+          "bytes": 26978984,
+          "crc": 4236058981
+        },
+        "file:march-hare:STL/Фигура/С поддержками/Bunny_Right_arm (hollowed out).stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1-wMOGc4OWjjuPdhxEWUPCptJPnqWXMbL&export=download&confirm=t",
+          "archiveName": "march-hare-stl.zip",
+          "member": "STL/Фигура/С поддержками/Bunny_Right_arm (hollowed out).stl",
+          "bytes": 15213284,
+          "crc": 1555465513
+        },
+        "file:march-hare:STL/Фигура/С поддержками/Bunny_Skirt.stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1-wMOGc4OWjjuPdhxEWUPCptJPnqWXMbL&export=download&confirm=t",
+          "archiveName": "march-hare-stl.zip",
+          "member": "STL/Фигура/С поддержками/Bunny_Skirt.stl",
+          "bytes": 14291984,
+          "crc": 2314323323
+        },
+        "file:march-hare:STL/Фигура/С поддержками/Bunny_Tea.stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1-wMOGc4OWjjuPdhxEWUPCptJPnqWXMbL&export=download&confirm=t",
+          "archiveName": "march-hare-stl.zip",
+          "member": "STL/Фигура/С поддержками/Bunny_Tea.stl",
+          "bytes": 14918184,
+          "crc": 3207002668
+        },
+        "file:march-hare:Chitubox/Bunny.chitubox": {
+          "path": "https://drive.usercontent.google.com/download?id=13UIEYsr_YwEeQvbUbyWeEeKih475LikG&export=download&confirm=t",
+          "archiveName": "march-hare-chitubox.zip",
+          "member": "Chitubox/Bunny.chitubox",
+          "bytes": 119717638,
+          "crc": 69009406
+        },
+        "file:march-hare:Рендеры/Превью из STL.jpg": {
+          "path": "https://drive.usercontent.google.com/download?id=1kewn7Yt3ky4Jc1GeEaHuRDztP9oJGMei&export=download&confirm=t",
+          "archiveName": "march-hare-renders.zip",
+          "member": "Рендеры/Превью из STL.jpg",
+          "bytes": 31995,
+          "crc": 878278001
+        }
+      }
+    },
+    "wolfsbane": {
+      "packages": {
+        "model": {
+          "path": "https://drive.usercontent.google.com/download?id=1kayXCtsbEZWnVSaj0ZF4-_Mv0Y_n-MHf&export=download&confirm=t",
+          "bytes": 335024748,
+          "files": 33,
+          "archiveName": "wolfsbane-stl.zip",
+          "fallback": false
+        },
+        "renders": {
+          "path": "https://drive.usercontent.google.com/download?id=1R7u7cpIWenurWHEeNIqOUXtv9AFyzlHV&export=download&confirm=t",
+          "bytes": 3177166030,
+          "files": 327,
+          "archiveName": "cursed-tales-2-complete.zip",
+          "fallback": true
+        },
+        "chitubox": {
+          "path": "https://drive.usercontent.google.com/download?id=1vrK-d_I6fTqdYuzXbjhvx1nusuvXSTzT&export=download&confirm=t",
+          "bytes": 92865154,
+          "files": 2,
+          "archiveName": "wolfsbane-chitubox.zip",
+          "fallback": false
+        },
+        "bustRenders": {
+          "path": null,
+          "bytes": 151610897,
+          "files": 3,
+          "archiveName": "wolfsbane-bust-renders.zip",
+          "unavailableReason": "Архив с этими файлами пока недоступен на Диске"
+        }
+      },
+      "files": {
+        "file:wolfsbane:STL/Бюст/Без поддержек/Bust_arm_left.stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1kayXCtsbEZWnVSaj0ZF4-_Mv0Y_n-MHf&export=download&confirm=t",
+          "archiveName": "wolfsbane-stl.zip",
+          "member": "STL/Бюст/Без поддержек/Bust_arm_left.stl",
+          "bytes": 21064184,
+          "crc": 2400284323
+        },
+        "file:wolfsbane:STL/Бюст/Без поддержек/Bust_arm_right.stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1kayXCtsbEZWnVSaj0ZF4-_Mv0Y_n-MHf&export=download&confirm=t",
+          "archiveName": "wolfsbane-stl.zip",
+          "member": "STL/Бюст/Без поддержек/Bust_arm_right.stl",
+          "bytes": 1388984,
+          "crc": 3184351509
+        },
+        "file:wolfsbane:STL/Бюст/Без поддержек/Bust_base.stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1kayXCtsbEZWnVSaj0ZF4-_Mv0Y_n-MHf&export=download&confirm=t",
+          "archiveName": "wolfsbane-stl.zip",
+          "member": "STL/Бюст/Без поддержек/Bust_base.stl",
+          "bytes": 6905284,
+          "crc": 1064308001
+        },
+        "file:wolfsbane:STL/Бюст/Без поддержек/Bust_body.stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1kayXCtsbEZWnVSaj0ZF4-_Mv0Y_n-MHf&export=download&confirm=t",
+          "archiveName": "wolfsbane-stl.zip",
+          "member": "STL/Бюст/Без поддержек/Bust_body.stl",
+          "bytes": 34676984,
+          "crc": 3885929097
+        },
+        "file:wolfsbane:STL/Бюст/Без поддержек/Bust_Fur.stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1kayXCtsbEZWnVSaj0ZF4-_Mv0Y_n-MHf&export=download&confirm=t",
+          "archiveName": "wolfsbane-stl.zip",
+          "member": "STL/Бюст/Без поддержек/Bust_Fur.stl",
+          "bytes": 5586684,
+          "crc": 135448571
+        },
+        "file:wolfsbane:STL/Бюст/Без поддержек/Bust_legs.stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1kayXCtsbEZWnVSaj0ZF4-_Mv0Y_n-MHf&export=download&confirm=t",
+          "archiveName": "wolfsbane-stl.zip",
+          "member": "STL/Бюст/Без поддержек/Bust_legs.stl",
+          "bytes": 7394184,
+          "crc": 3775495683
+        },
+        "file:wolfsbane:STL/Бюст/С поддержками/Wolf_Bust_arm_right (hollowed out).stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1kayXCtsbEZWnVSaj0ZF4-_Mv0Y_n-MHf&export=download&confirm=t",
+          "archiveName": "wolfsbane-stl.zip",
+          "member": "STL/Бюст/С поддержками/Wolf_Bust_arm_right (hollowed out).stl",
+          "bytes": 3979084,
+          "crc": 206081795
+        },
+        "file:wolfsbane:STL/Бюст/С поддержками/Wolf_Bust_base (hollowed out).stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1kayXCtsbEZWnVSaj0ZF4-_Mv0Y_n-MHf&export=download&confirm=t",
+          "archiveName": "wolfsbane-stl.zip",
+          "member": "STL/Бюст/С поддержками/Wolf_Bust_base (hollowed out).stl",
+          "bytes": 25452584,
+          "crc": 1492535987
+        },
+        "file:wolfsbane:STL/Бюст/С поддержками/Wolf_Bust_legs (hollowed out).stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1kayXCtsbEZWnVSaj0ZF4-_Mv0Y_n-MHf&export=download&confirm=t",
+          "archiveName": "wolfsbane-stl.zip",
+          "member": "STL/Бюст/С поддержками/Wolf_Bust_legs (hollowed out).stl",
+          "bytes": 19407334,
+          "crc": 1438371227
+        },
+        "file:wolfsbane:STL/Фигура/Без поддержек/arm_left.stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1kayXCtsbEZWnVSaj0ZF4-_Mv0Y_n-MHf&export=download&confirm=t",
+          "archiveName": "wolfsbane-stl.zip",
+          "member": "STL/Фигура/Без поддержек/arm_left.stl",
+          "bytes": 9466984,
+          "crc": 2020021963
+        },
+        "file:wolfsbane:STL/Фигура/Без поддержек/arm_right.stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1kayXCtsbEZWnVSaj0ZF4-_Mv0Y_n-MHf&export=download&confirm=t",
+          "archiveName": "wolfsbane-stl.zip",
+          "member": "STL/Фигура/Без поддержек/arm_right.stl",
+          "bytes": 2061784,
+          "crc": 3460837239
+        },
+        "file:wolfsbane:STL/Фигура/Без поддержек/Base.stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1kayXCtsbEZWnVSaj0ZF4-_Mv0Y_n-MHf&export=download&confirm=t",
+          "archiveName": "wolfsbane-stl.zip",
+          "member": "STL/Фигура/Без поддержек/Base.stl",
+          "bytes": 12824284,
+          "crc": 377864005
+        },
+        "file:wolfsbane:STL/Фигура/Без поддержек/Body.stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1kayXCtsbEZWnVSaj0ZF4-_Mv0Y_n-MHf&export=download&confirm=t",
+          "archiveName": "wolfsbane-stl.zip",
+          "member": "STL/Фигура/Без поддержек/Body.stl",
+          "bytes": 36740784,
+          "crc": 3717538928
+        },
+        "file:wolfsbane:STL/Фигура/Без поддержек/Boot_left.stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1kayXCtsbEZWnVSaj0ZF4-_Mv0Y_n-MHf&export=download&confirm=t",
+          "archiveName": "wolfsbane-stl.zip",
+          "member": "STL/Фигура/Без поддержек/Boot_left.stl",
+          "bytes": 3395984,
+          "crc": 3663429534
+        },
+        "file:wolfsbane:STL/Фигура/Без поддержек/Boot_right.stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1kayXCtsbEZWnVSaj0ZF4-_Mv0Y_n-MHf&export=download&confirm=t",
+          "archiveName": "wolfsbane-stl.zip",
+          "member": "STL/Фигура/Без поддержек/Boot_right.stl",
+          "bytes": 3060684,
+          "crc": 2766869702
+        },
+        "file:wolfsbane:STL/Фигура/Без поддержек/Fur.stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1kayXCtsbEZWnVSaj0ZF4-_Mv0Y_n-MHf&export=download&confirm=t",
+          "archiveName": "wolfsbane-stl.zip",
+          "member": "STL/Фигура/Без поддержек/Fur.stl",
+          "bytes": 5586084,
+          "crc": 1079671249
+        },
+        "file:wolfsbane:STL/Фигура/Без поддержек/hand_right.stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1kayXCtsbEZWnVSaj0ZF4-_Mv0Y_n-MHf&export=download&confirm=t",
+          "archiveName": "wolfsbane-stl.zip",
+          "member": "STL/Фигура/Без поддержек/hand_right.stl",
+          "bytes": 9208584,
+          "crc": 545131265
+        },
+        "file:wolfsbane:STL/Фигура/Без поддержек/legs.stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1kayXCtsbEZWnVSaj0ZF4-_Mv0Y_n-MHf&export=download&confirm=t",
+          "archiveName": "wolfsbane-stl.zip",
+          "member": "STL/Фигура/Без поддержек/legs.stl",
+          "bytes": 14707784,
+          "crc": 2526326672
+        },
+        "file:wolfsbane:STL/Фигура/Без поддержек/Nude_body.stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1kayXCtsbEZWnVSaj0ZF4-_Mv0Y_n-MHf&export=download&confirm=t",
+          "archiveName": "wolfsbane-stl.zip",
+          "member": "STL/Фигура/Без поддержек/Nude_body.stl",
+          "bytes": 13435984,
+          "crc": 3351422328
+        },
+        "file:wolfsbane:STL/Фигура/Без поддержек/Trap.stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1kayXCtsbEZWnVSaj0ZF4-_Mv0Y_n-MHf&export=download&confirm=t",
+          "archiveName": "wolfsbane-stl.zip",
+          "member": "STL/Фигура/Без поддержек/Trap.stl",
+          "bytes": 5841484,
+          "crc": 1336385258
+        },
+        "file:wolfsbane:STL/Фигура/С поддержками/Wolf_arm_left #1 (hollowed out).stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1kayXCtsbEZWnVSaj0ZF4-_Mv0Y_n-MHf&export=download&confirm=t",
+          "archiveName": "wolfsbane-stl.zip",
+          "member": "STL/Фигура/С поддержками/Wolf_arm_left #1 (hollowed out).stl",
+          "bytes": 17845384,
+          "crc": 3440822632
+        },
+        "file:wolfsbane:STL/Фигура/С поддержками/Wolf_arm_right (hollowed out).stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1kayXCtsbEZWnVSaj0ZF4-_Mv0Y_n-MHf&export=download&confirm=t",
+          "archiveName": "wolfsbane-stl.zip",
+          "member": "STL/Фигура/С поддержками/Wolf_arm_right (hollowed out).stl",
+          "bytes": 7207034,
+          "crc": 979839468
+        },
+        "file:wolfsbane:STL/Фигура/С поддержками/Wolf_Base (hollowed out).stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1kayXCtsbEZWnVSaj0ZF4-_Mv0Y_n-MHf&export=download&confirm=t",
+          "archiveName": "wolfsbane-stl.zip",
+          "member": "STL/Фигура/С поддержками/Wolf_Base (hollowed out).stl",
+          "bytes": 52408634,
+          "crc": 2940324412
+        },
+        "file:wolfsbane:STL/Фигура/С поддержками/Wolf_Body (hollowed out).stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1kayXCtsbEZWnVSaj0ZF4-_Mv0Y_n-MHf&export=download&confirm=t",
+          "archiveName": "wolfsbane-stl.zip",
+          "member": "STL/Фигура/С поддержками/Wolf_Body (hollowed out).stl",
+          "bytes": 58201534,
+          "crc": 1034905417
+        },
+        "file:wolfsbane:STL/Фигура/С поддержками/Wolf_Boot_left (hollowed out).stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1kayXCtsbEZWnVSaj0ZF4-_Mv0Y_n-MHf&export=download&confirm=t",
+          "archiveName": "wolfsbane-stl.zip",
+          "member": "STL/Фигура/С поддержками/Wolf_Boot_left (hollowed out).stl",
+          "bytes": 10698984,
+          "crc": 2886037831
+        },
+        "file:wolfsbane:STL/Фигура/С поддержками/Wolf_Boot_right (hollowed out).stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1kayXCtsbEZWnVSaj0ZF4-_Mv0Y_n-MHf&export=download&confirm=t",
+          "archiveName": "wolfsbane-stl.zip",
+          "member": "STL/Фигура/С поддержками/Wolf_Boot_right (hollowed out).stl",
+          "bytes": 10528784,
+          "crc": 50490318
+        },
+        "file:wolfsbane:STL/Фигура/С поддержками/Wolf_Fur (hollowed out).stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1kayXCtsbEZWnVSaj0ZF4-_Mv0Y_n-MHf&export=download&confirm=t",
+          "archiveName": "wolfsbane-stl.zip",
+          "member": "STL/Фигура/С поддержками/Wolf_Fur (hollowed out).stl",
+          "bytes": 12624684,
+          "crc": 2462865877
+        },
+        "file:wolfsbane:STL/Фигура/С поддержками/Wolf_hand_right.stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1kayXCtsbEZWnVSaj0ZF4-_Mv0Y_n-MHf&export=download&confirm=t",
+          "archiveName": "wolfsbane-stl.zip",
+          "member": "STL/Фигура/С поддержками/Wolf_hand_right.stl",
+          "bytes": 19013684,
+          "crc": 592831459
+        },
+        "file:wolfsbane:STL/Фигура/С поддержками/Wolf_legs (hollowed out).stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1kayXCtsbEZWnVSaj0ZF4-_Mv0Y_n-MHf&export=download&confirm=t",
+          "archiveName": "wolfsbane-stl.zip",
+          "member": "STL/Фигура/С поддержками/Wolf_legs (hollowed out).stl",
+          "bytes": 30675034,
+          "crc": 3818522743
+        },
+        "file:wolfsbane:STL/Фигура/С поддержками/Wolf_Nude_body (hollowed out).stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1kayXCtsbEZWnVSaj0ZF4-_Mv0Y_n-MHf&export=download&confirm=t",
+          "archiveName": "wolfsbane-stl.zip",
+          "member": "STL/Фигура/С поддержками/Wolf_Nude_body (hollowed out).stl",
+          "bytes": 31289234,
+          "crc": 4073227303
+        },
+        "file:wolfsbane:STL/Фигура/С поддержками/Wolf_Trap.stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1kayXCtsbEZWnVSaj0ZF4-_Mv0Y_n-MHf&export=download&confirm=t",
+          "archiveName": "wolfsbane-stl.zip",
+          "member": "STL/Фигура/С поддержками/Wolf_Trap.stl",
+          "bytes": 9145084,
+          "crc": 3621956287
+        },
+        "file:wolfsbane:Chitubox/Wolf.chitubox": {
+          "path": "https://drive.usercontent.google.com/download?id=1vrK-d_I6fTqdYuzXbjhvx1nusuvXSTzT&export=download&confirm=t",
+          "archiveName": "wolfsbane-chitubox.zip",
+          "member": "Chitubox/Wolf.chitubox",
+          "bytes": 189064191,
+          "crc": 1923415222
+        },
+        "file:wolfsbane:Chitubox/WolfBust.chitubox": {
+          "path": "https://drive.usercontent.google.com/download?id=1vrK-d_I6fTqdYuzXbjhvx1nusuvXSTzT&export=download&confirm=t",
+          "archiveName": "wolfsbane-chitubox.zip",
+          "member": "Chitubox/WolfBust.chitubox",
+          "bytes": 36587669,
+          "crc": 1726876781
+        },
+        "file:wolfsbane:Рендеры/Бюст/Видео/Video_Portrait Close_002.mp4": {
+          "path": null,
+          "archiveName": null,
+          "member": null,
+          "bytes": 119320325,
+          "crc": 579882097
+        },
+        "file:wolfsbane:Рендеры/Бюст/Изображения/Bust_Portrait Close_004.png": {
+          "path": null,
+          "archiveName": null,
+          "member": null,
+          "bytes": 16355616,
+          "crc": 837789536
+        },
+        "file:wolfsbane:Рендеры/Бюст/Изображения/Bust_Portrait Close_005.png": {
+          "path": null,
+          "archiveName": null,
+          "member": null,
+          "bytes": 15959344,
+          "crc": 265888371
+        },
+        "file:wolfsbane:Рендеры/Видео/Video_Portrait Close.mp4": {
+          "path": "https://drive.usercontent.google.com/download?id=1R7u7cpIWenurWHEeNIqOUXtv9AFyzlHV&export=download&confirm=t",
+          "archiveName": "cursed-tales-2-complete.zip",
+          "member": "Персонажи/Wolfsbane/Рендеры/Видео/Video_Portrait Close.mp4",
+          "bytes": 48062089,
+          "crc": 3876359924
+        },
+        "file:wolfsbane:Рендеры/Видео/Video_Portrait Close_001.mp4": {
+          "path": "https://drive.usercontent.google.com/download?id=1R7u7cpIWenurWHEeNIqOUXtv9AFyzlHV&export=download&confirm=t",
+          "archiveName": "cursed-tales-2-complete.zip",
+          "member": "Персонажи/Wolfsbane/Рендеры/Видео/Video_Portrait Close_001.mp4",
+          "bytes": 45256372,
+          "crc": 635014902
+        },
+        "file:wolfsbane:Рендеры/Видео/Video_Portrait Close_002.mp4": {
+          "path": "https://drive.usercontent.google.com/download?id=1R7u7cpIWenurWHEeNIqOUXtv9AFyzlHV&export=download&confirm=t",
+          "archiveName": "cursed-tales-2-complete.zip",
+          "member": "Персонажи/Wolfsbane/Рендеры/Видео/Video_Portrait Close_002.mp4",
+          "bytes": 44596172,
+          "crc": 755382472
+        },
+        "file:wolfsbane:Рендеры/Видео/Video_Portrait Close_003.mp4": {
+          "path": "https://drive.usercontent.google.com/download?id=1R7u7cpIWenurWHEeNIqOUXtv9AFyzlHV&export=download&confirm=t",
+          "archiveName": "cursed-tales-2-complete.zip",
+          "member": "Персонажи/Wolfsbane/Рендеры/Видео/Video_Portrait Close_003.mp4",
+          "bytes": 46907492,
+          "crc": 1635908650
+        },
+        "file:wolfsbane:Рендеры/Изображения/Color_Portrait Close.png": {
+          "path": "https://drive.usercontent.google.com/download?id=1R7u7cpIWenurWHEeNIqOUXtv9AFyzlHV&export=download&confirm=t",
+          "archiveName": "cursed-tales-2-complete.zip",
+          "member": "Персонажи/Wolfsbane/Рендеры/Изображения/Color_Portrait Close.png",
+          "bytes": 5023760,
+          "crc": 334335598
+        },
+        "file:wolfsbane:Рендеры/Изображения/Color_Portrait Close_001.png": {
+          "path": "https://drive.usercontent.google.com/download?id=1R7u7cpIWenurWHEeNIqOUXtv9AFyzlHV&export=download&confirm=t",
+          "archiveName": "cursed-tales-2-complete.zip",
+          "member": "Персонажи/Wolfsbane/Рендеры/Изображения/Color_Portrait Close_001.png",
+          "bytes": 4988985,
+          "crc": 3031254200
+        },
+        "file:wolfsbane:Рендеры/Изображения/Color_Portrait Close_002.png": {
+          "path": "https://drive.usercontent.google.com/download?id=1R7u7cpIWenurWHEeNIqOUXtv9AFyzlHV&export=download&confirm=t",
+          "archiveName": "cursed-tales-2-complete.zip",
+          "member": "Персонажи/Wolfsbane/Рендеры/Изображения/Color_Portrait Close_002.png",
+          "bytes": 5000395,
+          "crc": 2271056409
+        },
+        "file:wolfsbane:Рендеры/Изображения/Color_Portrait Close_003.png": {
+          "path": "https://drive.usercontent.google.com/download?id=1R7u7cpIWenurWHEeNIqOUXtv9AFyzlHV&export=download&confirm=t",
+          "archiveName": "cursed-tales-2-complete.zip",
+          "member": "Персонажи/Wolfsbane/Рендеры/Изображения/Color_Portrait Close_003.png",
+          "bytes": 4976694,
+          "crc": 2185746912
+        },
+        "file:wolfsbane:Рендеры/Изображения/Color_Portrait Close_004.png": {
+          "path": "https://drive.usercontent.google.com/download?id=1R7u7cpIWenurWHEeNIqOUXtv9AFyzlHV&export=download&confirm=t",
+          "archiveName": "cursed-tales-2-complete.zip",
+          "member": "Персонажи/Wolfsbane/Рендеры/Изображения/Color_Portrait Close_004.png",
+          "bytes": 4948602,
+          "crc": 1398825624
+        },
+        "file:wolfsbane:Рендеры/Изображения/Color_Portrait Close_005.png": {
+          "path": "https://drive.usercontent.google.com/download?id=1R7u7cpIWenurWHEeNIqOUXtv9AFyzlHV&export=download&confirm=t",
+          "archiveName": "cursed-tales-2-complete.zip",
+          "member": "Персонажи/Wolfsbane/Рендеры/Изображения/Color_Portrait Close_005.png",
+          "bytes": 4898152,
+          "crc": 4264083804
+        },
+        "file:wolfsbane:Рендеры/Изображения/Color_Portrait Close_006.png": {
+          "path": "https://drive.usercontent.google.com/download?id=1R7u7cpIWenurWHEeNIqOUXtv9AFyzlHV&export=download&confirm=t",
+          "archiveName": "cursed-tales-2-complete.zip",
+          "member": "Персонажи/Wolfsbane/Рендеры/Изображения/Color_Portrait Close_006.png",
+          "bytes": 4893557,
+          "crc": 3825792504
+        },
+        "file:wolfsbane:Рендеры/Изображения/Color_Portrait Close_007.png": {
+          "path": "https://drive.usercontent.google.com/download?id=1R7u7cpIWenurWHEeNIqOUXtv9AFyzlHV&export=download&confirm=t",
+          "archiveName": "cursed-tales-2-complete.zip",
+          "member": "Персонажи/Wolfsbane/Рендеры/Изображения/Color_Portrait Close_007.png",
+          "bytes": 4917186,
+          "crc": 1948119073
+        },
+        "file:wolfsbane:Рендеры/Изображения/Color_Portrait Close_008.png": {
+          "path": "https://drive.usercontent.google.com/download?id=1R7u7cpIWenurWHEeNIqOUXtv9AFyzlHV&export=download&confirm=t",
+          "archiveName": "cursed-tales-2-complete.zip",
+          "member": "Персонажи/Wolfsbane/Рендеры/Изображения/Color_Portrait Close_008.png",
+          "bytes": 4860732,
+          "crc": 1718038972
+        }
+      }
+    },
+    "wynne-madigan": {
+      "packages": {
+        "model": {
+          "path": "https://drive.usercontent.google.com/download?id=1R7u7cpIWenurWHEeNIqOUXtv9AFyzlHV&export=download&confirm=t",
+          "bytes": 3177166030,
+          "files": 327,
+          "archiveName": "cursed-tales-2-complete.zip",
+          "fallback": true
+        },
+        "renders": {
+          "path": "https://drive.usercontent.google.com/download?id=1R7u7cpIWenurWHEeNIqOUXtv9AFyzlHV&export=download&confirm=t",
+          "bytes": 3177166030,
+          "files": 327,
+          "archiveName": "cursed-tales-2-complete.zip",
+          "fallback": true
+        },
+        "chitubox": {
+          "path": "https://drive.usercontent.google.com/download?id=1R7u7cpIWenurWHEeNIqOUXtv9AFyzlHV&export=download&confirm=t",
+          "bytes": 3177166030,
+          "files": 327,
+          "archiveName": "cursed-tales-2-complete.zip",
+          "fallback": true
+        },
+        "bustRenders": {
+          "path": null,
+          "bytes": 31464972,
+          "files": 2,
+          "archiveName": "wynne-madigan-bust-renders.zip",
+          "unavailableReason": "Архив с этими файлами пока недоступен на Диске"
+        }
+      },
+      "files": {
+        "file:wynne-madigan:STL/Фигура/Без поддержек/arm_left_sfw.stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1R7u7cpIWenurWHEeNIqOUXtv9AFyzlHV&export=download&confirm=t",
+          "archiveName": "cursed-tales-2-complete.zip",
+          "member": "Персонажи/Wynne Madigan/STL/Фигура/Без поддержек/arm_left_sfw.stl",
+          "bytes": 1375484,
+          "crc": 1472638747
+        },
+        "file:wynne-madigan:STL/Фигура/Без поддержек/arm_right_SFW.stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1R7u7cpIWenurWHEeNIqOUXtv9AFyzlHV&export=download&confirm=t",
+          "archiveName": "cursed-tales-2-complete.zip",
+          "member": "Персонажи/Wynne Madigan/STL/Фигура/Без поддержек/arm_right_SFW.stl",
+          "bytes": 1479384,
+          "crc": 1161326528
+        },
+        "file:wynne-madigan:STL/Фигура/Без поддержек/Base.stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1R7u7cpIWenurWHEeNIqOUXtv9AFyzlHV&export=download&confirm=t",
+          "archiveName": "cursed-tales-2-complete.zip",
+          "member": "Персонажи/Wynne Madigan/STL/Фигура/Без поддержек/Base.stl",
+          "bytes": 21079484,
+          "crc": 1150088628
+        },
+        "file:wynne-madigan:STL/Фигура/Без поддержек/Body_NSFW.stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1R7u7cpIWenurWHEeNIqOUXtv9AFyzlHV&export=download&confirm=t",
+          "archiveName": "cursed-tales-2-complete.zip",
+          "member": "Персонажи/Wynne Madigan/STL/Фигура/Без поддержек/Body_NSFW.stl",
+          "bytes": 11545084,
+          "crc": 3187190270
+        },
+        "file:wynne-madigan:STL/Фигура/Без поддержек/collar.stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1R7u7cpIWenurWHEeNIqOUXtv9AFyzlHV&export=download&confirm=t",
+          "archiveName": "cursed-tales-2-complete.zip",
+          "member": "Персонажи/Wynne Madigan/STL/Фигура/Без поддержек/collar.stl",
+          "bytes": 2870484,
+          "crc": 1470680992
+        },
+        "file:wynne-madigan:STL/Фигура/Без поддержек/Hair.stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1R7u7cpIWenurWHEeNIqOUXtv9AFyzlHV&export=download&confirm=t",
+          "archiveName": "cursed-tales-2-complete.zip",
+          "member": "Персонажи/Wynne Madigan/STL/Фигура/Без поддержек/Hair.stl",
+          "bytes": 4641184,
+          "crc": 2809599374
+        },
+        "file:wynne-madigan:STL/Фигура/Без поддержек/hand_left.stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1R7u7cpIWenurWHEeNIqOUXtv9AFyzlHV&export=download&confirm=t",
+          "archiveName": "cursed-tales-2-complete.zip",
+          "member": "Персонажи/Wynne Madigan/STL/Фигура/Без поддержек/hand_left.stl",
+          "bytes": 4544884,
+          "crc": 1092930853
+        },
+        "file:wynne-madigan:STL/Фигура/Без поддержек/Hand_right.stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1R7u7cpIWenurWHEeNIqOUXtv9AFyzlHV&export=download&confirm=t",
+          "archiveName": "cursed-tales-2-complete.zip",
+          "member": "Персонажи/Wynne Madigan/STL/Фигура/Без поддержек/Hand_right.stl",
+          "bytes": 1445584,
+          "crc": 1452878190
+        },
+        "file:wynne-madigan:STL/Фигура/Без поддержек/Hat.stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1R7u7cpIWenurWHEeNIqOUXtv9AFyzlHV&export=download&confirm=t",
+          "archiveName": "cursed-tales-2-complete.zip",
+          "member": "Персонажи/Wynne Madigan/STL/Фигура/Без поддержек/Hat.stl",
+          "bytes": 8671484,
+          "crc": 3603184513
+        },
+        "file:wynne-madigan:STL/Фигура/Без поддержек/Head.stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1R7u7cpIWenurWHEeNIqOUXtv9AFyzlHV&export=download&confirm=t",
+          "archiveName": "cursed-tales-2-complete.zip",
+          "member": "Персонажи/Wynne Madigan/STL/Фигура/Без поддержек/Head.stl",
+          "bytes": 16149684,
+          "crc": 528554844
+        },
+        "file:wynne-madigan:STL/Фигура/Без поддержек/hips_SFW.stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1R7u7cpIWenurWHEeNIqOUXtv9AFyzlHV&export=download&confirm=t",
+          "archiveName": "cursed-tales-2-complete.zip",
+          "member": "Персонажи/Wynne Madigan/STL/Фигура/Без поддержек/hips_SFW.stl",
+          "bytes": 6689884,
+          "crc": 1920433544
+        },
+        "file:wynne-madigan:STL/Фигура/Без поддержек/horse.stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1R7u7cpIWenurWHEeNIqOUXtv9AFyzlHV&export=download&confirm=t",
+          "archiveName": "cursed-tales-2-complete.zip",
+          "member": "Персонажи/Wynne Madigan/STL/Фигура/Без поддержек/horse.stl",
+          "bytes": 3277784,
+          "crc": 2553625287
+        },
+        "file:wynne-madigan:STL/Фигура/Без поддержек/leg_left.stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1R7u7cpIWenurWHEeNIqOUXtv9AFyzlHV&export=download&confirm=t",
+          "archiveName": "cursed-tales-2-complete.zip",
+          "member": "Персонажи/Wynne Madigan/STL/Фигура/Без поддержек/leg_left.stl",
+          "bytes": 4935384,
+          "crc": 2423870951
+        },
+        "file:wynne-madigan:STL/Фигура/Без поддержек/leg_right.stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1R7u7cpIWenurWHEeNIqOUXtv9AFyzlHV&export=download&confirm=t",
+          "archiveName": "cursed-tales-2-complete.zip",
+          "member": "Персонажи/Wynne Madigan/STL/Фигура/Без поддержек/leg_right.stl",
+          "bytes": 3319884,
+          "crc": 4123974373
+        },
+        "file:wynne-madigan:STL/Фигура/Без поддержек/Pawn.stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1R7u7cpIWenurWHEeNIqOUXtv9AFyzlHV&export=download&confirm=t",
+          "archiveName": "cursed-tales-2-complete.zip",
+          "member": "Персонажи/Wynne Madigan/STL/Фигура/Без поддержек/Pawn.stl",
+          "bytes": 2270384,
+          "crc": 2202781580
+        },
+        "file:wynne-madigan:STL/Фигура/Без поддержек/Queen.stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1R7u7cpIWenurWHEeNIqOUXtv9AFyzlHV&export=download&confirm=t",
+          "archiveName": "cursed-tales-2-complete.zip",
+          "member": "Персонажи/Wynne Madigan/STL/Фигура/Без поддержек/Queen.stl",
+          "bytes": 2992184,
+          "crc": 4189671922
+        },
+        "file:wynne-madigan:STL/Фигура/Без поддержек/shoe_left.stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1R7u7cpIWenurWHEeNIqOUXtv9AFyzlHV&export=download&confirm=t",
+          "archiveName": "cursed-tales-2-complete.zip",
+          "member": "Персонажи/Wynne Madigan/STL/Фигура/Без поддержек/shoe_left.stl",
+          "bytes": 7510884,
+          "crc": 1043466017
+        },
+        "file:wynne-madigan:STL/Фигура/Без поддержек/shoe_Right.stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1R7u7cpIWenurWHEeNIqOUXtv9AFyzlHV&export=download&confirm=t",
+          "archiveName": "cursed-tales-2-complete.zip",
+          "member": "Персонажи/Wynne Madigan/STL/Фигура/Без поддержек/shoe_Right.stl",
+          "bytes": 6445584,
+          "crc": 385282051
+        },
+        "file:wynne-madigan:STL/Фигура/Без поддержек/sweater.stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1R7u7cpIWenurWHEeNIqOUXtv9AFyzlHV&export=download&confirm=t",
+          "archiveName": "cursed-tales-2-complete.zip",
+          "member": "Персонажи/Wynne Madigan/STL/Фигура/Без поддержек/sweater.stl",
+          "bytes": 19576084,
+          "crc": 3339453810
+        },
+        "file:wynne-madigan:STL/Фигура/С поддержками/Wynne_arm_left_sfw.stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1R7u7cpIWenurWHEeNIqOUXtv9AFyzlHV&export=download&confirm=t",
+          "archiveName": "cursed-tales-2-complete.zip",
+          "member": "Персонажи/Wynne Madigan/STL/Фигура/С поддержками/Wynne_arm_left_sfw.stl",
+          "bytes": 1917284,
+          "crc": 4157451541
+        },
+        "file:wynne-madigan:STL/Фигура/С поддержками/Wynne_arm_right_SFW.stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1R7u7cpIWenurWHEeNIqOUXtv9AFyzlHV&export=download&confirm=t",
+          "archiveName": "cursed-tales-2-complete.zip",
+          "member": "Персонажи/Wynne Madigan/STL/Фигура/С поддержками/Wynne_arm_right_SFW.stl",
+          "bytes": 1851984,
+          "crc": 2811982074
+        },
+        "file:wynne-madigan:STL/Фигура/С поддержками/Wynne_Base (hollowed out).stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1R7u7cpIWenurWHEeNIqOUXtv9AFyzlHV&export=download&confirm=t",
+          "archiveName": "cursed-tales-2-complete.zip",
+          "member": "Персонажи/Wynne Madigan/STL/Фигура/С поддержками/Wynne_Base (hollowed out).stl",
+          "bytes": 51473084,
+          "crc": 1348723730
+        },
+        "file:wynne-madigan:STL/Фигура/С поддержками/Wynne_Body_NSFW (hollowed out).stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1R7u7cpIWenurWHEeNIqOUXtv9AFyzlHV&export=download&confirm=t",
+          "archiveName": "cursed-tales-2-complete.zip",
+          "member": "Персонажи/Wynne Madigan/STL/Фигура/С поддержками/Wynne_Body_NSFW (hollowed out).stl",
+          "bytes": 22231384,
+          "crc": 3299320639
+        },
+        "file:wynne-madigan:STL/Фигура/С поддержками/Wynne_collar.stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1R7u7cpIWenurWHEeNIqOUXtv9AFyzlHV&export=download&confirm=t",
+          "archiveName": "cursed-tales-2-complete.zip",
+          "member": "Персонажи/Wynne Madigan/STL/Фигура/С поддержками/Wynne_collar.stl",
+          "bytes": 7521684,
+          "crc": 2479631085
+        },
+        "file:wynne-madigan:STL/Фигура/С поддержками/Wynne_Hair (hollowed out).stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1R7u7cpIWenurWHEeNIqOUXtv9AFyzlHV&export=download&confirm=t",
+          "archiveName": "cursed-tales-2-complete.zip",
+          "member": "Персонажи/Wynne Madigan/STL/Фигура/С поддержками/Wynne_Hair (hollowed out).stl",
+          "bytes": 10516634,
+          "crc": 3694193447
+        },
+        "file:wynne-madigan:STL/Фигура/С поддержками/Wynne_hand_left.stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1R7u7cpIWenurWHEeNIqOUXtv9AFyzlHV&export=download&confirm=t",
+          "archiveName": "cursed-tales-2-complete.zip",
+          "member": "Персонажи/Wynne Madigan/STL/Фигура/С поддержками/Wynne_hand_left.stl",
+          "bytes": 7615684,
+          "crc": 204295269
+        },
+        "file:wynne-madigan:STL/Фигура/С поддержками/Wynne_Hand_right.stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1R7u7cpIWenurWHEeNIqOUXtv9AFyzlHV&export=download&confirm=t",
+          "archiveName": "cursed-tales-2-complete.zip",
+          "member": "Персонажи/Wynne Madigan/STL/Фигура/С поддержками/Wynne_Hand_right.stl",
+          "bytes": 2701984,
+          "crc": 955741065
+        },
+        "file:wynne-madigan:STL/Фигура/С поддержками/Wynne_Hat (hollowed out).stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1R7u7cpIWenurWHEeNIqOUXtv9AFyzlHV&export=download&confirm=t",
+          "archiveName": "cursed-tales-2-complete.zip",
+          "member": "Персонажи/Wynne Madigan/STL/Фигура/С поддержками/Wynne_Hat (hollowed out).stl",
+          "bytes": 16176284,
+          "crc": 3199447086
+        },
+        "file:wynne-madigan:STL/Фигура/С поддержками/Wynne_Head #2 (hollowed out).stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1R7u7cpIWenurWHEeNIqOUXtv9AFyzlHV&export=download&confirm=t",
+          "archiveName": "cursed-tales-2-complete.zip",
+          "member": "Персонажи/Wynne Madigan/STL/Фигура/С поддержками/Wynne_Head #2 (hollowed out).stl",
+          "bytes": 19261834,
+          "crc": 793096160
+        },
+        "file:wynne-madigan:STL/Фигура/С поддержками/Wynne_hips_SFW (hollowed out).stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1R7u7cpIWenurWHEeNIqOUXtv9AFyzlHV&export=download&confirm=t",
+          "archiveName": "cursed-tales-2-complete.zip",
+          "member": "Персонажи/Wynne Madigan/STL/Фигура/С поддержками/Wynne_hips_SFW (hollowed out).stl",
+          "bytes": 11623584,
+          "crc": 1168853040
+        },
+        "file:wynne-madigan:STL/Фигура/С поддержками/Wynne_horse (hollowed out).stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1R7u7cpIWenurWHEeNIqOUXtv9AFyzlHV&export=download&confirm=t",
+          "archiveName": "cursed-tales-2-complete.zip",
+          "member": "Персонажи/Wynne Madigan/STL/Фигура/С поддержками/Wynne_horse (hollowed out).stl",
+          "bytes": 8139934,
+          "crc": 1957997199
+        },
+        "file:wynne-madigan:STL/Фигура/С поддержками/Wynne_leg_left (hollowed out).stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1R7u7cpIWenurWHEeNIqOUXtv9AFyzlHV&export=download&confirm=t",
+          "archiveName": "cursed-tales-2-complete.zip",
+          "member": "Персонажи/Wynne Madigan/STL/Фигура/С поддержками/Wynne_leg_left (hollowed out).stl",
+          "bytes": 6613784,
+          "crc": 1848190422
+        },
+        "file:wynne-madigan:STL/Фигура/С поддержками/Wynne_leg_right (hollowed out).stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1R7u7cpIWenurWHEeNIqOUXtv9AFyzlHV&export=download&confirm=t",
+          "archiveName": "cursed-tales-2-complete.zip",
+          "member": "Персонажи/Wynne Madigan/STL/Фигура/С поддержками/Wynne_leg_right (hollowed out).stl",
+          "bytes": 4845834,
+          "crc": 2377430058
+        },
+        "file:wynne-madigan:STL/Фигура/С поддержками/Wynne_Pawn (hollowed out).stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1R7u7cpIWenurWHEeNIqOUXtv9AFyzlHV&export=download&confirm=t",
+          "archiveName": "cursed-tales-2-complete.zip",
+          "member": "Персонажи/Wynne Madigan/STL/Фигура/С поддержками/Wynne_Pawn (hollowed out).stl",
+          "bytes": 7470534,
+          "crc": 2933843131
+        },
+        "file:wynne-madigan:STL/Фигура/С поддержками/Wynne_Queen (hollowed out).stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1R7u7cpIWenurWHEeNIqOUXtv9AFyzlHV&export=download&confirm=t",
+          "archiveName": "cursed-tales-2-complete.zip",
+          "member": "Персонажи/Wynne Madigan/STL/Фигура/С поддержками/Wynne_Queen (hollowed out).stl",
+          "bytes": 7531884,
+          "crc": 940410861
+        },
+        "file:wynne-madigan:STL/Фигура/С поддержками/Wynne_shoe_left.stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1R7u7cpIWenurWHEeNIqOUXtv9AFyzlHV&export=download&confirm=t",
+          "archiveName": "cursed-tales-2-complete.zip",
+          "member": "Персонажи/Wynne Madigan/STL/Фигура/С поддержками/Wynne_shoe_left.stl",
+          "bytes": 10456884,
+          "crc": 2440403550
+        },
+        "file:wynne-madigan:STL/Фигура/С поддержками/Wynne_shoe_Right.stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1R7u7cpIWenurWHEeNIqOUXtv9AFyzlHV&export=download&confirm=t",
+          "archiveName": "cursed-tales-2-complete.zip",
+          "member": "Персонажи/Wynne Madigan/STL/Фигура/С поддержками/Wynne_shoe_Right.stl",
+          "bytes": 10545384,
+          "crc": 2760753357
+        },
+        "file:wynne-madigan:STL/Фигура/С поддержками/Wynne_sweater (hollowed out).stl": {
+          "path": "https://drive.usercontent.google.com/download?id=1R7u7cpIWenurWHEeNIqOUXtv9AFyzlHV&export=download&confirm=t",
+          "archiveName": "cursed-tales-2-complete.zip",
+          "member": "Персонажи/Wynne Madigan/STL/Фигура/С поддержками/Wynne_sweater (hollowed out).stl",
+          "bytes": 28329684,
+          "crc": 627522459
+        },
+        "file:wynne-madigan:Chitubox/Wynne.chitubox": {
+          "path": "https://drive.usercontent.google.com/download?id=1R7u7cpIWenurWHEeNIqOUXtv9AFyzlHV&export=download&confirm=t",
+          "archiveName": "cursed-tales-2-complete.zip",
+          "member": "Персонажи/Wynne Madigan/Chitubox/Wynne.chitubox",
+          "bytes": 173885672,
+          "crc": 3043429019
+        },
+        "file:wynne-madigan:Рендеры/NSFW/Видео/Video_Portrait Close.mp4": {
+          "path": "https://drive.usercontent.google.com/download?id=1R7u7cpIWenurWHEeNIqOUXtv9AFyzlHV&export=download&confirm=t",
+          "archiveName": "cursed-tales-2-complete.zip",
+          "member": "Персонажи/Wynne Madigan/Рендеры/NSFW/Видео/Video_Portrait Close.mp4",
+          "bytes": 44811882,
+          "crc": 1189596033
+        },
+        "file:wynne-madigan:Рендеры/NSFW/Изображения/NSFWColor_Portrait Close.png": {
+          "path": "https://drive.usercontent.google.com/download?id=1R7u7cpIWenurWHEeNIqOUXtv9AFyzlHV&export=download&confirm=t",
+          "archiveName": "cursed-tales-2-complete.zip",
+          "member": "Персонажи/Wynne Madigan/Рендеры/NSFW/Изображения/NSFWColor_Portrait Close.png",
+          "bytes": 4838027,
+          "crc": 1416069745
+        },
+        "file:wynne-madigan:Рендеры/NSFW/Изображения/NSFWColor_Portrait Close_001.png": {
+          "path": "https://drive.usercontent.google.com/download?id=1R7u7cpIWenurWHEeNIqOUXtv9AFyzlHV&export=download&confirm=t",
+          "archiveName": "cursed-tales-2-complete.zip",
+          "member": "Персонажи/Wynne Madigan/Рендеры/NSFW/Изображения/NSFWColor_Portrait Close_001.png",
+          "bytes": 4823697,
+          "crc": 4211335986
+        },
+        "file:wynne-madigan:Рендеры/NSFW/Изображения/NSFWColor_Portrait Close_002.png": {
+          "path": "https://drive.usercontent.google.com/download?id=1R7u7cpIWenurWHEeNIqOUXtv9AFyzlHV&export=download&confirm=t",
+          "archiveName": "cursed-tales-2-complete.zip",
+          "member": "Персонажи/Wynne Madigan/Рендеры/NSFW/Изображения/NSFWColor_Portrait Close_002.png",
+          "bytes": 4846846,
+          "crc": 4057069857
+        },
+        "file:wynne-madigan:Рендеры/NSFW/Изображения/NSFWColor_Portrait Close_003.png": {
+          "path": "https://drive.usercontent.google.com/download?id=1R7u7cpIWenurWHEeNIqOUXtv9AFyzlHV&export=download&confirm=t",
+          "archiveName": "cursed-tales-2-complete.zip",
+          "member": "Персонажи/Wynne Madigan/Рендеры/NSFW/Изображения/NSFWColor_Portrait Close_003.png",
+          "bytes": 4789465,
+          "crc": 2584736315
+        },
+        "file:wynne-madigan:Рендеры/SFW/Видео/VideoMadHat_Portrait Close.mp4": {
+          "path": "https://drive.usercontent.google.com/download?id=1R7u7cpIWenurWHEeNIqOUXtv9AFyzlHV&export=download&confirm=t",
+          "archiveName": "cursed-tales-2-complete.zip",
+          "member": "Персонажи/Wynne Madigan/Рендеры/SFW/Видео/VideoMadHat_Portrait Close.mp4",
+          "bytes": 45349533,
+          "crc": 1511985277
+        },
+        "file:wynne-madigan:Рендеры/SFW/Видео/VideoMadHat_Portrait Close_001.mp4": {
+          "path": "https://drive.usercontent.google.com/download?id=1R7u7cpIWenurWHEeNIqOUXtv9AFyzlHV&export=download&confirm=t",
+          "archiveName": "cursed-tales-2-complete.zip",
+          "member": "Персонажи/Wynne Madigan/Рендеры/SFW/Видео/VideoMadHat_Portrait Close_001.mp4",
+          "bytes": 43356273,
+          "crc": 3673384371
+        },
+        "file:wynne-madigan:Рендеры/SFW/Изображения/PictureMadHat_Portrait Close.png": {
+          "path": "https://drive.usercontent.google.com/download?id=1R7u7cpIWenurWHEeNIqOUXtv9AFyzlHV&export=download&confirm=t",
+          "archiveName": "cursed-tales-2-complete.zip",
+          "member": "Персонажи/Wynne Madigan/Рендеры/SFW/Изображения/PictureMadHat_Portrait Close.png",
+          "bytes": 4883448,
+          "crc": 1753552935
+        },
+        "file:wynne-madigan:Рендеры/SFW/Изображения/PictureMadHat_Portrait Close_001.png": {
+          "path": "https://drive.usercontent.google.com/download?id=1R7u7cpIWenurWHEeNIqOUXtv9AFyzlHV&export=download&confirm=t",
+          "archiveName": "cursed-tales-2-complete.zip",
+          "member": "Персонажи/Wynne Madigan/Рендеры/SFW/Изображения/PictureMadHat_Portrait Close_001.png",
+          "bytes": 4859068,
+          "crc": 3272409930
+        },
+        "file:wynne-madigan:Рендеры/SFW/Изображения/PictureMadHat_Portrait Close_002.png": {
+          "path": "https://drive.usercontent.google.com/download?id=1R7u7cpIWenurWHEeNIqOUXtv9AFyzlHV&export=download&confirm=t",
+          "archiveName": "cursed-tales-2-complete.zip",
+          "member": "Персонажи/Wynne Madigan/Рендеры/SFW/Изображения/PictureMadHat_Portrait Close_002.png",
+          "bytes": 4882109,
+          "crc": 4171628709
+        },
+        "file:wynne-madigan:Рендеры/SFW/Изображения/PictureMadHat_Portrait Close_003.png": {
+          "path": "https://drive.usercontent.google.com/download?id=1R7u7cpIWenurWHEeNIqOUXtv9AFyzlHV&export=download&confirm=t",
+          "archiveName": "cursed-tales-2-complete.zip",
+          "member": "Персонажи/Wynne Madigan/Рендеры/SFW/Изображения/PictureMadHat_Portrait Close_003.png",
+          "bytes": 4869053,
+          "crc": 4155358463
+        },
+        "file:wynne-madigan:Рендеры/SFW/Изображения/PictureMadHat_Portrait Close_004.png": {
+          "path": "https://drive.usercontent.google.com/download?id=1R7u7cpIWenurWHEeNIqOUXtv9AFyzlHV&export=download&confirm=t",
+          "archiveName": "cursed-tales-2-complete.zip",
+          "member": "Персонажи/Wynne Madigan/Рендеры/SFW/Изображения/PictureMadHat_Portrait Close_004.png",
+          "bytes": 4849705,
+          "crc": 1141879306
+        },
+        "file:wynne-madigan:Рендеры/SFW/Изображения/PictureMadHat_Portrait Close_005.png": {
+          "path": "https://drive.usercontent.google.com/download?id=1R7u7cpIWenurWHEeNIqOUXtv9AFyzlHV&export=download&confirm=t",
+          "archiveName": "cursed-tales-2-complete.zip",
+          "member": "Персонажи/Wynne Madigan/Рендеры/SFW/Изображения/PictureMadHat_Portrait Close_005.png",
+          "bytes": 4529748,
+          "crc": 2412002878
+        },
+        "file:wynne-madigan:Рендеры/SFW/Изображения/PictureMadHat_Portrait Close_006.png": {
+          "path": "https://drive.usercontent.google.com/download?id=1R7u7cpIWenurWHEeNIqOUXtv9AFyzlHV&export=download&confirm=t",
+          "archiveName": "cursed-tales-2-complete.zip",
+          "member": "Персонажи/Wynne Madigan/Рендеры/SFW/Изображения/PictureMadHat_Portrait Close_006.png",
+          "bytes": 4491792,
+          "crc": 155963151
+        },
+        "file:wynne-madigan:Рендеры/Бюст/Изображения/Bust_Portrait Close.png": {
+          "path": null,
+          "archiveName": null,
+          "member": null,
+          "bytes": 15599443,
+          "crc": 2761813504
+        },
+        "file:wynne-madigan:Рендеры/Бюст/Изображения/Bust_Portrait Close_001.png": {
+          "path": null,
+          "archiveName": null,
+          "member": null,
+          "bytes": 15855912,
+          "crc": 1975177252
+        }
+      }
+    }
+  },
+  "archives": {
+    "adeline-key-stl.zip": {
+      "status": "ok",
+      "url": "https://drive.usercontent.google.com/download?id=1OfEqrZSVL2FkaY_zDMmn2PmbXSxaElJa&export=download&confirm=t",
+      "bytes": 248152542,
+      "filename": "adeline-key-stl.zip"
+    },
+    "adeline-key-renders.zip": {
+      "status": "ok",
+      "url": "https://drive.usercontent.google.com/download?id=1EmB5r-sasAPE7nEURkvyFLtOWd3tbarw&export=download&confirm=t",
+      "bytes": 42367,
+      "filename": "adeline-key-renders.zip"
+    },
+    "bloodhood-stl.zip": {
+      "status": "ok",
+      "url": "https://drive.usercontent.google.com/download?id=1OnpiwBIVzMNXALFMM27kGoNyIz_yT42R&export=download&confirm=t",
+      "bytes": 272002054,
+      "filename": "bloodhood-stl.zip"
+    },
+    "bloodhood-renders.zip": {
+      "status": "ok",
+      "url": "https://drive.usercontent.google.com/download?id=1Q-lKig8zheGoTGWFq_Mb3AqCRvZ5BVY0&export=download&confirm=t",
+      "bytes": 104379921,
+      "filename": "bloodhood-renders.zip"
+    },
+    "briar-vess-stl.zip": {
+      "status": "ok",
+      "url": "https://drive.usercontent.google.com/download?id=1OXsz4IwS744fiUKTeHIS3_BFHz0RzcoY&export=download&confirm=t",
+      "bytes": 379545182,
+      "filename": "briar-vess-stl.zip"
+    },
+    "briar-vess-renders.zip": {
+      "status": "ok",
+      "url": "https://drive.usercontent.google.com/download?id=1p235Atxt_jIKvF7bO0OHPVVEsozPC5O-&export=download&confirm=t",
+      "bytes": 144473573,
+      "filename": "briar-vess-renders.zip"
+    },
+    "chibi-cat-stl.zip": {
+      "status": "ok",
+      "url": "https://drive.usercontent.google.com/download?id=19KHYUvBCb8X6PfnCrcVeDpGM__oT1p9h&export=download&confirm=t",
+      "bytes": 90456082,
+      "filename": "chibi-cat-stl.zip"
+    },
+    "chibi-cat-renders.zip": {
+      "status": "ok",
+      "url": "https://drive.usercontent.google.com/download?id=1f4haiJ7AfOTgtif3yx2BCoWpSiXduNg9&export=download&confirm=t",
+      "bytes": 9274106,
+      "filename": "chibi-cat-renders.zip"
+    },
+    "chibi-goat-stl.zip": {
+      "status": "ok",
+      "url": "https://drive.usercontent.google.com/download?id=1dxQQbjNuo_z7idd6uVbpmAnDzxVB5Ayi&export=download&confirm=t",
+      "bytes": 139036265,
+      "filename": "chibi-goat-stl.zip"
+    },
+    "chibi-goat-renders.zip": {
+      "status": "ok",
+      "url": "https://drive.usercontent.google.com/download?id=1o7XpmZwVFA0m_mpHgLvKUUVrBF6t_hcZ&export=download&confirm=t",
+      "bytes": 28496745,
+      "filename": "chibi-goat-renders.zip"
+    },
+    "chibi-rabbit-stl.zip": {
+      "status": "ok",
+      "url": "https://drive.usercontent.google.com/download?id=1DeO_di1_6VHVoH9__0YHJwGvLRIX17ZV&export=download&confirm=t",
+      "bytes": 140815732,
+      "filename": "chibi-rabbit-stl.zip"
+    },
+    "chibi-rabbit-renders.zip": {
+      "status": "ok",
+      "url": "https://drive.usercontent.google.com/download?id=1LYkiDZbxD8wTKz6VbVE143IxezZ2DXG4&export=download&confirm=t",
+      "bytes": 9538675,
+      "filename": "chibi-rabbit-renders.zip"
+    },
+    "diorama-stl.zip": {
+      "status": "ok",
+      "url": "https://drive.usercontent.google.com/download?id=1MJnKr30NVda7pbkfev4NcpIAx5Yngf9j&export=download&confirm=t",
+      "bytes": 131049969,
+      "filename": "diorama-stl.zip"
+    },
+    "diorama-renders.zip": {
+      "status": "ok",
+      "url": "https://drive.usercontent.google.com/download?id=1Z9NkHH86NTinooO29mJPgpRDjSLZXcO6&export=download&confirm=t",
+      "bytes": 60951617,
+      "filename": "diorama-renders.zip"
+    },
+    "march-hare-stl.zip": {
+      "status": "ok",
+      "url": "https://drive.usercontent.google.com/download?id=1-wMOGc4OWjjuPdhxEWUPCptJPnqWXMbL&export=download&confirm=t",
+      "bytes": 176167114,
+      "filename": "march-hare-stl.zip"
+    },
+    "march-hare-renders.zip": {
+      "status": "ok",
+      "url": "https://drive.usercontent.google.com/download?id=1kewn7Yt3ky4Jc1GeEaHuRDztP9oJGMei&export=download&confirm=t",
+      "bytes": 24741,
+      "filename": "march-hare-renders.zip"
+    },
+    "wolfsbane-stl.zip": {
+      "status": "ok",
+      "url": "https://drive.usercontent.google.com/download?id=1kayXCtsbEZWnVSaj0ZF4-_Mv0Y_n-MHf&export=download&confirm=t",
+      "bytes": 335024748,
+      "filename": "wolfsbane-stl.zip"
+    },
+    "cursed-tales-2-complete.zip": {
+      "status": "ok",
+      "url": "https://drive.usercontent.google.com/download?id=1R7u7cpIWenurWHEeNIqOUXtv9AFyzlHV&export=download&confirm=t",
+      "bytes": 3177166030,
+      "filename": "cursed-tales-2-complete.zip"
+    },
+    "adeline-key-chitubox.zip": {
+      "status": "ok",
+      "url": "https://drive.usercontent.google.com/download?id=10uZZTM1Bb7lK9KqR-BzAzNkjucXT8DtL&export=download&confirm=t",
+      "bytes": 78294308,
+      "filename": "adeline-key-chitubox.zip"
+    },
+    "bloodhood-chitubox.zip": {
+      "status": "ok",
+      "url": "https://drive.usercontent.google.com/download?id=1N57LTCmesFnD3TaDsGaZzE5cjRrDo7U1&export=download&confirm=t",
+      "bytes": 86791095,
+      "filename": "bloodhood-chitubox.zip"
+    },
+    "briar-vess-chitubox.zip": {
+      "status": "ok",
+      "url": "https://drive.usercontent.google.com/download?id=12AtJcytcA73uZfQuF32xBpUjCdShYbLo&export=download&confirm=t",
+      "bytes": 129020756,
+      "filename": "briar-vess-chitubox.zip"
+    },
+    "chibi-chitubox.zip": {
+      "status": "ok",
+      "url": "https://drive.usercontent.google.com/download?id=1arTBE78mncIoDMDmzp1rHkmnnLT9EoIW&export=download&confirm=t",
+      "bytes": 109517817,
+      "filename": "chibi-chitubox.zip"
+    },
+    "diorama-chitubox.zip": {
+      "status": "ok",
+      "url": "https://drive.usercontent.google.com/download?id=1ULMObK4a4pnPcHZkWrmCmklNk0VhVvHt&export=download&confirm=t",
+      "bytes": 51589421,
+      "filename": "diorama-chitubox.zip"
+    },
+    "march-hare-chitubox.zip": {
+      "status": "ok",
+      "url": "https://drive.usercontent.google.com/download?id=13UIEYsr_YwEeQvbUbyWeEeKih475LikG&export=download&confirm=t",
+      "bytes": 54379092,
+      "filename": "march-hare-chitubox.zip"
+    },
+    "wolfsbane-chitubox.zip": {
+      "status": "ok",
+      "url": "https://drive.usercontent.google.com/download?id=1vrK-d_I6fTqdYuzXbjhvx1nusuvXSTzT&export=download&confirm=t",
+      "bytes": 92865154,
+      "filename": "wolfsbane-chitubox.zip"
+    }
+  },
+  "all": {
+    "path": "https://drive.usercontent.google.com/download?id=1R7u7cpIWenurWHEeNIqOUXtv9AFyzlHV&export=download&confirm=t",
+    "bytes": 3177166030,
+    "files": 327,
+    "archiveName": "cursed-tales-2-complete.zip",
+    "fallback": false,
+    "caption": "Скачать всю коллекцию",
+    "partial": true,
+    "unavailableReason": "В этом ZIP пока нет последних рендеров Madame Corvin и бюстов"
+  }
+}

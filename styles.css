@@ -50,3 +50,8 @@ dialog#gallery{border:1px solid #876046;background:#110c0f;color:var(--ink);padd
 .bust-section .card-body{text-align:center}
 .bust-section .character-title{text-align:center}
 @media(max-width:600px){.bust-section .grid{grid-template-columns:1fr;gap:20px}.bust-section .cover{width:320px;aspect-ratio:80/92}.bust-section .card{padding:22px 0}}
+
+/* Unavailable downloads remain visually distinct in cards and file lists. */
+.download-unavailable[aria-disabled=true],.button.download-partial{border:2px solid #ff5266!important;background:#29171c!important;color:#ffb4bd!important;box-shadow:none;pointer-events:none}
+.button.download-partial{pointer-events:auto}
+.file-row.download-unavailable{padding:11px 8px;margin:4px 0}
