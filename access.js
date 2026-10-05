@@ -49,7 +49,7 @@
       if (!global.startLibrary) {
         await new Promise((resolve, reject) => {
           const script = document.createElement('script');
-          script.src = 'app.js?v=tiers-20261005';
+          script.src = 'app.js?v=core-no-pets-20261005';
           script.onload = resolve;
           script.onerror = reject;
           document.head.append(script);

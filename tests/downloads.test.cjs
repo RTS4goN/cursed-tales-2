@@ -57,7 +57,15 @@ test('Every button in every real backer tier', {skip: !privatePresent}, async t 
     }
     assert.ok(catalog.items.find(i=>i.id==='march-hare').files.some(f=>f.name==='bust.stl'),'Perrine torso must remain');
    }
-   for(const id of ['chibi-cat','chibi-rabbit','chibi-goat','adeline-key','march-hare','madame-corvin','the-beast'])assert.ok(catalog.items.some(i=>i.id===id),'Shared unlock missing: '+id);
+   for(const id of ['adeline-key','march-hare','madame-corvin','the-beast'])assert.ok(catalog.items.some(i=>i.id===id),'Shared unlock missing: '+id);
+   for(const id of ['chibi-cat','chibi-rabbit','chibi-goat'])assert.equal(catalog.items.some(i=>i.id===id),tier!=='core','Pet entitlement: '+id);
+   if(tier==='core'){
+    assert.equal(doc.querySelector('#chibi'),null,'Core must not render the pets section');
+    assert.ok(!JSON.stringify(catalog).includes('chibi-'),'No pet IDs, assets or download links in Core');
+    assert.ok(catalog.items.every(i=>i.files.every(f=>!f.shared&&!/chibi/i.test(f.relative))));
+    assert.equal(catalog.all.archiveName,'ct2-core-collection-no-pets-20261005.zip');
+   }else assert.equal(doc.querySelectorAll('#chibi .card').length,3);
+
   });
   for(const item of catalog.items){
    const original=source.items.find(i=>i.id===item.id);

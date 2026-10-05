@@ -19,7 +19,7 @@ function sectionHeader(title,description){
 function render(){
   const root=$('#cards');root.replaceChildren();
   window.CAMPAIGN.sections.forEach((section,i)=>{
-    const id=sectionIds[i];const block=document.createElement('section');block.id=id;
+    const id=sectionIds[i];if(id==='chibi'&&data.access?.chibi===false)return;const block=document.createElement('section');block.id=id;
     block.className='campaign-section '+id+'-section'+(section.bust?' bust-section':'');
     block.append(sectionHeader(section.title,id==='core'&&data.tier==='core'?'Четыре главы Grimmswood. Версии SFW.':section.description));
     if(data.access&&((section.bust&&!data.access.busts)||(id==='diorama'&&!data.access.diorama))){
