@@ -30,26 +30,26 @@
     if (loading) return;
     const access = parseAccess(location.hash);
     if (!access) {
-      $('#access-title').textContent = 'Библиотека бекера';
-      $('#access-message').textContent = 'Откройте ссылку на ваш набор из сообщения Kickstarter.';
+      $('#access-title').textContent = 'Backer Library';
+      $('#access-message').textContent = 'Open your set’s access link from your Kickstarter message.';
       $('#access-retry').hidden = true;
       document.body.dataset.accessState = 'locked';
       return;
     }
     loading = true;
     document.body.dataset.accessState = 'loading';
-    $('#access-title').textContent = 'Открываем ваш набор…';
+    $('#access-title').textContent = 'Opening your set…';
     $('#access-message').textContent = '';
     $('#access-retry').hidden = true;
     try {
-      const response = await fetch('access/' + access.tier + '.bin?v=tiers-20261005', {cache: 'no-cache'});
+      const response = await fetch('access/' + access.tier + '.bin?v=english-20261006', {cache: 'no-cache'});
       if (!response.ok) throw new Error('Catalog unavailable');
       const catalog = await decryptCatalog(await response.arrayBuffer(), access);
       global.CATALOG = catalog;
       if (!global.startLibrary) {
         await new Promise((resolve, reject) => {
           const script = document.createElement('script');
-          script.src = 'app.js?v=core-no-pets-20261005';
+          script.src = 'app.js?v=english-20261006';
           script.onload = resolve;
           script.onerror = reject;
           document.head.append(script);
@@ -60,7 +60,7 @@
       $('#tier-description').textContent = catalog.tierDescription;
       $('.package-label').textContent = catalog.tierLabel;
       $('.all-panel').setAttribute('aria-label', catalog.tierLabel);
-      $('.archive-copy p').textContent = 'Все доступные файлы вашего набора одним ZIP.';
+      $('.archive-copy p').textContent = 'All available files in your set in one ZIP.';
       document.title = catalog.tierLabel + ' — Cursed Tales II';
       $('#access-gate').hidden = true;
       $('#tier-summary').hidden = false;
@@ -69,8 +69,8 @@
       document.body.dataset.accessState = 'ready';
     } catch (error) {
       global.CATALOG = null;
-      $('#access-title').textContent = 'Не удалось открыть набор';
-      $('#access-message').textContent = 'Проверьте, что ссылка скопирована целиком. Если она верная, попробуйте ещё раз или напишите создателю на Kickstarter.';
+      $('#access-title').textContent = 'Unable to open your set';
+      $('#access-message').textContent = 'Check that you copied the entire link. If it is correct, try again or contact the creator on Kickstarter.';
       $('#access-retry').hidden = false;
       document.body.dataset.accessState = 'error';
     } finally {

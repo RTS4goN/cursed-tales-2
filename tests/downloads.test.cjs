@@ -24,6 +24,14 @@ test('Every button in every real backer tier', {skip: !privatePresent}, async t 
   assert.ok(doc.querySelector('#access-gate').hidden);assert.equal(doc.querySelector('#collection').hidden,false);
   // app.js adds public lore to its own runtime copy.
   assert.deepEqual(JSON.parse(JSON.stringify(w.CATALOG.items.map(i=>i.files))),catalog.items.map(i=>i.files));
+  function assertEnglishUI(){
+   assert.equal(doc.documentElement.lang,'en');
+   assert.doesNotMatch(doc.body.textContent,/[А-Яа-яЁё]/u,'All interface text must be English');
+   for(const el of doc.querySelectorAll('[aria-label],[title],[alt]')){
+    for(const attr of ['aria-label','title','alt'])assert.doesNotMatch(el.getAttribute(attr)||'',/[А-Яа-яЁё]/u,attr+' must be English');
+   }
+  }
+  await t.test(tier+': English library',assertEnglishUI);
   function checkLink(el,p,control){
    assert.ok(el,control+': missing control');
    if(p?.path){
@@ -96,6 +104,9 @@ test('Every button in every real backer tier', {skip: !privatePresent}, async t 
       const prefix=f.shared?'Общие файлы Chibi/':'Персонажи/'+original.name+'/';assert.ok([f.relative,prefix+f.relative].includes(m.name));
      }
     });
+    await t.test(`${tier}/${item.id}/${view}/English gallery`,assertEnglishUI);
+    const nsfw=doc.querySelector('[data-variant="NSFW"]');
+    if(!doc.querySelector('#gallery-variants').hidden){nsfw.click();assertEnglishUI();doc.querySelector('[data-variant="SFW"]').click();}
     doc.querySelector('#close-gallery').click();assert.equal(doc.querySelector('#gallery').open,false);
    }
   }
