@@ -47,6 +47,31 @@ test('Every button in every real backer tier', {skip: !privatePresent}, async t 
    controls.push({tier,control,status:p?.path?p.partial?'partial':'ready':'unavailable',archive:p?.archiveName||null});
   }
   await t.test(tier+': whole tier',()=>checkLink(doc.querySelector('#download-all'),catalog.all,'collection'));
+  await t.test(tier+': new render packs and Wynne bust',()=>{
+   for(const id of ['adeline-key','march-hare']){
+    const item=catalog.items.find(i=>i.id===id);
+    assert.equal(item.gallery.length,4);
+    assert.equal(item.previewNote,'');
+    assert.equal(item.files.filter(f=>f.type==='render'&&f.name.endsWith('.png')).length,4);
+    assert.equal(item.files.filter(f=>f.type==='render'&&f.name.endsWith('.mp4')).length,1);
+    for(const g of item.gallery)assert.ok(fs.existsSync(path.join(root,g.src)));
+   }
+   const wynne=catalog.items.find(i=>i.id==='wynne-madigan');
+   assert.equal(wynne.bust,tier==='complete');
+   assert.equal(wynne.files.filter(f=>f.type==='stl'&&f.relative.startsWith('STL/Бюст/')).length,tier==='complete'?4:0);
+   assert.equal(wynne.files.some(f=>f.name==='WynneBust.chitubox'),tier==='complete');
+  });
+  await t.test(tier+': collection completeness is disclosed',()=>{
+   if(!catalog.all.path)return;
+   const members=archives[catalog.all.archiveName].members;
+   const missing=catalog.items.flatMap(i=>i.files.map(f=>({i,f}))).filter(({i,f})=>{
+    const original=source.items.find(x=>x.id===i.id);
+    const prefix=f.shared?'Общие файлы Chibi/':'Персонажи/'+original.name+'/';
+    return !members.some(m=>m.name===prefix+f.relative&&m.bytes===f.bytes&&m.crc===legacy.items[i.id].files[f.key].crc);
+   });
+   assert.equal(Boolean(catalog.all.partial),missing.length>0);
+   if(missing.length)assert.ok(catalog.all.unavailableReason);
+  });
   await t.test(tier+': entitlement boundaries',()=>{
    if(tier!=='complete'){
     assert.equal(doc.querySelectorAll('#busts .card,#diorama .card').length,0);
@@ -71,7 +96,7 @@ test('Every button in every real backer tier', {skip: !privatePresent}, async t 
     assert.equal(doc.querySelector('#chibi'),null,'Core must not render the pets section');
     assert.ok(!JSON.stringify(catalog).includes('chibi-'),'No pet IDs, assets or download links in Core');
     assert.ok(catalog.items.every(i=>i.files.every(f=>!f.shared&&!/chibi/i.test(f.relative))));
-    assert.equal(catalog.all.archiveName,'ct2-core-collection-no-pets-20261005.zip');
+    assert.match(catalog.all.archiveName,/^ct2-core-collection-no-pets-\d{8}\.zip$/);
    }else assert.equal(doc.querySelectorAll('#chibi .card').length,3);
 
   });
