@@ -72,6 +72,16 @@ test('Every button in every real backer tier', {skip: !privatePresent}, async t 
    assert.equal(Boolean(catalog.all.partial),missing.length>0);
    if(missing.length)assert.ok(catalog.all.unavailableReason);
   });
+  await t.test(tier+': existing Wynne figure remains downloadable',()=>{
+   const wynne=catalog.items.find(i=>i.id==='wynne-madigan');
+   assert.ok(wynne.model.path,'Existing figure archive must remain linked when a bust is added');
+   assert.ok(wynne.chitubox.path || tier==='core');
+   if(tier==='complete'){
+    assert.equal(wynne.model.scope,'figure');
+    const bustFiles=wynne.files.filter(f=>f.relative.startsWith('STL/Бюст/'));
+    assert.equal(Boolean(wynne.bustModel.path),bustFiles.every(f=>f.path));
+   }
+  });
   await t.test(tier+': entitlement boundaries',()=>{
    if(tier!=='complete'){
     assert.equal(doc.querySelectorAll('#busts .card,#diorama .card').length,0);
@@ -104,10 +114,10 @@ test('Every button in every real backer tier', {skip: !privatePresent}, async t 
    const original=source.items.find(i=>i.id===item.id);
    const card=doc.querySelector(`.card[data-character="${item.id}"][data-view="figure"]`);assert.ok(card);
    for(const [n,kind] of ['model','renders'].entries())await t.test(`${tier}/${item.id}/card/${kind}`,()=>checkLink(card.querySelectorAll('.card-downloads a')[n],item[kind],item.id+'/card/'+kind));
-   for(const kind of ['model','renders','chitubox','bustRenders'])await t.test(`${tier}/${item.id}/package-contents/${kind}`,()=>{
+   for(const kind of ['model','renders','chitubox','bustRenders','bustModel'])await t.test(`${tier}/${item.id}/package-contents/${kind}`,()=>{
     const p=item[kind];if(!p?.path)return;
-    const required=item.files.filter(f=>kind==='model'?['stl','chitubox'].includes(f.type)&&!f.shared:kind==='chitubox'?f.type==='chitubox':f.type==='render'&&(kind==='bustRenders'?f.relative.startsWith('Рендеры/Бюст/'):!f.relative.startsWith('Рендеры/Бюст/')));
-    for(const f of required){
+    const required=item.files.filter(f=>(kind==='model'||kind==='bustModel')?['stl','chitubox'].includes(f.type)&&!f.shared:kind==='chitubox'?f.type==='chitubox':f.type==='render'&&(kind==='bustRenders'?f.relative.startsWith('Рендеры/Бюст/'):!f.relative.startsWith('Рендеры/Бюст/')));
+    for(const f of required.filter(f=>p.scope!=='figure'||!(f.relative.startsWith('STL/Бюст/')||(f.type==='chitubox'&&/bust/i.test(f.name))))){
      const prefix=f.shared?'Общие файлы Chibi/':'Персонажи/'+original.name+'/';
      assert.ok(archives[p.archiveName].members.some(m=>[f.relative,prefix+f.relative].includes(m.name)&&m.bytes===f.bytes&&m.crc===legacy.items[item.id].files[f.key].crc),kind+': package misses '+f.relative);
     }
@@ -117,7 +127,7 @@ test('Every button in every real backer tier', {skip: !privatePresent}, async t 
     c.querySelector('.cover').click();assert.equal(doc.querySelector('#gallery').open,true);
     assert.equal(doc.querySelector('#gallery').dataset.character,item.id);assert.equal(doc.querySelector('#gallery').dataset.view,view);
     if(tier==='core')assert.ok(doc.querySelector('#gallery-variants').hidden);
-    const kinds=view==='bust'?['model','bustRenders']:['model','renders',...(item.chitubox?['chitubox']:[])];
+    const kinds=view==='bust'?[item.bustModel===undefined?'model':'bustModel','bustRenders']:['model','renders',...(item.chitubox?['chitubox']:[])];
     for(const [n,kind] of kinds.entries())await t.test(`${tier}/${item.id}/${view}/${kind}`,()=>checkLink(doc.querySelectorAll('#character-downloads a')[n],view==='bust'&&kind==='model'&&!item.bust?null:item[kind],item.id+'/'+view+'/'+kind));
     const files=item.files.filter(f=>view!=='bust'||(f.type==='render'?f.relative.startsWith('Рендеры/Бюст/'):/bust/i.test(f.relative)));
     assert.equal(doc.querySelectorAll('#character-file-list a').length,files.length);
