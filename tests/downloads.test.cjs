@@ -119,7 +119,7 @@ test('Every button in every real backer tier', {skip: !privatePresent}, async t 
     const required=item.files.filter(f=>(kind==='model'||kind==='bustModel')?['stl','chitubox'].includes(f.type)&&!f.shared:kind==='chitubox'?f.type==='chitubox':f.type==='render'&&(kind==='bustRenders'?f.relative.startsWith('Рендеры/Бюст/'):!f.relative.startsWith('Рендеры/Бюст/')));
     for(const f of required.filter(f=>p.scope!=='figure'||!(f.relative.startsWith('STL/Бюст/')||(f.type==='chitubox'&&/bust/i.test(f.name))))){
      const prefix=f.shared?'Общие файлы Chibi/':'Персонажи/'+original.name+'/';
-     assert.ok(archives[p.archiveName].members.some(m=>[f.relative,prefix+f.relative].includes(m.name)&&m.bytes===f.bytes&&m.crc===legacy.items[item.id].files[f.key].crc),kind+': package misses '+f.relative);
+     assert.ok(archives[p.archiveName].members.some(m=>[f.relative,prefix+f.relative,f.sourceRelative].includes(m.name)&&m.bytes===f.bytes&&m.crc===legacy.items[item.id].files[f.key].crc),kind+': package misses '+f.relative);
     }
    });
    for(const view of ['figure','bust']){
@@ -136,7 +136,7 @@ test('Every button in every real backer tier', {skip: !privatePresent}, async t 
      if(f.path){
       const m=archives[f.archiveName].members.find(m=>m.name===f.archiveMember);assert.ok(m);assert.equal(m.bytes,f.bytes);
       assert.equal(m.crc,legacy.items[item.id].files[f.key].crc);
-      const prefix=f.shared?'Общие файлы Chibi/':'Персонажи/'+original.name+'/';assert.ok([f.relative,prefix+f.relative].includes(m.name));
+      const prefix=f.shared?'Общие файлы Chibi/':'Персонажи/'+original.name+'/';assert.ok([f.relative,prefix+f.relative,f.sourceRelative].includes(m.name));
      }
     });
     await t.test(`${tier}/${item.id}/${view}/English gallery`,assertEnglishUI);

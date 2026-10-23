@@ -32,6 +32,17 @@ class RemoteZip(io.RawIOBase):
 def inspect(pair):
  name,url=pair
  try:
+  if name.lower().endswith('.rar'):
+   import hashlib
+   expected=proof[name];digest=hashlib.sha256();total=0
+   with urllib.request.urlopen(url,timeout=90) as response:
+    m=email.message.Message();m['Content-Disposition']=response.headers.get('Content-Disposition','')
+    assert m.get_filename()==name,'Wrong RAR filename'
+    for block in iter(lambda:response.read(4*1024*1024),b''):
+     digest.update(block);total+=len(block)
+   assert total==expected['bytes'],'RAR size changed'
+   assert digest.hexdigest()==expected['sha256'],'RAR content changed'
+   return name,{**expected,'status':'ok'}
   stream=RemoteZip(url);assert stream.prefix==b'PK\x03\x04','Response is not ZIP';assert stream.filename==name,f'Wrong filename: {stream.filename}'
   with zipfile.ZipFile(stream) as z:members=[{'name':x.filename,'bytes':x.file_size,'crc':x.CRC} for x in z.infolist() if not x.is_dir()]
   return name,{'status':'ok','url':url,'bytes':stream.total,'filename':stream.filename,'members':members}
