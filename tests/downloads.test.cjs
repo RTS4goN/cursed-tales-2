@@ -11,6 +11,8 @@ const read = name => JSON.parse(fs.readFileSync(path.join(privateDir, name), 'ut
 test('Every button in every real backer tier', {skip: !privatePresent}, async t => {
  const keys=read('Ключи доступа.json'), catalogs=read('Каталоги тиров.json');
  const archives=read('Архивы для тестов.json'), source=read('source-catalog.json'), legacy=read('download-contract.json');
+ const directPath=path.join(privateDir,'Прямые файлы бюста.json');
+ const direct=fs.existsSync(directPath)?read('Прямые файлы бюста.json'):null;
  const controls=[];
  for(const tier of ['core','full','complete']){
   const allowed=tier==='complete'?null:new Set(read('allowed-'+tier+'.json').map(x=>JSON.stringify(x)));
@@ -36,6 +38,16 @@ test('Every button in every real backer tier', {skip: !privatePresent}, async t 
    assert.ok(el,control+': missing control');
    if(p?.path){
     assert.equal(el.getAttribute('href'),p.path,control);assert.equal(el.getAttribute('aria-disabled'),null);
+    if(p.downloadKind==='folder'||p.downloadKind==='file'){
+     assert.equal(tier,'complete','Direct bust access must stay Complete-only');
+     assert.ok(direct);
+     if(p.downloadKind==='folder'){
+      assert.equal(p.path,direct.folder_url);assert.equal(p.files,4);assert.equal(p.scope,'bust-stl');
+     }else{
+      const f=direct.files.find(f=>f.url===p.path);assert.ok(f);assert.equal(f.bytes,p.bytes);assert.ok(f.anonymous_download_matches_local);
+     }
+     controls.push({tier,control,status:'ready',kind:p.downloadKind});return;
+    }
     const proof=archives[p.archiveName];assert.equal(proof?.status,'ok',control+': unverified ZIP');
     assert.equal(proof.url,p.path);assert.equal(el.dataset.archive,p.archiveName);
     if(allowed)for(const m of proof.members)assert.ok(allowed.has(JSON.stringify([m.name,m.bytes,m.crc])),control+': higher-tier member '+m.name);
@@ -116,6 +128,12 @@ test('Every button in every real backer tier', {skip: !privatePresent}, async t 
    for(const [n,kind] of ['model','renders'].entries())await t.test(`${tier}/${item.id}/card/${kind}`,()=>checkLink(card.querySelectorAll('.card-downloads a')[n],item[kind],item.id+'/card/'+kind));
    for(const kind of ['model','renders','chitubox','bustRenders','bustModel'])await t.test(`${tier}/${item.id}/package-contents/${kind}`,()=>{
     const p=item[kind];if(!p?.path)return;
+    if(p.downloadKind==='folder'){
+     const files=item.files.filter(f=>f.type==='stl'&&f.relative.startsWith('STL/Бюст/'));
+     assert.equal(files.length,4);
+     for(const f of files){const verified=direct.files.find(x=>x.relative===f.relative);assert.ok(verified);assert.equal(f.path,verified.url);assert.equal(f.bytes,verified.bytes);assert.equal(verified.crc,legacy.items[item.id].files[f.key].crc);}
+     return;
+    }
     const required=item.files.filter(f=>(kind==='model'||kind==='bustModel')?['stl','chitubox'].includes(f.type)&&!f.shared:kind==='chitubox'?f.type==='chitubox':f.type==='render'&&(kind==='bustRenders'?f.relative.startsWith('Рендеры/Бюст/'):!f.relative.startsWith('Рендеры/Бюст/')));
     for(const f of required.filter(f=>p.scope!=='figure'||!(f.relative.startsWith('STL/Бюст/')||(f.type==='chitubox'&&/bust/i.test(f.name))))){
      const prefix=f.shared?'Общие файлы Chibi/':'Персонажи/'+original.name+'/';
@@ -133,7 +151,9 @@ test('Every button in every real backer tier', {skip: !privatePresent}, async t 
     assert.equal(doc.querySelectorAll('#character-file-list a').length,files.length);
     for(const f of files)await t.test(`${tier}/${item.id}/${view}/${f.relative}`,()=>{
      const el=[...doc.querySelectorAll('#character-file-list a')].find(e=>e.dataset.fileKey===f.key);checkLink(el,f,item.id+'/'+view+'/'+f.relative);
-     if(f.path){
+     if(f.path&&f.downloadKind==='file'){
+      const proof=direct.files.find(x=>x.url===f.path);assert.ok(proof);assert.equal(proof.relative,f.relative);assert.equal(proof.bytes,f.bytes);assert.equal(proof.crc,legacy.items[item.id].files[f.key].crc);
+     }else if(f.path){
       const m=archives[f.archiveName].members.find(m=>m.name===f.archiveMember);assert.ok(m);assert.equal(m.bytes,f.bytes);
       assert.equal(m.crc,legacy.items[item.id].files[f.key].crc);
       const prefix=f.shared?'Общие файлы Chibi/':'Персонажи/'+original.name+'/';assert.ok([f.relative,prefix+f.relative,f.sourceRelative].includes(m.name));
